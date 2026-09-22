@@ -1,8 +1,8 @@
 import csv
 from datetime import datetime
 
-input_file = "consumer_price_index_US.csv"
-output_file = "consumer_price_index_US_ordered.csv"
+input_file = "fuel_price_US.csv"
+output_file = "fuel_price_US_ordered.csv"
 date_column = "observation_date"
 date_format = "%Y-%m-%d" #"%Y-%m-%d %H:%M:%S"
 
