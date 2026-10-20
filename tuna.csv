@@ -1,0 +1,630 @@
+specimen_id,speciesID,date,latitude,longitude,length_cm,weight_kg,wetTHg_ng_g,reference
+SIO-ALEP-0001,Alepisaurus ferox,2021-12,30,-120,112,2.703498,20.81100465,this study
+SIO-ALEP-0002,Alepisaurus ferox,,,,122,3.422798,57.19317696,this study
+SIO-ALEP-0003,Alepisaurus ferox,2021-02,20,-135,61,0.5058166,15.77487495,this study
+SIO-ALEP-0004,Alepisaurus ferox,2019-10,35,-130,85.5,1.1973,27.58864884,this study
+SIO-ALEP-0005,Alepisaurus ferox,2019-11,35,-130,81.2,1.0168,21.94519551,this study
+SIO-ALEP-0006,Alepisaurus ferox,2019-11,35,-130,92,2.2859,40.61943382,this study
+SIO-ALEP-0007,Alepisaurus ferox,2019-10,35,-130,82.5,1.1369,34.75527179,this study
+SIO-ALEP-0008,Alepisaurus ferox,2021-03,25,-130,51.3,0.2395,14.9269745,this study
+SIO-ALEP-0009,Alepisaurus ferox,2021-03,25,-130,54.7,0.3457,13.72532352,this study
+SIO-ALEP-0011,Alepisaurus ferox,2022-03,20,-140,82.5,1.1896,6.726878732,this study
+SIO-ALEP-0012,Alepisaurus ferox,2022-03,20,-140,117.5,3.6384,53.41528742,this study
+SIO-ALEP-0013,Alepisaurus ferox,2022-03,20,-135,41.2,0.1844,6.064434036,this study
+SIO-ALEP-0014,Alepisaurus ferox,2018-01,20,-160,57,0.2264,10.07275902,this study
+SIO-ALEP-0015,Alepisaurus ferox,2018-01,20,-160,62,0.2387,6.959878901,this study
+SIO-ALEP-0017,Alepisaurus ferox,2018-01,25,-155,70,0.3802,14.61219739,this study
+SIO-ALEP-0018,Alepisaurus ferox,2018-01,20,-160,64,0.3754,7.729425042,this study
+SIO-ALEP-0019,Alepisaurus ferox,2018-01,25,-155,77,0.9617106,14.68153787,this study
+SIO-ALEP-0020,Alepisaurus ferox,,,,126,2.7593,144.5515574,this study
+SIO-ALEP-0021,Alepisaurus ferox,2022-08,25,-140,32.5,0.0611,6.85573013,this study
+SIO-ALEP-0022,Alepisaurus ferox,2022-08,25,-140,40,0.1566,12.77342052,this study
+SIO-ALEP-0023,Alepisaurus ferox,2022-08,25,-140,50,0.2922,15.72654459,this study
+SIO-ALEP-0024,Alepisaurus ferox,2022-10,20,-130,48,0.2397,11.15588597,this study
+SIO-ALEP-0025,Alepisaurus ferox,2022-08,25,-140,63.5,0.4471,15.47064065,this study
+SIO-ALEP-0026,Alepisaurus ferox,2022-10,20,-130,68,0.6771,8.098246027,this study
+SIO-ALEP-0027,Alepisaurus ferox,2022-10,20,-130,82,1.076,10.0741757,this study
+SIO-ALEP-0028,Alepisaurus ferox,2022-10,20,-130,41,0.1364,12.1975645,this study
+SIO-ALEP-0029,Alepisaurus ferox,2022-09,25,-140,130,2.9605,62.90836668,this study
+SIO-ALEP-0030,Alepisaurus ferox,2022-08,25,-140,80.5,0.8083,9.145075958,this study
+SIO-ALEP-0031,Alepisaurus ferox,2022-08,25,-140,124,2.5557,98.51866073,this study
+SIO-ALEP-0032,Alepisaurus ferox,2022-08,25,-140,138.5,3.8713,176.1939141,this study
+SIO-ALEP-0033,Alepisaurus ferox,2022-08,25,-140,36.1,0.0513,6.924041924,this study
+SIO-ALEP-0034,Alepisaurus ferox,2022-09,25,-140,76,0.6848,9.465643337,this study
+SIO-ALEP-0035,Alepisaurus ferox,2022-09,25,-140,125,3.2425,62.5474458,this study
+SIO-ALEP-0037,Alepisaurus ferox,2022-09,25,-140,116,3.2704,43.15898405,this study
+SIO-ALEP-0038,Alepisaurus ferox,2022-09,25,-140,129,3.516,101.0746012,this study
+SIO-ALEP-0039,Alepisaurus ferox,2023-01,25,-135,53,0.2775,8.339226716,this study
+SIO-ALEP-0040,Alepisaurus ferox,2023-01,20,-130,46.5,0.3191,11.09528345,this study
+SIO-ALEP-0041,Alepisaurus ferox,2023-02,25,-130,63,0.5082,7.568552088,this study
+SIO-ALEP-0042,Alepisaurus ferox,2023-01,20,-130,105.5,2.1691,40.62759363,this study
+SIO-ALEP-0043,Alepisaurus ferox,2023-02,25,-130,122.5,3.2006,85.54887021,this study
+SIO-ALEP-0044,Alepisaurus ferox,2023-01,20,-130,140,2.981,87.11019371,this study
+SIO-ALEP-0045,Alepisaurus ferox,2023-01,20,-130,113,2.3313,60.40968553,this study
+SIO-ALEP-0046,Alepisaurus ferox,2023-01,20,-130,123.5,2.6367,51.29883497,this study
+SIO-ALEP-0047,Alepisaurus ferox,2023-01,20,-130,128.5,3.1558,70.32757429,this study
+SIO-ALEP-0048,Alepisaurus ferox,2023-01,25,-130,135,3.499,41.34447757,this study
+SIO-ALEP-0049,Alepisaurus ferox,2023-01,20,-130,123.5,3.24,51.66138812,this study
+SIO-ALEP-0050,Alepisaurus ferox,2023-04,25,-140,47.5,0.2786,8.729585603,this study
+SIO-ALEP-0051,Alepisaurus ferox,2023-04,25,-140,50.9,0.1735,15.49067515,this study
+SIO-ALEP-0052,Alepisaurus ferox,2023-04,25,-140,55.5,0.2687,7.783290306,this study
+SIO-ALEP-0053,Alepisaurus ferox,2023-04,25,-140,54.5,0.3757,10.69507482,this study
+SIO-ALEP-0054,Alepisaurus ferox,2023-04,25,-140,66,0.5861,7.229517114,this study
+SIO-ALEP-0055,Alepisaurus ferox,2023-05,20,-140,55,0.3142,10.59469296,this study
+SIO-ALEP-0056,Alepisaurus ferox,2023-05,20,-140,68.5,0.6123,10.47585908,this study
+SIO-ALEP-0057,Alepisaurus ferox,2023-05,20,-140,68,0.573,14.2727247,this study
+SIO-ALEP-0058,Alepisaurus ferox,2023-05,20,-140,51,0.2612,11.61719138,this study
+SIO-ALEP-0059,Alepisaurus ferox,2023-05,20,-140,96.5,1.7451,15.3986278,this study
+SIO-ALEP-0060,Alepisaurus ferox,2023-05,20,-140,63.5,0.4733,5.727125025,this study
+SIO-ALEP-0061,Alepisaurus ferox,2023-04,20,-140,53.5,0.2817,10.65506047,this study
+SIO-ALEP-0062,Alepisaurus ferox,2023-05,20,-140,67,0.6433,11.41131177,this study
+SIO-ALEP-0063,Alepisaurus ferox,2023-05,20,-140,119,2.693,128.7003316,this study
+SIO-ALEP-0064,Alepisaurus ferox,2023-06,20,-140,38,0.116,6.473764796,this study
+SIO-ALEP-0065,Alepisaurus ferox,2023-06,20,-140,69.3,0.4297,11.78397823,this study
+SIO-ALEP-0066,Alepisaurus ferox,2023-06,20,-140,60,0.4664,10.83296953,this study
+SIO-ALEP-0067,Alepisaurus ferox,2023-05,20,-140,131.4,3.1772,41.42688038,this study
+SIO-ALEP-0068,Alepisaurus ferox,2023-05,20,-140,134,3.9208,42.89805484,this study
+SIO-ALEP-0069,Alepisaurus ferox,2023-09,25,-140,66.5,0.5483,9.750666921,this study
+SIO-ALEP-0070,Alepisaurus ferox,2023-09,30,-140,75,0.8455,16.87909863,this study
+SIO-ALEP-0071,Alepisaurus ferox,2023-09,30,-140,74,0.5723,21.71252475,this study
+SIO-ALEP-0072,Alepisaurus ferox,2023-09,20,-140,114,3.2425,161.1338447,this study
+B-Yft-01,Thunnus albacares,2007-06,10,-160,137,47.23001008,500.74,Choy et al. 2009; Choy 2013
+B-Yft-02,Thunnus albacares,2007-05,15,-165,127,37.94099894,274.4197,Choy et al. 2009; Choy 2013
+B-Yft-03,Thunnus albacares,2007-05,15,-165,127,37.94099894,321.9391,Choy et al. 2009; Choy 2013
+B-Yft-04,Thunnus albacares,2007-07,30,-160,83,11.10110536,418.9774,Choy et al. 2009; Choy 2013
+B-Yft-05,Thunnus albacares,2007-09,20,-155,112,26.38699509,116.4292,Choy et al. 2009; Choy 2013
+B-Yft-06,Thunnus albacares,2007-10,15,-165,111,25.71198904,262.9054,Choy et al. 2009; Choy 2013
+B-Yft-07,Thunnus albacares,2007-10,15,-165,122,33.78366278,183.8057,Choy et al. 2009; Choy 2013
+B-Yft-08,Thunnus albacares,2007-10,15,-165,120,32.20809768,152.4757,Choy et al. 2009; Choy 2013
+B-Yft-10,Thunnus albacares,2007-10,15,-165,122,33.78366278,130.0547,Choy et al. 2009; Choy 2013
+B-Yft-12,Thunnus albacares,2007-10,15,-165,119,31.4386758,124.1981,Choy et al. 2009; Choy 2013
+B-Yft-13,Thunnus albacares,2007-10,15,-165,121,32.98972985,154.0868,Choy et al. 2009; Choy 2013
+B-Yft-16,Thunnus albacares,2007-11,25,-160,63,5.004941005,184.425,Choy et al. 2009; Choy 2013
+B-Yft-17,Thunnus albacares,2007-10,25,-160,141,51.32525144,401.4719,Choy et al. 2009; Choy 2013
+B-Yft-18,Thunnus albacares,2008-02,15,-165,128,38.81063138,364.5345,Choy et al. 2009; Choy 2013
+B-Yft-19,Thunnus albacares,2008-02,20,-155,107,23.12497466,298.1986,Choy et al. 2009; Choy 2013
+B-Yft-20,Thunnus albacares,2008-02,20,-155,105,21.89799251,230.1498,Choy et al. 2009; Choy 2013
+B-Yft-21,Thunnus albacares,2008-02,20,-165,97,17.41641961,256.1665,Choy et al. 2009; Choy 2013
+B-Yft-22,Thunnus albacares,2008-02,20,-165,79,9.624676274,224.8549,Choy et al. 2009; Choy 2013
+B-Yft-23,Thunnus albacares,2008-02,20,-165,78,9.276852875,217.5216,Choy et al. 2009; Choy 2013
+B-Yft-24,Thunnus albacares,2008-02,20,-165,83,11.10110536,205.4362,Choy et al. 2009; Choy 2013
+B-Yft-25,Thunnus albacares,2008-02,20,-165,82,10.7190386,216.5181,Choy et al. 2009; Choy 2013
+B-Yft-26,Thunnus albacares,2008-02,20,-165,70,6.785935709,206.0062,Choy et al. 2009; Choy 2013
+B-Yft-27,Thunnus albacares,2008-02,20,-165,78,9.276852875,333.1447,Choy et al. 2009; Choy 2013
+B-Yft-60,Thunnus albacares,2009-11,30,-150,117,29.93610071,230.8831,Choy et al. 2009; Choy 2013
+B-Yft-61,Thunnus albacares,2009-11,20,-170,125,36.24016942,159.1121,Choy et al. 2009; Choy 2013
+B-Yft-62,Thunnus albacares,2010-03,30,-160,122,33.78366278,265.6395,Choy et al. 2009; Choy 2013
+B-Yft-63,Thunnus albacares,2010-10,15,-165,119,31.4386758,127.1661,Choy et al. 2009; Choy 2013
+D-Yft-66,Thunnus albacares,2011-07,20,-160,15,0.06,2.281,Choy et al. 2009; Choy 2013
+D-Yft-67,Thunnus albacares,2011-07,20,-160,13.9,0.046,1.6134,Choy et al. 2009; Choy 2013
+D-Yft-68,Thunnus albacares,2011-07,20,-160,14.9,0.058,3.9875,Choy et al. 2009; Choy 2013
+D-Yft-70,Thunnus albacares,2011-07,20,-160,19.1,0.113,4.5554,Choy et al. 2009; Choy 2013
+E-YFt-01,Thunnus albacares,2007-04,15,-160,84,10.5,196.5322,Choy et al. 2009; Choy 2013
+E-YFt-02,Thunnus albacares,2007-04,15,-160,85,11,112.42925,Choy et al. 2009; Choy 2013
+E-YFt-03,Thunnus albacares,2007-05,15,-160,54,3,94.8507,Choy et al. 2009; Choy 2013
+E-YFt-04,Thunnus albacares,2007-05,15,-160,54,3,135.2623,Choy et al. 2009; Choy 2013
+H-Yft-01,Thunnus albacares,2007-12,20,-160,66.5,5.851197688,230.1829,Choy et al. 2009; Choy 2013
+H-Yft-02,Thunnus albacares,2007-12,20,-160,69.4,6.619231841,180.7578,Choy et al. 2009; Choy 2013
+H-Yft-03,Thunnus albacares,2007-12,20,-160,52.9,3.02091646,147.20285,Choy et al. 2009; Choy 2013
+J-Yft-10,Thunnus albacares,2009-11,20,-160,62,4.778824326,147.8105,Choy et al. 2009; Choy 2013
+J-Yft-11,Thunnus albacares,2010-03,20,-160,38,1.15,54.4175,Choy et al. 2009; Choy 2013
+J-Yft-12,Thunnus albacares,2010-03,20,-160,39,1.252,83.716,Choy et al. 2009; Choy 2013
+J-Yft-13,Thunnus albacares,2010-03,20,-160,37,1.051,47.9696,Choy et al. 2009; Choy 2013
+,Thunnus albacares,,,,96.05667619,16.78291786,90,"Brooks, 2004"
+,Thunnus albacares,,,,104.0593361,21.3188416,110,"Brooks, 2004"
+,Thunnus albacares,,,,109.6770584,24.9475806,150,"Brooks, 2004"
+,Thunnus albacares,,,,115.3803433,29.02991197,200,"Brooks, 2004"
+,Thunnus albacares,,,,120.0169161,32.65865096,150,"Brooks, 2004"
+,Thunnus albacares,,,,121.6669935,34.01942809,190,"Brooks, 2004"
+,Thunnus albacares,,,,122.2072422,34.47302046,190,"Brooks, 2004"
+,Thunnus albacares,,,,126.367769,38.10175946,330,"Brooks, 2004"
+,Thunnus albacares,,,,126.8690067,38.55535183,290,"Brooks, 2004"
+,Thunnus albacares,,,,130.2722806,41.73049845,470,"Brooks, 2004"
+,Thunnus albacares,,,,132.5989808,43.99846033,160,"Brooks, 2004"
+,Thunnus albacares,,,,133.9568946,45.35923745,250,"Brooks, 2004"
+,Thunnus albacares,,,,135.2879613,46.72001457,200,"Brooks, 2004"
+,Thunnus albacares,,,,136.5934711,48.0807917,330,"Brooks, 2004"
+,Thunnus albacares,,,,139.5468163,51.25593832,370,"Brooks, 2004"
+,Thunnus albacares,,,,141.1800719,53.07030782,280,"Brooks, 2004"
+,Thunnus albacares,,,,143.9510509,56.24545444,360,"Brooks, 2004"
+,Thunnus albacares,,,,146.9932285,59.87419343,990,"Brooks, 2004"
+,Thunnus albacares,,,,148.8327188,62.14215531,460,"Brooks, 2004"
+,Thunnus albacares,,,,152.3818018,66.67807905,570,"Brooks, 2004"
+,Thunnus albacares,,,,91.59017338,14.55620763,102.2267942,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,96.45168055,16.99008364,203.3918985,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,100.0035797,18.92989043,124.1653826,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,101.6853707,19.89761192,182.461292,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,104.1047632,21.34667638,183.4406871,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,104.8858405,21.8290592,115.7234383,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,106.4127646,22.79291145,175.6794232,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,108.6212954,24.23650693,290.638412,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,108.6212954,24.23650693,124.475035,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,108.6212954,24.23650693,214.4005512,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,116.0146023,29.50959471,100.1617375,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,117.2580807,30.46527339,230.2664036,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,117.2580807,30.46527339,166.4775306,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,120.8332523,33.32724252,222.7835724,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,120.8332523,33.32724252,150.3025149,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,121.9774877,34.27963009,193.6650592,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,123.6531797,35.70679055,104.0423223,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,123.6531797,35.70679055,62.97195254,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,124.7446429,36.65731485,152.8653295,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,126.8700002,38.55625443,103.5926526,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,127.3899427,39.03056349,117.2012302,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,127.3899427,39.03056349,354.3622308,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,127.9055174,39.50470662,290.7901488,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,128.4168142,39.97868592,296.9504831,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,128.9239202,40.45250345,334.0430862,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,130.9120809,42.34619522,266.7603806,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,130.9120809,42.34619522,150.9496466,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,131.3994443,42.81923301,262.9770992,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,133.3123525,44.7098969,309.8367075,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,133.781777,45.18219946,217.3000442,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,137.8607523,49.42670625,363.7,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,138.7339009,50.36847306,722.1115538,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,139.59579,51.30973302,411.2,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,140.4467731,52.25049598,359.95,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,140.8682807,52.72069405,349.5525727,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,141.2871866,53.19077139,319.6347032,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,141.2871866,53.19077139,285.8,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,142.1173503,54.13056836,452.6,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,142.1173503,54.13056836,287.3,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,142.9375689,55.06989568,483.5,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,148.0454466,61.16463341,338.9063929,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,149.5456867,63.03633878,434.1210168,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,153.1656508,67.70871109,384.7597598,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,153.8686817,68.64205115,454.1559554,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,154.9108919,70.04137788,611.6629875,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,156.6162498,72.37180922,523.4505863,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,156.6162498,72.37180922,529.3317793,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,157.6212389,73.76902687,705.2245034,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,160.5590939,77.95616879,521.7067263,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,162.1441487,80.27954008,829.703381,"Kaneko and Ralston, 2007"
+,Thunnus albacares,,,,112.92236,27.22,129,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,116.57789,29.94,116,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,118.8894453,31.75,112,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,119.4628675,32.21,98,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,124.325123,36.29,281,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,124.325123,36.29,93,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,124.325123,36.29,130,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,124.325123,36.29,133,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,124.325123,36.29,120,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,124.325123,36.29,111,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,124.325123,36.29,117,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,124.8386937,36.74,109,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,124.8386937,36.74,108,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,124.8386937,36.74,131,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,125.348095,37.19,131,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,125.348095,37.19,156,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,125.348095,37.19,138,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,125.348095,37.19,109,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,125.8645941,37.65,117,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,125.8645941,37.65,131,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,126.8741227,38.56,12,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,127.3674882,39.01,259,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,127.3674882,39.01,135,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,127.3674882,39.01,84,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,127.8570807,39.46,136,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,127.8570807,39.46,123,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,128.3537274,39.92,146,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,128.3537274,39.92,218,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,128.8359057,40.37,135,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,128.8359057,40.37,272,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,129.3145202,40.82,79,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,129.3145202,40.82,169,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,129.3145202,40.82,139,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,129.3145202,40.82,129,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,129.8001551,41.28,142,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,129.8001551,41.28,212,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,129.8001551,41.28,193,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,129.8001551,41.28,170,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,129.8001551,41.28,208,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,129.8001551,41.28,180,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,129.8001551,41.28,173,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,129.8001551,41.28,180,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,129.8001551,41.28,144,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,130.2717601,41.73,192,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,130.2717601,41.73,422,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,130.2717601,41.73,120,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,130.2717601,41.73,256,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,130.2717601,41.73,196,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,130.2717601,41.73,132,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,130.2717601,41.73,187,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,131.215207,42.64,335,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,132.1351971,43.54,180,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,132.1351971,43.54,200,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,132.1351971,43.54,155,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,132.1351971,43.54,305,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,132.1351971,43.54,103,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,132.1351971,43.54,91,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,132.6005329,44,336,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,133.5116372,44.91,299,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,133.5116372,44.91,153,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,133.5116372,44.91,101,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,133.9576479,45.36,260,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,133.9576479,45.36,194,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,133.9576479,45.36,153,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,134.4007237,45.81,421,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,134.4007237,45.81,198,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,134.4007237,45.81,119,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,134.4007237,45.81,169,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,134.8506618,46.27,193,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,134.8506618,46.27,609,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,134.8506618,46.27,241,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,134.8506618,46.27,161,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,135.2879472,46.72,137,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,135.2879472,46.72,173,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,135.2879472,46.72,190,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,136.1637435,47.63,449,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,136.1637435,47.63,199,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,136.5927187,48.08,162,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,136.5927187,48.08,219,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,137.0190303,48.53,137,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,137.4521049,48.99,188,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,137.4521049,48.99,341,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,137.4521049,48.99,322,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,137.8731542,49.44,295,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,138.3009322,49.9,303,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,138.7168787,50.35,247,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,139.1303586,50.8,157,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,140.3653589,52.16,359,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,140.778225,52.62,272,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,141.5791113,53.52,342,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,142.7725076,54.88,399,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,142.7725076,54.88,248,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,144.3391474,56.7,342,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,145.1099384,57.61,129,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,145.1099384,57.61,217,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,145.1099384,57.61,223,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,146.2469286,58.97,193,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,147.3665994,60.33,431,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,147.7333768,60.78,369,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,148.4695962,61.69,329,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,148.8309921,62.14,289,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,149.9127348,63.5,357,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,150.2751261,63.96,228,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,152.7264966,67.13,679,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,155.4407385,70.76,462,"Kraepiel et al., 2003"
+,Thunnus albacares,,,,117.7385684,30.84,240,"Rivers et al., 1972"
+,Thunnus albacares,,,,128.8359057,40.37,320,"Rivers et al., 1972"
+,Thunnus albacares,,,,135.7224386,47.17,310,"Rivers et al., 1972"
+,Thunnus albacares,,,,135.7224386,47.17,550,"Rivers et al., 1972"
+,Thunnus albacares,,,,140.3653589,52.16,400,"Rivers et al., 1972"
+,Thunnus albacares,,,,141.179798,53.07,340,"Rivers et al., 1972"
+,Thunnus albacares,,,,147.3665994,60.33,640,"Rivers et al., 1972"
+,Thunnus albacares,,,,149.556527,63.05,500,"Rivers et al., 1972"
+,Thunnus albacares,,,,149.9127348,63.5,320,"Rivers et al., 1972"
+,Thunnus albacares,,,,150.9791669,64.86,470,"Rivers et al., 1972"
+,Thunnus albacares,,,,153.754586,68.49,440,"Rivers et al., 1972"
+,Thunnus albacares,,,,155.109371,70.31,320,"Rivers et al., 1972"
+,Thunnus albacares,,,,156.7595856,72.57,410,"Rivers et al., 1972"
+,Thunnus albacares,,,,156.7595856,72.57,1320,"Rivers et al., 1972"
+,Thunnus albacares,,,,157.0912663,73.03,540,"Rivers et al., 1972"
+,Thunnus albacares,,,,158.3830233,74.84,600,"Rivers et al., 1972"
+,Thunnus albacares,,,,159.9740132,77.11,1100,"Rivers et al., 1972"
+,Thunnus albacares,,,,163.0648338,81.65,550,"Rivers et al., 1972"
+,Thunnus albacares,,,,163.663879,82.55,480,"Rivers et al., 1972"
+,Thunnus albacares,,,,169.1926746,91.17,660,"Rivers et al., 1972"
+,Thunnus albacares,,,,171.6885995,95.25,610,"Rivers et al., 1972"
+,Thunnus albacares,,,,173.0465656,97.52,640,"Rivers et al., 1972"
+,Thunnus albacares,,,,80.726855,9.98,240,"Thieleke, 1973"
+,Thunnus albacares,,,,84.25138747,11.34,160,"Thieleke, 1973"
+,Thunnus albacares,,,,118.8894453,31.75,200,"Thieleke, 1973"
+,Thunnus albacares,,,,124.325123,36.29,110,"Thieleke, 1973"
+,Thunnus albacares,,,,124.8386937,36.74,180,"Thieleke, 1973"
+,Thunnus albacares,,,,125.348095,37.19,240,"Thieleke, 1973"
+,Thunnus albacares,,,,125.348095,37.19,150,"Thieleke, 1973"
+,Thunnus albacares,,,,125.8645941,37.65,130,"Thieleke, 1973"
+,Thunnus albacares,,,,125.8645941,37.65,120,"Thieleke, 1973"
+,Thunnus albacares,,,,125.8645941,37.65,140,"Thieleke, 1973"
+,Thunnus albacares,,,,126.3658171,38.1,130,"Thieleke, 1973"
+,Thunnus albacares,,,,126.8741227,38.56,270,"Thieleke, 1973"
+,Thunnus albacares,,,,126.8741227,38.56,160,"Thieleke, 1973"
+,Thunnus albacares,,,,127.8570807,39.46,230,"Thieleke, 1973"
+,Thunnus albacares,,,,127.8570807,39.46,170,"Thieleke, 1973"
+,Thunnus albacares,,,,128.3537274,39.92,90,"Thieleke, 1973"
+,Thunnus albacares,,,,128.3537274,39.92,140,"Thieleke, 1973"
+,Thunnus albacares,,,,128.3537274,39.92,180,"Thieleke, 1973"
+,Thunnus albacares,,,,128.8359057,40.37,320,"Thieleke, 1973"
+,Thunnus albacares,,,,128.8359057,40.37,160,"Thieleke, 1973"
+,Thunnus albacares,,,,128.8359057,40.37,170,"Thieleke, 1973"
+,Thunnus albacares,,,,128.8359057,40.37,230,"Thieleke, 1973"
+,Thunnus albacares,,,,129.3145202,40.82,230,"Thieleke, 1973"
+,Thunnus albacares,,,,129.3145202,40.82,190,"Thieleke, 1973"
+,Thunnus albacares,,,,129.3145202,40.82,160,"Thieleke, 1973"
+,Thunnus albacares,,,,129.3145202,40.82,260,"Thieleke, 1973"
+,Thunnus albacares,,,,129.3145202,40.82,220,"Thieleke, 1973"
+,Thunnus albacares,,,,129.3145202,40.82,210,"Thieleke, 1973"
+,Thunnus albacares,,,,129.3145202,40.82,200,"Thieleke, 1973"
+,Thunnus albacares,,,,129.8001551,41.28,180,"Thieleke, 1973"
+,Thunnus albacares,,,,129.8001551,41.28,270,"Thieleke, 1973"
+,Thunnus albacares,,,,129.8001551,41.28,210,"Thieleke, 1973"
+,Thunnus albacares,,,,129.8001551,41.28,170,"Thieleke, 1973"
+,Thunnus albacares,,,,129.8001551,41.28,180,"Thieleke, 1973"
+,Thunnus albacares,,,,130.2717601,41.73,280,"Thieleke, 1973"
+,Thunnus albacares,,,,130.2717601,41.73,280,"Thieleke, 1973"
+,Thunnus albacares,,,,130.2717601,41.73,180,"Thieleke, 1973"
+,Thunnus albacares,,,,130.7399927,42.18,240,"Thieleke, 1973"
+,Thunnus albacares,,,,130.7399927,42.18,210,"Thieleke, 1973"
+,Thunnus albacares,,,,130.7399927,42.18,190,"Thieleke, 1973"
+,Thunnus albacares,,,,130.7399927,42.18,140,"Thieleke, 1973"
+,Thunnus albacares,,,,131.215207,42.64,210,"Thieleke, 1973"
+,Thunnus albacares,,,,131.215207,42.64,280,"Thieleke, 1973"
+,Thunnus albacares,,,,131.6768006,43.09,270,"Thieleke, 1973"
+,Thunnus albacares,,,,131.6768006,43.09,200,"Thieleke, 1973"
+,Thunnus albacares,,,,131.6768006,43.09,190,"Thieleke, 1973"
+,Thunnus albacares,,,,132.1351971,43.54,180,"Thieleke, 1973"
+,Thunnus albacares,,,,132.1351971,43.54,190,"Thieleke, 1973"
+,Thunnus albacares,,,,132.6005329,44,180,"Thieleke, 1973"
+,Thunnus albacares,,,,132.6005329,44,210,"Thieleke, 1973"
+,Thunnus albacares,,,,132.6005329,44,180,"Thieleke, 1973"
+,Thunnus albacares,,,,133.0526304,44.45,140,"Thieleke, 1973"
+,Thunnus albacares,,,,133.0526304,44.45,190,"Thieleke, 1973"
+,Thunnus albacares,,,,133.5116372,44.91,320,"Thieleke, 1973"
+,Thunnus albacares,,,,133.9576479,45.36,160,"Thieleke, 1973"
+,Thunnus albacares,,,,133.9576479,45.36,150,"Thieleke, 1973"
+,Thunnus albacares,,,,133.9576479,45.36,140,"Thieleke, 1973"
+,Thunnus albacares,,,,133.9576479,45.36,210,"Thieleke, 1973"
+,Thunnus albacares,,,,133.9576479,45.36,170,"Thieleke, 1973"
+,Thunnus albacares,,,,134.4007237,45.81,130,"Thieleke, 1973"
+,Thunnus albacares,,,,134.4007237,45.81,230,"Thieleke, 1973"
+,Thunnus albacares,,,,134.4007237,45.81,240,"Thieleke, 1973"
+,Thunnus albacares,,,,134.8506618,46.27,350,"Thieleke, 1973"
+,Thunnus albacares,,,,135.2879472,46.72,150,"Thieleke, 1973"
+,Thunnus albacares,,,,135.2879472,46.72,190,"Thieleke, 1973"
+,Thunnus albacares,,,,135.2879472,46.72,270,"Thieleke, 1973"
+,Thunnus albacares,,,,135.2879472,46.72,300,"Thieleke, 1973"
+,Thunnus albacares,,,,135.7224386,47.17,230,"Thieleke, 1973"
+,Thunnus albacares,,,,135.7224386,47.17,250,"Thieleke, 1973"
+,Thunnus albacares,,,,135.7224386,47.17,230,"Thieleke, 1973"
+,Thunnus albacares,,,,136.1637435,47.63,310,"Thieleke, 1973"
+,Thunnus albacares,,,,136.1637435,47.63,150,"Thieleke, 1973"
+,Thunnus albacares,,,,136.1637435,47.63,210,"Thieleke, 1973"
+,Thunnus albacares,,,,136.5927187,48.08,230,"Thieleke, 1973"
+,Thunnus albacares,,,,137.0190303,48.53,210,"Thieleke, 1973"
+,Thunnus albacares,,,,137.0190303,48.53,200,"Thieleke, 1973"
+,Thunnus albacares,,,,137.0190303,48.53,330,"Thieleke, 1973"
+,Thunnus albacares,,,,137.4521049,48.99,180,"Thieleke, 1973"
+,Thunnus albacares,,,,137.8731542,49.44,260,"Thieleke, 1973"
+,Thunnus albacares,,,,137.8731542,49.44,160,"Thieleke, 1973"
+,Thunnus albacares,,,,137.8731542,49.44,220,"Thieleke, 1973"
+,Thunnus albacares,,,,141.179798,53.07,200,"Thieleke, 1973"
+,Thunnus albacares,,,,141.179798,53.07,220,"Thieleke, 1973"
+,Thunnus albacares,,,,141.5791113,53.52,370,"Thieleke, 1973"
+,Thunnus albacares,,,,141.9849954,53.98,210,"Thieleke, 1973"
+,Thunnus albacares,,,,142.7725076,54.88,270,"Thieleke, 1973"
+,Thunnus albacares,,,,143.171698,55.34,240,"Thieleke, 1973"
+,Thunnus albacares,,,,143.5600792,55.79,260,"Thieleke, 1973"
+,Thunnus albacares,,,,144.3391474,56.7,160,"Thieleke, 1973"
+,Thunnus albacares,,,,146.2469286,58.97,200,"Thieleke, 1973"
+,Thunnus albacares,,,,146.6192926,59.42,240,"Thieleke, 1973"
+,Thunnus albacares,,,,147.3665994,60.33,300,"Thieleke, 1973"
+,Thunnus albacares,,,,149.1986233,62.6,250,"Thieleke, 1973"
+,Thunnus albacares,,,,149.556527,63.05,230,"Thieleke, 1973"
+,Thunnus albacares,,,,152.7264966,67.13,370,"Thieleke, 1973"
+,Thunnus albacares,,,,153.4159256,68.04,260,"Thieleke, 1973"
+,Thunnus albacares,,,,154.4349342,69.4,390,"Thieleke, 1973"
+,Thunnus albacares,,,,157.4143938,73.48,370,"Thieleke, 1973"
+,Thunnus albacares,,,,164.2651774,83.46,370,"Thieleke, 1973"
+,Thunnus albacares,,,,164.8621282,84.37,390,"Thieleke, 1973"
+S-Yft-01,Thunnus albacares,2008-06,15,-160,157.6,70.79381834,646.8049,Choy et al. 2009; Choy 2013
+S-Yft-02,Thunnus albacares,2008-06,15,-160,83.9,11.45248417,171.6083,Choy et al. 2009; Choy 2013
+S-Yft-03,Thunnus albacares,2008-06,15,-160,96.4,17.10696103,272.2327,Choy et al. 2009; Choy 2013
+S-Yft-04,Thunnus albacares,2008-06,15,-160,87.7,13.01620953,182.7332,Choy et al. 2009; Choy 2013
+X-Yft-01,Thunnus albacares,2010-04,15,-160,65,4.78,95.4789,Choy et al. 2009; Choy 2013
+B-Bet-01,Thunnus obesus,2007-05,,,125,39.90048729,443.5357,Choy et al. 2009; Choy 2013
+B-Bet-03,Thunnus obesus,2007-05,15,-160,123,38.05468803,613.2873,Choy et al. 2009; Choy 2013
+B-Bet-06,Thunnus obesus,2007-05,15,-160,128,42.77836958,811.3637,Choy et al. 2009; Choy 2013
+B-Bet-08,Thunnus obesus,2007-05,,,112,28.90212108,780.3873,Choy et al. 2009; Choy 2013
+B-Bet-11,Thunnus obesus,2007-06,10,-160,126,40.84511483,286.1693,Choy et al. 2009; Choy 2013
+B-Bet-12,Thunnus obesus,2007-06,10,-160,129,43.76721418,811.1639,Choy et al. 2009; Choy 2013
+B-Bet-13,Thunnus obesus,2007-06,10,-160,124,38.9703813,562.6474,Choy et al. 2009; Choy 2013
+B-Bet-14,Thunnus obesus,2007-06,10,-160,126,40.84511483,322.2167,Choy et al. 2009; Choy 2013
+B-Bet-15,Thunnus obesus,2007-06,10,-160,125,39.90048729,669.5289333,Choy et al. 2009; Choy 2013
+B-Bet-16,Thunnus obesus,2007-06,10,-160,163,86.99477161,695.6354,Choy et al. 2009; Choy 2013
+B-Bet-17,Thunnus obesus,2007-07,25,-160,135,50.01816168,570.0753,Choy et al. 2009; Choy 2013
+B-Bet-18,Thunnus obesus,2007-07,25,-160,132,46.82391995,491.3214,Choy et al. 2009; Choy 2013
+B-Bet-20,Thunnus obesus,2007-07,25,-160,133,47.87324088,854.4206,Choy et al. 2009; Choy 2013
+B-Bet-23,Thunnus obesus,2007-07,25,-160,127,41.80437269,595.6037,Choy et al. 2009; Choy 2013
+B-Bet-30,Thunnus obesus,2007-06,25,-150,82,11.56944863,420.6516,Choy et al. 2009; Choy 2013
+B-Bet-34,Thunnus obesus,2007-07,25,-160,131,45.78988083,612.3591,Choy et al. 2009; Choy 2013
+B-Bet-36,Thunnus obesus,2007-07,25,-155,134,48.937952,432.4911,Choy et al. 2009; Choy 2013
+B-Bet-38,Thunnus obesus,2007-08,30,-160,164,88.57135013,763.269,Choy et al. 2009; Choy 2013
+B-Bet-39,Thunnus obesus,2007-08,30,-160,126,40.84511483,742.5118,Choy et al. 2009; Choy 2013
+B-Bet-42,Thunnus obesus,2007-08,30,-160,136,51.1139782,656.306,Choy et al. 2009; Choy 2013
+B-Bet-43,Thunnus obesus,2007-08,25,-150,92,16.22042536,257.2635,Choy et al. 2009; Choy 2013
+B-Bet-44,Thunnus obesus,2007-08,30,-160,155,75.04345945,1208.8724,Choy et al. 2009; Choy 2013
+B-Bet-45,Thunnus obesus,2007-08,25,-150,137,52.2255098,504.3972,Choy et al. 2009; Choy 2013
+B-Bet-46,Thunnus obesus,2007-08,25,-150,135,50.01816168,389.9965,Choy et al. 2009; Choy 2013
+B-Bet-48,Thunnus obesus,2007-07,30,-160,130,44.77101508,657.1799,Choy et al. 2009; Choy 2013
+B-Bet-52,Thunnus obesus,2007-07,30,-160,127,41.80437269,754.491,Choy et al. 2009; Choy 2013
+B-Bet-53,Thunnus obesus,2007-07,30,-160,122,37.15329861,934.89725,Choy et al. 2009; Choy 2013
+B-Bet-55,Thunnus obesus,2007-06,25,-150,82,11.56944863,302.5685,Choy et al. 2009; Choy 2013
+B-Bet-60,Thunnus obesus,2009-12,30,-145,119,34.53386375,724.2921,Choy et al. 2009; Choy 2013
+B-Bet-61,Thunnus obesus,2009-11,20,-165,103,22.59939304,290.2202,Choy et al. 2009; Choy 2013
+B-Bet-62,Thunnus obesus,2009-11,20,-160,75,8.90256,203.9298,Choy et al. 2009; Choy 2013
+B-Bet-63,Thunnus obesus,2009-11,30,-150,99,20.11790115,307.691,Choy et al. 2009; Choy 2013
+B-Bet-64,Thunnus obesus,2010-03,30,-145,117,32.85709435,540.8874,Choy et al. 2009; Choy 2013
+B-Bet-65,Thunnus obesus,2010-03,30,-160,109,26.68724041,481.8441,Choy et al. 2009; Choy 2013
+B-Bet-66,Thunnus obesus,2010-06,25,-170,73,8.223275745,196.7282,Choy et al. 2009; Choy 2013
+B-Bet-67,Thunnus obesus,2011-02,30,-150,102,21.96112503,537.8916,Choy et al. 2009; Choy 2013
+H-Bet-01,Thunnus obesus,2007-12,20,-160,54.6,3.504781497,164.203,Choy et al. 2009; Choy 2013
+H-Bet-02,Thunnus obesus,2007-12,20,-160,26.75,0.431245775,166.5362,Choy et al. 2009; Choy 2013
+H-Bet-03,Thunnus obesus,2007-12,20,-160,58,4.185058951,132.5107,Choy et al. 2009; Choy 2013
+H-Bet-04,Thunnus obesus,2008-01,20,-160,47.5,2.328114452,183.6379,Choy et al. 2009; Choy 2013
+H-Bet-05,Thunnus obesus,2008-01,20,-160,47.5,2.328114452,121.2787,Choy et al. 2009; Choy 2013
+H-Bet-60,Thunnus obesus,2009-12,20,-160,58,4.185058951,120.2201,Choy et al. 2009; Choy 2013
+,Thunnus obesus,,,,89.21315286,14.51495598,110,"Brooks, 2004"
+,Thunnus obesus,,,,96.11781877,18.14369498,260,"Brooks, 2004"
+,Thunnus obesus,,,,104.9226629,23.58680347,420,"Brooks, 2004"
+,Thunnus obesus,,,,107.5527051,25.40117297,480,"Brooks, 2004"
+,Thunnus obesus,,,,110.0604393,27.21554247,250,"Brooks, 2004"
+,Thunnus obesus,,,,112.459172,29.02991197,330,"Brooks, 2004"
+,Thunnus obesus,,,,116.9724424,32.65865096,430,"Brooks, 2004"
+,Thunnus obesus,,,,119.6257119,34.92661284,300,"Brooks, 2004"
+,Thunnus obesus,,,,124.12596,39.00894421,450,"Brooks, 2004"
+,Thunnus obesus,,,,126.4916199,41.27690608,370,"Brooks, 2004"
+,Thunnus obesus,,,,126.9542985,41.73049845,750,"Brooks, 2004"
+,Thunnus obesus,,,,127.4136401,42.18409083,400,"Brooks, 2004"
+,Thunnus obesus,,,,129.66232,44.4520527,720,"Brooks, 2004"
+,Thunnus obesus,,,,129.66232,44.4520527,440,"Brooks, 2004"
+,Thunnus obesus,,,,133.1063963,48.0807917,440,"Brooks, 2004"
+,Thunnus obesus,,,,136.7799463,52.16312307,530,"Brooks, 2004"
+,Thunnus obesus,,,,139.1237503,54.88467731,830,"Brooks, 2004"
+,Thunnus obesus,,,,139.8877837,55.79186206,650,"Brooks, 2004"
+,Thunnus obesus,,,,147.1087466,64.86370955,610,"Brooks, 2004"
+,Thunnus obesus,,,,151.7713174,71.2140028,660,"Brooks, 2004"
+,Thunnus obesus,,,,86.2938262,13.13905745,160.7035349,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,92.46132939,16.15497524,168.3937824,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,93.40819906,16.65526328,310.3277061,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,94.33518223,17.15493581,220.0704225,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,95.24328074,17.65401222,272.3311547,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,99.53052169,20.14105481,355.2631579,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,100.3424874,20.63690289,211.8644068,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,104.2078577,23.10906098,531.9148936,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,105.6722745,24.09482662,489.7276636,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,107.0949627,25.07894096,501.8013381,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,107.7915524,25.570401,460.6975534,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,108.4787444,26.06147403,353.5083021,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,108.4787444,26.06147403,520.6013363,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,109.156846,26.55216792,596.8858131,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,110.4869301,27.53244833,195.4242135,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,111.783968,28.51129943,478.6585366,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,113.6717985,29.97701115,859.2132505,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,114.8944049,30.95251301,753.3860045,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,117.8361905,33.38584898,221.8366092,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,118.4062279,33.87162718,786.5,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,125.8407244,40.64436899,841.6422287,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,126.829618,41.60794145,455.6726596,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,127.8024594,42.57059973,814.8383006,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,129.2329898,44.0129217,804.5212766,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,130.1683706,44.97339008,751.716422,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,131.9976065,46.89182471,871.8104496,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,131.9976065,46.89182471,462.6241505,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,131.9976065,46.89182471,613.5151156,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,134.2112733,49.285365,556.6957414,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,134.2112733,49.285365,688.8544892,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,135.5032309,50.71918927,1026.53981,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,136.7696352,52.15135325,736.377025,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,137.1863041,52.62838089,641.6584403,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,138.0117007,53.58190624,840.4415454,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,138.4205107,54.05840735,666.2436548,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,139.6318599,55.48688423,621.3285133,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,139.6318599,55.48688423,737.4631268,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,140.8213706,56.91385467,625,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,140.8213706,56.91385467,579.9605133,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,140.8213706,56.91385467,612.13133,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,144.6403924,61.66005168,540,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,145.3790695,62.60745786,442.0008624,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,147.1918266,64.97342367,726.7727362,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,151.0217058,70.16631729,826.7397038,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,153.6830924,73.9330203,487.6823352,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,157.5012063,79.56847551,752.5453741,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,162.0142554,86.58996732,844.7612653,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,164.8811687,91.25789777,1267.499054,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,164.8811687,91.25789777,674.5790221,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,167.6463095,95.9160542,1111.111111,"Kaneko and Ralston, 2007"
+,Thunnus obesus,,,,101.438231,21.3188416,460,"Thieleke, 1973"
+,Thunnus obesus,,,,110.0604393,27.21554247,390,"Thieleke, 1973"
+,Thunnus obesus,,,,110.6698734,27.66913484,390,"Thieleke, 1973"
+,Thunnus obesus,,,,112.459172,29.02991197,630,"Thieleke, 1973"
+,Thunnus obesus,,,,113.0431688,29.48350434,370,"Thieleke, 1973"
+,Thunnus obesus,,,,113.6212127,29.93709672,430,"Thieleke, 1973"
+,Thunnus obesus,,,,114.7600343,30.84428147,300,"Thieleke, 1973"
+,Thunnus obesus,,,,114.7600343,30.84428147,610,"Thieleke, 1973"
+,Thunnus obesus,,,,114.7600343,30.84428147,380,"Thieleke, 1973"
+,Thunnus obesus,,,,116.9724424,32.65865096,400,"Thieleke, 1973"
+,Thunnus obesus,,,,116.9724424,32.65865096,410,"Thieleke, 1973"
+,Thunnus obesus,,,,118.5785842,34.01942809,430,"Thieleke, 1973"
+,Thunnus obesus,,,,123.1540428,38.10175946,680,"Thieleke, 1973"
+,Thunnus obesus,,,,124.6062811,39.46253658,630,"Thieleke, 1973"
+,Thunnus obesus,,,,124.6062811,39.46253658,440,"Thieleke, 1973"
+,Thunnus obesus,,,,125.5560045,40.36972133,430,"Thieleke, 1973"
+,Thunnus obesus,,,,127.4136401,42.18409083,410,"Thieleke, 1973"
+,Thunnus obesus,,,,127.4136401,42.18409083,450,"Thieleke, 1973"
+,Thunnus obesus,,,,127.8697042,42.6376832,400,"Thieleke, 1973"
+,Thunnus obesus,,,,129.66232,44.4520527,530,"Thieleke, 1973"
+,Thunnus obesus,,,,129.66232,44.4520527,450,"Thieleke, 1973"
+,Thunnus obesus,,,,129.66232,44.4520527,530,"Thieleke, 1973"
+,Thunnus obesus,,,,129.66232,44.4520527,490,"Thieleke, 1973"
+,Thunnus obesus,,,,130.1028336,44.90564508,440,"Thieleke, 1973"
+,Thunnus obesus,,,,130.1028336,44.90564508,510,"Thieleke, 1973"
+,Thunnus obesus,,,,130.1028336,44.90564508,530,"Thieleke, 1973"
+,Thunnus obesus,,,,130.540394,45.35923745,430,"Thieleke, 1973"
+,Thunnus obesus,,,,130.540394,45.35923745,530,"Thieleke, 1973"
+,Thunnus obesus,,,,130.9750502,45.81282982,660,"Thieleke, 1973"
+,Thunnus obesus,,,,131.8358396,46.72001457,660,"Thieleke, 1973"
+,Thunnus obesus,,,,131.8358396,46.72001457,450,"Thieleke, 1973"
+,Thunnus obesus,,,,131.8358396,46.72001457,670,"Thieleke, 1973"
+,Thunnus obesus,,,,132.2620647,47.17360695,580,"Thieleke, 1973"
+,Thunnus obesus,,,,132.2620647,47.17360695,590,"Thieleke, 1973"
+,Thunnus obesus,,,,132.2620647,47.17360695,610,"Thieleke, 1973"
+,Thunnus obesus,,,,132.2620647,47.17360695,630,"Thieleke, 1973"
+,Thunnus obesus,,,,132.2620647,47.17360695,370,"Thieleke, 1973"
+,Thunnus obesus,,,,132.2620647,47.17360695,560,"Thieleke, 1973"
+,Thunnus obesus,,,,132.6855692,47.62719932,610,"Thieleke, 1973"
+,Thunnus obesus,,,,132.6855692,47.62719932,470,"Thieleke, 1973"
+,Thunnus obesus,,,,133.5245878,48.53438407,680,"Thieleke, 1973"
+,Thunnus obesus,,,,133.5245878,48.53438407,610,"Thieleke, 1973"
+,Thunnus obesus,,,,133.9401847,48.98797645,490,"Thieleke, 1973"
+,Thunnus obesus,,,,133.9401847,48.98797645,570,"Thieleke, 1973"
+,Thunnus obesus,,,,134.3532269,49.44156882,490,"Thieleke, 1973"
+,Thunnus obesus,,,,134.3532269,49.44156882,480,"Thieleke, 1973"
+,Thunnus obesus,,,,134.7637532,49.89516119,570,"Thieleke, 1973"
+,Thunnus obesus,,,,134.7637532,49.89516119,590,"Thieleke, 1973"
+,Thunnus obesus,,,,134.7637532,49.89516119,490,"Thieleke, 1973"
+,Thunnus obesus,,,,135.1718018,50.34875357,460,"Thieleke, 1973"
+,Thunnus obesus,,,,135.9806128,51.25593832,650,"Thieleke, 1973"
+,Thunnus obesus,,,,136.3814469,51.70953069,480,"Thieleke, 1973"
+,Thunnus obesus,,,,136.3814469,51.70953069,640,"Thieleke, 1973"
+,Thunnus obesus,,,,136.3814469,51.70953069,660,"Thieleke, 1973"
+,Thunnus obesus,,,,137.1761447,52.61671544,430,"Thieleke, 1973"
+,Thunnus obesus,,,,137.5700752,53.07030782,770,"Thieleke, 1973"
+,Thunnus obesus,,,,139.1237503,54.88467731,800,"Thieleke, 1973"
+,Thunnus obesus,,,,139.5068096,55.33826969,790,"Thieleke, 1973"
+,Thunnus obesus,,,,139.8877837,55.79186206,780,"Thieleke, 1973"
+,Thunnus obesus,,,,140.2667007,56.24545444,620,"Thieleke, 1973"
+,Thunnus obesus,,,,141.3913821,57.60623156,510,"Thieleke, 1973"
+,Thunnus obesus,,,,141.7623407,58.05982394,680,"Thieleke, 1973"
+,Thunnus obesus,,,,142.1313743,58.51341631,500,"Thieleke, 1973"
+,Thunnus obesus,,,,143.2271711,59.87419343,500,"Thieleke, 1973"
+,Thunnus obesus,,,,144.6627321,61.68856293,870,"Thieleke, 1973"
+,Thunnus obesus,,,,145.3699849,62.59574768,580,"Thieleke, 1973"
+,Thunnus obesus,,,,147.4516212,65.31730193,840,"Thieleke, 1973"
+,Thunnus obesus,,,,147.4516212,65.31730193,580,"Thieleke, 1973"
+,Thunnus obesus,,,,148.8074797,67.13167143,730,"Thieleke, 1973"
+,Thunnus obesus,,,,150.1391498,68.94604092,680,"Thieleke, 1973"
+,Thunnus obesus,,,,150.4684127,69.3996333,570,"Thieleke, 1973"
+,Thunnus obesus,,,,151.4476829,70.76041042,610,"Thieleke, 1973"
+,Thunnus obesus,,,,151.7713174,71.2140028,710,"Thieleke, 1973"
+,Thunnus obesus,,,,152.093582,71.66759517,510,"Thieleke, 1973"
+,Thunnus obesus,,,,152.093582,71.66759517,650,"Thieleke, 1973"
+,Thunnus obesus,,,,152.4144912,72.12118754,670,"Thieleke, 1973"
+,Thunnus obesus,,,,152.4144912,72.12118754,510,"Thieleke, 1973"
+,Thunnus obesus,,,,152.7340592,72.57477992,690,"Thieleke, 1973"
+,Thunnus obesus,,,,152.7340592,72.57477992,670,"Thieleke, 1973"
+,Thunnus obesus,,,,153.0522999,73.02837229,650,"Thieleke, 1973"
+,Thunnus obesus,,,,153.369227,73.48196467,650,"Thieleke, 1973"
+,Thunnus obesus,,,,153.9991941,74.38914942,560,"Thieleke, 1973"
+,Thunnus obesus,,,,154.3122604,74.84274179,700,"Thieleke, 1973"
+,Thunnus obesus,,,,154.3122604,74.84274179,620,"Thieleke, 1973"
+,Thunnus obesus,,,,154.6240657,75.29633417,720,"Thieleke, 1973"
+,Thunnus obesus,,,,155.2439438,76.20351892,510,"Thieleke, 1973"
+,Thunnus obesus,,,,155.2439438,76.20351892,610,"Thieleke, 1973"
+,Thunnus obesus,,,,156.1646128,77.56429604,690,"Thieleke, 1973"
+,Thunnus obesus,,,,156.7724318,78.47148079,720,"Thieleke, 1973"
+,Thunnus obesus,,,,157.0745876,78.92507316,780,"Thieleke, 1973"
+,Thunnus obesus,,,,157.3755893,79.37866554,760,"Thieleke, 1973"
+,Thunnus obesus,,,,157.3755893,79.37866554,610,"Thieleke, 1973"
+,Thunnus obesus,,,,157.6754477,79.83225791,680,"Thieleke, 1973"
+,Thunnus obesus,,,,158.5682707,81.19303503,710,"Thieleke, 1973"
+,Thunnus obesus,,,,158.5682707,81.19303503,700,"Thieleke, 1973"
+,Thunnus obesus,,,,158.8636625,81.64662741,590,"Thieleke, 1973"
+,Thunnus obesus,,,,159.7433332,83.00740453,840,"Thieleke, 1973"
+,Thunnus obesus,,,,160.0344213,83.46099691,570,"Thieleke, 1973"
+,Thunnus obesus,,,,160.3244579,83.91458928,530,"Thieleke, 1973"
+,Thunnus obesus,,,,160.6134523,84.36818166,630,"Thieleke, 1973"
+,Thunnus obesus,,,,165.9179858,92.98643677,500,"Thieleke, 1973"
+,Thunnus obesus,,,,167.524732,95.70799102,790,"Thieleke, 1973"
+,Thunnus obesus,,,,170.9044321,101.6046919,480,"Thieleke, 1973"
+,Thunnus obesus,,,,170.9044321,101.6046919,930,"Thieleke, 1973"
