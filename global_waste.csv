@@ -1,0 +1,175 @@
+name,region,economic,GDP_c,MSW,Population,HW,agency,law,MSW_c,HW_c,urban_pct,urban_rate,HDI,obesity
+Afghanistan,South Asia,Developing,2057,5628525,34656032,14119000,Yes,Yes,0.1624,0.4074,26,Growing Rapidly,0.511,5.5
+Angola,Sub-Saharan Africa,In Transition,8037,4213644,25096150,270000,Yes,Yes,0.1679,0.0108,67,Growing Rapidly,0.581,8.2
+Albania,Europe and Central Asia,In Transition,13724,1087447,2854191,5715,Yes,Yes,0.381,0.002,62,Growing,0.795,21.7
+Andorra,Europe and Central Asia,Developed,43712,43000,82431,1788,Yes,Yes,0.5216,0.0217,88,Decreasing,0.868,25.6
+United Arab Emirates,Middle East and North Africa,Developed,67119,5617682,9770529,57525,Yes,Yes,0.575,0.0059,87,Growing,0.89,31.7
+Argentina,Latin America and Caribbean,Developed,23550,17910550,42981516,310044,No,Yes,0.4167,0.0072,92,Growing,0.845,28.3
+Armenia,Europe and Central Asia,In Transition,11020,492800,2906220,62270,No,Yes,0.1696,0.0214,63,Growing,0.776,20.2
+Antigua and Barbuda,Latin America and Caribbean,Developed,17966,30585,96777,7000,Yes,Yes,0.316,0.0723,24,Growing,0.778,18.9
+Australia,East Asia and Pacific,Developed,47784,13345000,23789338,7000000,Yes,Yes,0.561,0.2942,86,Growing,0.944,29
+Austria,Europe and Central Asia,Developed,56030,5219716,8877067,1272288,Yes,Yes,0.588,0.1433,59,Growing,0.922,20.1
+Azerbaijan,Europe and Central Asia,In Transition,14854,2930349,9649341,296979,Yes,Yes,0.3037,0.0308,56,Growing,0.756,19.9
+Belgium,Europe and Central Asia,Developed,51915,4765883,11484055,2946195,Yes,Yes,0.415,0.2565,98,Growing,0.931,22.1
+Burkina Faso,Sub-Saharan Africa,Developing,1925,2575251,18110624,7871,No,Yes,0.1422,0.0004,31,Growing Rapidly,0.452,5.6
+Bangladesh,South Asia,In Transition,3196,14778497,155727056,114358,Yes,Yes,0.0949,0.0007,38,Growing Rapidly,0.632,3.6
+Bulgaria,Europe and Central Asia,In Transition,22279,2859190,7025037,12206169,Yes,Yes,0.407,1.7375,76,Decreasing,0.816,25
+Bahrain,Middle East and North Africa,Developed,47938,951943,1425171,31000,Yes,Yes,0.668,0.0218,90,Growing Rapidly,0.852,29.8
+The Bahamas,Latin America and Caribbean,Developed,35400,264000,386838,31000,Yes,No,0.6825,0.0801,83,Growing,0.777,31.6
+Bosnia and Herzegovina,Europe and Central Asia,In Transition,12671,1248718,3535961,8408,No,No,0.3531,0.0024,49,Growing,0.78,17.9
+Belarus,Europe and Central Asia,In Transition,18308,4280000,9489616,1336926,Yes,Yes,0.451,0.1409,79,Growing,0.823,24.5
+Belize,Latin America and Caribbean,In Transition,7259,101379,359288,1000,Yes,Yes,0.2822,0.0028,46,Growing Rapidly,0.716,24.1
+Bermuda,North America,Developed,80982,82000,64798,525,Yes,Yes,1.2655,0.0081,100,Decreasing,0.545,40.2
+Bolivia,Latin America and Caribbean,In Transition,7984,2219052,10724705,545183,Yes,Yes,0.2069,0.0508,70,Growing,0.654,20.2
+Brazil,Latin America and Caribbean,In Transition,14596,79069584,208494896,11740000,Yes,Yes,0.3792,0.0563,87,Growing,0.765,22.1
+Barbados,Latin America and Caribbean,Developed,15445,174815,280601,9410,Yes,No,0.623,0.0335,31,Growing,0.814,23.1
+Brunei Darussalam,East Asia and Pacific,Developed,60866,216253,423196,4000,Yes,Yes,0.511,0.0095,78,Growing,0.838,34.6
+Bhutan,South Asia,In Transition,6743,111314,686958,15000,Yes,Yes,0.162,0.0218,42,Growing Rapidly,0.654,6.4
+Central African Republic,Sub-Saharan Africa,Developing,823,1105983,4515392,78000,No,Yes,0.2449,0.0173,42,Growing Rapidly,0.397,7.5
+Canada,North America,Developed,47672,25103034,35544564,3245000,Yes,Yes,0.7062,0.0913,82,Growing,0.929,29.4
+Switzerland,Europe and Central Asia,Developed,68394,6079556,8574832,1200000,Yes,Yes,0.709,0.1399,74,Growing,0.955,19.5
+Chile,Latin America and Caribbean,Developed,20362,6517000,16829442,249755,No,Yes,0.3872,0.0148,88,Growing,0.851,28
+China,East Asia and Pacific,In Transition,16092,395081376,1400050048,34652400,Yes,Yes,0.2822,0.0248,61,Growing Rapidly,0.761,6.2
+Côte d'Ivoire,Sub-Saharan Africa,In Transition,3661,4440814,20401332,335000,Yes,Yes,0.2177,0.0164,52,Growing Rapidly,0.81,10.3
+Republic of the Congo,Sub-Saharan Africa,In Transition,4900,451200,2648507,74000,No,Yes,0.1704,0.0279,68,Growing Rapidly,0.848,9.6
+Colombia,Latin America and Caribbean,In Transition,12523,12150120,46406648,270146,No,No,0.2618,0.0058,81,Growing,0.767,22.3
+Cabo Verde,Sub-Saharan Africa,In Transition,6354,132555,513979,3549,Yes,Yes,0.2579,0.0069,67,Growing,0.665,11.8
+Costa Rica,Latin America and Caribbean,In Transition,18169,1460000,4757575,273000,Yes,Yes,0.3069,0.0574,81,Growing,0.81,25.7
+Cuba,Latin America and Caribbean,In Transition,12985,2692692,11303687,565216,No,No,0.2382,0.05,77,Growing,0.783,24.6
+Cyprus,Europe and Central Asia,Developed,39545,769485,1198575,173377,Yes,Yes,0.642,0.1447,67,Growing,0.887,21.8
+Czech Republic,Europe and Central Asia,Developed,40836,5334855,10669709,1162342,Yes,Yes,0.5,0.1089,74,Growing,0.887,26
+Germany,Europe and Central Asia,Developed,53785,50627876,83132800,21812660,Yes,Yes,0.609,0.2624,77,Growing,0.947,22.3
+Dominica,Latin America and Caribbean,In Transition,11709,13176,72400,627,Yes,Yes,0.182,0.0087,71,Growing,0.742,27.9
+Denmark,Europe and Central Asia,Developed,57821,4910859,5818553,1718394,Yes,Yes,0.844,0.2953,88,Growing,0.94,19.7
+Dominican Republic,Latin America and Caribbean,In Transition,15328,4063910,10528394,573000,Yes,No,0.386,0.0544,83,Growing Rapidly,0.756,27.6
+Algeria,Middle East and North Africa,In Transition,11826,12378740,40606052,330000,Yes,Yes,0.3048,0.0081,74,Growing Rapidly,0.748,27.4
+Ecuador,Latin America and Caribbean,In Transition,11896,5297211,16144368,193812,Yes,No,0.3281,0.012,64,Growing,0.759,19.9
+Egypt,Middle East and North Africa,In Transition,10301,21000000,87813256,380000,Yes,No,0.2391,0.0043,43,Growing,0.707,32
+Eritrea,Sub-Saharan Africa,Developing,1715,726957,4474690,82000,Yes,No,0.1625,0.0183,41,Growing Rapidly,0.459,5
+Spain,Europe and Central Asia,Developed,40986,22408548,47076780,2984518,Yes,Yes,0.476,0.0634,81,Growing,0.904,23.8
+Estonia,Europe and Central Asia,Developed,36956,489512,1326590,10410321,Yes,Yes,0.369,7.8474,69,Growing,0.892,21.2
+Ethiopia,Sub-Saharan Africa,Developing,1779,6532787,99873032,1409000,Yes,Yes,0.0654,0.0141,22,Growing Rapidly,0.485,4.5
+Finland,Europe and Central Asia,Developed,48814,3124498,5520314,1998693,Yes,Yes,0.566,0.3621,86,Growing,0.938,22.2
+Fiji,East Asia and Pacific,In Transition,10788,189390,867086,12000,Yes,Yes,0.2184,0.0138,57,Growing,0.743,30.2
+France,Europe and Central Asia,Developed,46110,36748820,67059888,10783405,Yes,Yes,0.548,0.1608,81,Growing,0.901,21.6
+Federated States of Micronesia,East Asia and Pacific,In Transition,3440,26040,104937,2000,Yes,Yes,0.2481,0.0191,23,Growing,0.485,45.8
+United Kingdom,Europe and Central Asia,Developed,46290,30771140,66460344,5755258,Yes,Yes,0.463,0.0866,84,Growing,0.932,27.8
+Georgia,Europe and Central Asia,In Transition,12605,800000,3717100,93000,No,Yes,0.2152,0.025,59,Growing,0.812,21.7
+Ghana,Sub-Saharan Africa,In Transition,3093,3538275,21542008,419000,Yes,Yes,0.1643,0.0195,57,Growing Rapidly,0.611,10.9
+Gibraltar,Europe and Central Asia,Developed,43712,16954,33623,58995,Yes,Yes,0.5042,1.7546,100,Growing,0.611,28.9
+Gambia,Sub-Saharan Africa,Developing,2181,193441,1311349,29000,Yes,Yes,0.1475,0.0221,63,Growing Rapidly,0.496,10.3
+Greece,Europe and Central Asia,Developed,30465,5615353,10716322,221041,Yes,Yes,0.524,0.0206,80,Growing,0.888,24.9
+Grenada,Latin America and Caribbean,In Transition,13208,29536,105481,7000,Yes,Yes,0.28,0.0664,37,Growing,0.779,21.3
+Greenland,Europe and Central Asia,Developed,43949,50000,56905,730,Yes,Yes,0.8787,0.0128,87,Growing,0.888,24.7
+Guatemala,Latin America and Caribbean,In Transition,8125,2756741,16252429,10051,Yes,No,0.1696,0.0006,52,Growing Rapidly,0.663,21.2
+Guyana,Latin America and Caribbean,In Transition,9812,179252,746556,742,Yes,No,0.2401,0.001,27,Growing,0.682,20.2
+Hong Kong,East Asia and Pacific,Developed,57216,5679816,7305700,54812,Yes,Yes,0.7775,0.0075,100,Growing,0.634,24.6
+Honduras,Latin America and Caribbean,In Transition,5396,2162028,9112867,253,No,Yes,0.2373,0,58,Growing Rapidly,0.634,21.4
+Croatia,Europe and Central Asia,Developed,28829,1810038,4067500,130326,Yes,Yes,0.445,0.032,58,Decreasing,0.851,24.4
+Haiti,Latin America and Caribbean,Developing,2953,2309852,10847334,546000,No,No,0.2129,0.0503,57,Growing Rapidly,0.51,22.7
+Hungary,Europe and Central Asia,Developed,32643,3780970,9769949,596554,Yes,Yes,0.387,0.0611,72,Growing,0.854,26.4
+Indonesia,East Asia and Pacific,In Transition,10531,65200000,261115456,23000000,Yes,Yes,0.2497,0.0881,57,Growing Rapidly,0.718,6.9
+India,South Asia,In Transition,6497,189750000,1352617344,7467000,Yes,Yes,0.1403,0.0055,35,Growing Rapidly,0.645,3.9
+Ireland,Europe and Central Asia,Developed,83389,2910655,4867316,482907,Yes,Yes,0.598,0.0992,64,Growing,0.955,25.3
+Iran,Middle East and North Africa,In Transition,14536,17885000,80277424,8000000,Yes,Yes,0.2228,0.0997,76,Growing,0.718,25.8
+Iraq,Middle East and North Africa,In Transition,10311,13140000,36115648,20622,No,No,0.3638,0.0006,71,Growing Rapidly,0.674,30.4
+Iceland,Europe and Central Asia,Developed,55274,225270,343400,7000,Yes,Yes,0.656,0.0204,94,Growing,0.949,21.9
+Israel,Middle East and North Africa,Developed,37688,5400000,8380100,321000,Yes,Yes,0.6444,0.0383,93,Growing,0.919,26.1
+Italy,Europe and Central Asia,Developed,42420,30088400,60297396,8923548,Yes,Yes,0.499,0.148,71,Growing,0.892,19.9
+Jamaica,Latin America and Caribbean,In Transition,9551,1051695,2881355,10000,Yes,Yes,0.365,0.0035,56,Growing,0.734,24.7
+Jordan,Middle East and North Africa,In Transition,10413,2529997,8413464,1230441,No,Yes,0.3007,0.1462,91,Growing Rapidly,0.729,35.5
+Japan,East Asia and Pacific,Developed,41310,42720000,126529104,3600000,No,Yes,0.3376,0.0285,92,Decreasing,0.919,4.3
+Kazakhstan,Europe and Central Asia,In Transition,22703,4659740,16791424,130000,Yes,Yes,0.2775,0.0077,58,Growing,0.825,21
+Kenya,Sub-Saharan Africa,In Transition,3330,5595099,41350152,643000,Yes,Yes,0.1353,0.0156,28,Growing Rapidly,0.601,7.1
+Kyrgyzstan,Europe and Central Asia,In Transition,4805,1113300,5956900,4771346,Yes,Yes,0.1869,0.801,37,Growing Rapidly,0.806,25.3
+Cambodia,East Asia and Pacific,In Transition,3364,1089000,15270790,200000,Yes,Yes,0.0713,0.0131,24,Growing Rapidly,0.594,3.9
+Kiribati,East Asia and Pacific,In Transition,2250,35724,114395,1000,Yes,Yes,0.3123,0.0087,56,Growing Rapidly,0.63,46
+St. Kitts and Nevis,Latin America and Caribbean,Developed,25569,32892,54288,3000,Yes,Yes,0.6059,0.0553,31,Growing,0.782,22.9
+South Korea,East Asia and Pacific,Developed,42105,20452776,51606632,2820000,Yes,Yes,0.3963,0.0546,81,Growing,0.709,4.7
+Kuwait,Middle East and North Africa,Developed,58810,1750000,2998083,203000,Yes,Yes,0.5837,0.0677,100,Growing,0.806,37.9
+Laos,East Asia and Pacific,In Transition,6544,351900,6663967,5200,Yes,Yes,0.0528,0.0008,36,Growing Rapidly,0.613,5.3
+Lebanon,Middle East and North Africa,In Transition,16967,2040000,5603279,46000,Yes,No,0.3641,0.0082,89,Growing,0.744,33.7
+Liberia,Sub-Saharan Africa,Developing,1333,564467,3512932,66000,Yes,Yes,0.1607,0.0188,52,Growing Rapidly,0.48,9.9
+Libya,Middle East and North Africa,In Transition,8480,2147596,6193501,110000,Yes,No,0.3468,0.0178,81,Growing,0.724,32.5
+St. Lucia,Latin America and Caribbean,In Transition,14030,77616,177206,2732,Yes,Yes,0.438,0.0154,19,Growing,0.782,19.7
+Sri Lanka,South Asia,In Transition,12287,2631650,21203000,41000,Yes,Yes,0.1241,0.0019,19,Growing,0.782,5.2
+Lithuania,Europe and Central Asia,Developed,37278,1315390,2786844,165477,Yes,Yes,0.472,0.0594,68,Decreasing,0.882,26.3
+Luxembourg,Europe and Central Asia,Developed,114323,490338,619896,237180,Yes,Yes,0.791,0.3826,91,Growing,0.916,22.6
+Latvia,Europe and Central Asia,Developed,30982,839714,1912789,104142,Yes,Yes,0.439,0.0544,68,Decreasing,0.866,23.6
+Macao,East Asia and Pacific,Developed,117336,377942,612167,3118,Yes,Yes,0.6174,0.0051,100,Growing Rapidly,0.916,30
+Morocco,Middle East and North Africa,In Transition,6915,6852000,34318080,289385,No,Yes,0.1997,0.0084,64,Growing Rapidly,0.686,26.1
+Monaco,Europe and Central Asia,Developed,43712,46000,37783,312,Yes,Yes,1.2175,0.0083,100,Growing,0.75,62.4
+Moldova,Europe and Central Asia,In Transition,10361,3981200,3554108,418,Yes,Yes,1.1202,0.0001,43,Decreasing,0.62,18.9
+Madagascar,Sub-Saharan Africa,Developing,1566,3768759,24894552,45957,Yes,Yes,0.1514,0.0018,39,Growing Rapidly,0.528,5.3
+Maldives,South Asia,In Transition,17285,211506,409163,15106,Yes,Yes,0.5169,0.0369,41,Growing Rapidly,0.74,8.6
+Mexico,Latin America and Caribbean,In Transition,19332,53100000,125890952,18172,Yes,Yes,0.4218,0.0001,81,Growing,0.779,28.9
+Marshall Islands,East Asia and Pacific,In Transition,3629,8614,52793,1000,Yes,Yes,0.1632,0.0189,78,Growing,0.704,52.9
+Macedonia,Europe and Central Asia,In Transition,16148,626970,2082958,40797,Yes,Yes,0.301,0.0196,78,Growing,0.916,45.2
+Malta,Middle East and North Africa,Developed,43708,348841,502653,36523,Yes,Yes,0.694,0.0727,95,Growing,0.895,28.9
+Myanmar,East Asia and Pacific,In Transition,1094,4677307,46095464,708000,Yes,Yes,0.1015,0.0154,31,Growing,0.583,5.8
+Montenegro,Europe and Central Asia,In Transition,20753,329780,622227,3819,Yes,Yes,0.53,0.0061,67,Growing,0.829,23.3
+Mozambique,Sub-Saharan Africa,Developing,1217,2500000,27212382,378000,Yes,Yes,0.0919,0.0139,37,Growing Rapidly,0.456,7.2
+Malaysia,East Asia and Pacific,In Transition,23906,12982685,30228016,2918478,Yes,Yes,0.4295,0.0965,77,Growing Rapidly,0.81,15.6
+Nigeria,Sub-Saharan Africa,In Transition,4690,27614830,154402176,2469000,Yes,Yes,0.1789,0.016,52,Growing Rapidly,0.539,8.9
+Netherlands,Europe and Central Asia,Developed,56849,8805088,17332850,4830495,Yes,Yes,0.508,0.2787,92,Growing,0.944,20.4
+Norway,Europe and Central Asia,Developed,64962,4149967,5347896,1482000,Yes,Yes,0.776,0.2771,83,Growing,0.957,23.1
+Nepal,South Asia,Developing,2902,1768977,28982772,5051,Yes,Yes,0.061,0.0002,21,Growing Rapidly,0.602,4.1
+Nauru,East Asia and Pacific,In Transition,11167,6192,13049,0,Yes,Yes,0.4745,0,100,Decreasing,0.646,61
+New Zealand,East Asia and Pacific,Developed,41857,3405000,4692700,55000,Yes,Yes,0.7256,0.0117,87,Growing,0.931,30.8
+Oman,Middle East and North Africa,Developed,30536,1734885,3960925,1469835,Yes,Yes,0.438,0.3711,86,Growing Rapidly,0.813,27
+Pakistan,South Asia,In Transition,4571,30760000,193203472,1538000,Yes,No,0.1592,0.008,37,Growing Rapidly,0.557,8.6
+Panama,Latin America and Caribbean,Developed,28436,1472262,3969249,206000,No,Yes,0.3709,0.0519,68,Growing Rapidly,0.815,22.7
+Peru,Latin America and Caribbean,In Transition,11877,8356711,30973354,660180,Yes,Yes,0.2698,0.0213,78,Growing,0.777,19.7
+Philippines,East Asia and Pacific,In Transition,7705,14631923,103320224,4332222,Yes,Yes,0.1416,0.0419,47,Growing,0.718,6.4
+Palau,East Asia and Pacific,Developed,18275,9427,21503,0,No,Yes,0.4384,0,81,Growing,0.826,55.3
+Papua New Guinea,East Asia and Pacific,In Transition,3912,1000000,7755785,81000,Yes,Yes,0.1289,0.0104,13,Growing Rapidly,0.555,21.3
+Poland,Europe and Central Asia,Developed,33222,12758213,37970872,1679051,Yes,Yes,0.336,0.0442,60,Decreasing,0.88,23.1
+Puerto Rico,Latin America and Caribbean,Developed,34311,4170953,3473181,5,Yes,Yes,1.2009,0,94,Decreasing,0.864,31.4
+Portugal,Europe and Central Asia,Developed,34962,5268211,10269417,701228,Yes,Yes,0.513,0.0683,66,Growing Rapidly,0.864,20.8
+West Bank and Gaza,Middle East and North Africa,In Transition,5986,1387000,4046901,62621,Yes,Yes,0.3427,0.0155,77,Growing Rapidly,0.704,24.4
+Qatar,Middle East and North Africa,Developed,96262,1000990,2109568,105000,Yes,Yes,0.4745,0.0498,99,Growing Rapidly,0.848,35.1
+Romania,Europe and Central Asia,In Transition,29984,5419833,19356544,590300,Yes,Yes,0.28,0.0305,54,Decreasing,0.828,22.5
+Russia,Europe and Central Asia,In Transition,26013,60000000,143201680,110000000,Yes,Yes,0.419,0.7681,75,Growing,0.828,23.1
+Rwanda,Sub-Saharan Africa,Developing,1951,4384969,11917508,170000,Yes,Yes,0.3679,0.0143,17,Growing Rapidly,0.543,5.8
+Saudi Arabia,Middle East and North Africa,Developed,48921,16125701,31557144,697000,Yes,Yes,0.511,0.0221,84,Growing Rapidly,0.854,35.4
+Sudan,Sub-Saharan Africa,In Transition,4192,2831291,38647804,672000,No,No,0.0733,0.0174,35,Growing Rapidly,0.51,8.6
+Senegal,Sub-Saharan Africa,Developing,3068,2454059,15411614,202000,No,Yes,0.1592,0.0131,48,Growing Rapidly,0.512,8.8
+Singapore,East Asia and Pacific,Developed,97341,1870000,5703600,446870,Yes,Yes,0.3279,0.0783,100,Growing,0.938,6.1
+Solomon Islands,East Asia and Pacific,In Transition,2596,179972,563513,7000,Yes,Yes,0.3194,0.0124,25,Growing Rapidly,0.567,22.5
+Sierra Leone,Sub-Saharan Africa,Developing,1238,610222,5439695,98000,Yes,Yes,0.1122,0.018,43,Growing Rapidly,0.452,8.7
+El Salvador,Latin America and Caribbean,In Transition,7329,1648996,6164626,16465,Yes,Yes,0.2675,0.0027,73,Growing,0.673,24.6
+Somalia,Sub-Saharan Africa,Developing,1863,2326099,14317996,194000,No,No,0.1625,0.0135,46,Growing Rapidly,0.567,8.3
+Serbia,Europe and Central Asia,In Transition,18351,2347402,6944975,13475026,Yes,Yes,0.338,1.9403,56,Decreasing,0.806,21.5
+São Tomé and Príncipe,Sub-Saharan Africa,In Transition,3721,25587,191266,4000,No,Yes,0.1338,0.0209,74,Growing Rapidly,0.625,12.4
+Suriname,Latin America and Caribbean,In Transition,16954,78620,526103,27000,No,No,0.1494,0.0513,66,Growing Rapidly,0.738,26.4
+Slovakia,Europe and Central Asia,Developed,31966,2296165,5454073,375688,Yes,Yes,0.421,0.0689,54,Decreasing,0.86,20.5
+Slovenia,Europe and Central Asia,Developed,39038,1052325,2087946,155229,Yes,Yes,0.504,0.0743,55,Growing,0.917,20.2
+Sweden,Europe and Central Asia,Developed,52609,4618169,10285453,2568154,Yes,Yes,0.449,0.2497,88,Growing,0.945,20.6
+Seychelles,Sub-Saharan Africa,Developed,23303,48000,88303,2000,Yes,Yes,0.5436,0.0226,58,Growing,0.796,14
+Syria,Middle East and North Africa,Developing,8587,4500000,20824892,68000,Yes,Yes,0.2161,0.0033,55,Growing,0.955,27.8
+Togo,Sub-Saharan Africa,Developing,1404,1109030,7228915,1900,Yes,Yes,0.1534,0.0003,43,Growing Rapidly,0.515,8.4
+Thailand,East Asia and Pacific,In Transition,16302,26853366,68657600,3445000,Yes,Yes,0.3911,0.0502,51,Growing,0.777,10
+Tajikistan,Europe and Central Asia,Developing,2616,1787400,8177809,3817000,Yes,Yes,0.2186,0.4668,28,Growing Rapidly,0.668,14.2
+Turkmenistan,Europe and Central Asia,In Transition,11471,500000,5366277,1000,Yes,Yes,0.0932,0.0002,53,Growing Rapidly,0.715,18.6
+Timor-Leste,East Asia and Pacific,In Transition,3345,63875,1268671,10000,Yes,Yes,0.0503,0.0079,31,Growing Rapidly,0.606,3.8
+Tonga,East Asia and Pacific,In Transition,5636,17238,104951,1000,Yes,Yes,0.1643,0.0095,23,Growing,0.725,48.2
+Trinidad and Tobago,Latin America and Caribbean,Developed,28911,727874,1328100,123914,Yes,Yes,0.5481,0.0933,53,Growing,0.796,18.6
+Tunisia,Middle East and North Africa,In Transition,10505,2700000,11143908,150000,Yes,Yes,0.2423,0.0135,70,Growing,0.74,26.9
+Turkey,Europe and Central Asia,In Transition,28289,35374156,83429616,3432426,Yes,Yes,0.424,0.0411,76,Growing Rapidly,0.82,32.1
+Tuvalu,East Asia and Pacific,In Transition,3793,3989,11097,500,Yes,Yes,0.3595,0.0451,64,Growing Rapidly,0.715,51.6
+Taiwan,East Asia and Pacific,Developed,57363,7336000,23434000,193000,Yes,Yes,0.313,0.0082,79,Growing,0.567,22.8
+Tanzania,Sub-Saharan Africa,Developing,2129,9276995,49082996,741000,No,Yes,0.189,0.0151,35,Growing Rapidly,0.668,8.4
+Uganda,Sub-Saharan Africa,Developing,1972,7045050,35093648,511000,Yes,Yes,0.2008,0.0146,25,Growing Rapidly,0.544,5.3
+Ukraine,Europe and Central Asia,In Transition,11535,15242025,45004644,448000000,Yes,Yes,0.3387,9.9545,70,Decreasing,0.779,24.1
+Uruguay,Latin America and Caribbean,Developed,20588,1260140,3431552,226000,Yes,Yes,0.3672,0.0659,96,Growing,0.817,27.9
+United States,North America,Developed,61498,265224528,326687488,28800000,Yes,Yes,0.8119,0.0882,83,Growing,0.926,36.2
+Uzbekistan,Europe and Central Asia,In Transition,5164,4000000,29774500,28472000,Yes,Yes,0.1343,0.9563,50,Growing,0.72,16.6
+St. Vincent and the Grenadines,Latin America and Caribbean,In Transition,11972,31561,109455,7000,Yes,Yes,0.2884,0.064,53,Growing,0.782,50.6
+Venezuela,Latin America and Caribbean,In Transition,14270,9779093,29893080,123157,No,Yes,0.3271,0.0041,88,Growing,0.609,25.6
+Vietnam,East Asia and Pacific,In Transition,5089,9570300,86932496,2995154,Yes,Yes,0.1101,0.0345,37,Growing Rapidly,0.704,2.1
+Vanuatu,East Asia and Pacific,In Transition,3062,70225,270402,3000,Yes,Yes,0.2597,0.0111,26,Growing Rapidly,0.609,25.2
+Samoa,East Asia and Pacific,In Transition,6211,27399,187665,3000,Yes,Yes,0.146,0.016,18,Decreasing,0.715,47.3
+Yemen,Middle East and North Africa,Developing,8270,4836820,27584212,21000,Yes,Yes,0.1753,0.0008,38,Growing Rapidly,0.47,17.1
+South Africa,Sub-Saharan Africa,In Transition,12667,18457232,51729344,1319096,Yes,Yes,0.3568,0.0255,67,Growing,0.709,28.3
+Zambia,Sub-Saharan Africa,In Transition,3201,2608268,14264756,80000,Yes,Yes,0.1828,0.0056,45,Growing Rapidly,0.584,8.1
+Zimbabwe,Sub-Saharan Africa,Developing,3191,1449752,12500525,37346,Yes,Yes,0.116,0.003,32,Growing Rapidly,0.571,15.5
