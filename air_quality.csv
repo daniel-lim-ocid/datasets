@@ -1,0 +1,967 @@
+State,County,Name,AQI,Income,Population,Urban,Rural,Metro,RU_Code,White_Perc,Other_Perc,Asthma,Cancer,Cancer_Projection,Power_Plants,Power_Plant_Type,CO2,Travel_Time,Life,Employees,Ag_Percent,Ex_Percent,Transportation_Percent,Highway
+Alabama,Baldwin,Alabama Baldwin,36,"$59,871","223,234",TRUE,FALSE,TRUE,3,83.21%,16.79%,4.5%,456.0,stable,0,None,0,26.1,78.14,Accommodation and food services,0.01%,0.08%,1.87%,TRUE
+Alabama,Clay,Alabama Clay,26,"$40,562","13,235",FALSE,TRUE,FALSE,9,80.35%,19.65%,4.0%,478.9,stable,0,None,0,27.8,75.93,Manufacturing,1.96%,0.00%,1.62%,TRUE
+Alabama,DeKalb,Alabama DeKalb,36,"$44,277","71,513",FALSE,TRUE,FALSE,6,79.85%,20.15%,4.1%,395.6,falling,1,Biomass,0,24.9,75.79,Manufacturing,0.05%,0.00%,3.42%,TRUE
+Alabama,Elmore,Alabama Elmore,31,"$62,310","81,209",TRUE,FALSE,TRUE,2,73.08%,26.92%,3.4%,505.3,stable,5,Hydro,0,26.5,76.43,Accommodation and food services,0.36%,0.15%,1.01%,TRUE
+Alabama,Etowah,Alabama Etowah,34,"$43,047","102,268",TRUE,FALSE,TRUE,3,77.45%,22.55%,7.1%,464.1,stable,1,Gas,"131,530",26.2,74.29,Health care and social assistance,0.04%,0.00%,3.18%,TRUE
+Alabama,Jefferson,Alabama Jefferson,48,"$54,127","658,573",TRUE,FALSE,TRUE,1,49.51%,50.49%,5.4%,451.4,falling,3,Coal,"21,117,155",25.7,75.36,Health care and social assistance,0.06%,0.41%,4.62%,TRUE
+Alabama,Madison,Alabama Madison,40,"$68,609","372,909",TRUE,FALSE,TRUE,2,64.50%,35.50%,6.2%,446.1,stable,1,Solar,0,21.3,78.09,"Professional, scientific, and technical services",0.02%,0.04%,2.52%,TRUE
+Alabama,Mobile,Alabama Mobile,42,"$49,492","413,210",TRUE,FALSE,TRUE,2,56.52%,43.48%,4.4%,440.6,falling,7,Gas,"9,571,621",24.7,75.25,Health care and social assistance,0.27%,0.14%,5.45%,TRUE
+Alabama,Montgomery,Alabama Montgomery,52,"$52,711","226,486",TRUE,FALSE,TRUE,2,32.70%,67.30%,4.0%,451.4,stable,1,Solar,0,20.5,76.29,Health care and social assistance,0.05%,0.03%,5.01%,TRUE
+Alabama,Morgan,Alabama Morgan,35,"$54,355","119,679",TRUE,FALSE,TRUE,3,75.06%,24.94%,4.5%,477.7,stable,3,Gas,"2,159,854",22.7,76.35,Manufacturing,0.03%,0.11%,4.49%,TRUE
+Alabama,Russell,Alabama Russell,36,"$43,670","57,961",TRUE,FALSE,TRUE,2,45.83%,54.17%,4.8%,414.0,stable,1,Gas,0,22.8,74.39,Manufacturing,0.59%,0.00%,1.83%,TRUE
+Alabama,Shelby,Alabama Shelby,28,"$77,801","217,702",TRUE,FALSE,TRUE,1,77.21%,22.79%,5.6%,416.5,falling,1,Coal,"5,309,811",30.8,79.53,Retail trade,0.26%,0.65%,2.48%,TRUE
+Alabama,Sumter,Alabama Sumter,29,"$29,209","12,427",FALSE,TRUE,FALSE,8,24.93%,75.07%,4.1%,473.3,rising,0,None,0,25.6,75.4,Transportation and warehousing,1.16%,0.00%,27.50%,TRUE
+Alabama,Tuscaloosa,Alabama Tuscaloosa,31,"$52,307","209,355",TRUE,FALSE,TRUE,3,60.80%,39.20%,6.2%,441.4,falling,2,Hydro,0,22.1,76.23,Manufacturing,0.23%,2.30%,5.50%,TRUE
+Alaska,Anchorage,Alaska Anchorage,22,"$82,512","288,000",TRUE,FALSE,TRUE,2,57.11%,42.89%,3.9%,439.1,falling,7,Gas,"1,064,352",18.9,79.1,Health care and social assistance,0.01%,3.93%,8.00%,FALSE
+Alaska,Denali,Alaska Denali,33,"$78,434","2,097",FALSE,TRUE,FALSE,8,79.49%,20.51%,3.4%,410.2,stable,2,Wind,"514,158",15.3,75.21,"Professional, scientific, and technical services",0.00%,13.32%,5.51%,FALSE
+Alaska,Fairbanks North Star,Alaska Fairbanks North Star,33,"$74,076","96,849",TRUE,FALSE,TRUE,3,69.25%,30.75%,3.2%,386.7,falling,7,Coal,"656,648",22.8,79.88,Health care and social assistance,0.07%,2.85%,7.52%,FALSE
+Alaska,Juneau,Alaska Juneau,14,"$85,419","31,974",TRUE,FALSE,FALSE,5,64.06%,35.94%,2.8%,400.9,falling,9,Hydro,"2,945",15.6,80.8,Health care and social assistance,0.43%,8.09%,7.74%,TRUE
+Alaska,Matanuska-Susitna,Alaska Matanuska-Susitna,14,"$75,856","108,317",TRUE,FALSE,TRUE,2,78.62%,21.38%,3.6%,427.6,falling,1,Hydro,0,37.4,78.52,Health care and social assistance,0.17%,0.12%,4.03%,FALSE
+Arizona,Apache,Arizona Apache,14,"$35,386","71,887",FALSE,TRUE,FALSE,6,17.99%,82.01%,5.5%,270.7,falling,4,Coal,"11,815,553",31.7,74.77,Health care and social assistance,0.21%,1.61%,1.07%,TRUE
+Arizona,Cochise,Arizona Cochise,45,"$48,650","125,922",TRUE,FALSE,TRUE,3,54.77%,45.23%,4.1%,385.6,stable,7,Solar,"1,602,060",19.8,78.9,Health care and social assistance,0.18%,0.07%,2.32%,TRUE
+Arizona,Coconino,Arizona Coconino,44,"$58,301","143,476",TRUE,FALSE,TRUE,3,54.09%,45.91%,4.8%,361.1,falling,4,Wind,"12,005,613",19.5,79.53,Accommodation and food services,0.04%,0.05%,2.62%,TRUE
+Arizona,Gila,Arizona Gila,47,"$45,980","54,018",TRUE,FALSE,FALSE,4,61.63%,38.37%,3.8%,328.0,falling,2,Solar,0,19.4,76.84,Health care and social assistance,0.00%,13.61%,2.84%,FALSE
+Arizona,La Paz,Arizona La Paz,44,"$39,407","21,108",FALSE,TRUE,FALSE,6,56.51%,43.49%,3.6%,315.6,stable,5,Solar,0,14.4,80.72,Accommodation and food services,0.00%,0.28%,2.23%,TRUE
+Arizona,Maricopa,Arizona Maricopa,112,"$68,634","4,485,414",TRUE,FALSE,TRUE,1,54.53%,45.47%,5.8%,391.3,falling,59,Solar,"15,368,159",27.4,79.98,Health care and social assistance,0.04%,0.06%,5.09%,TRUE
+Arizona,Mohave,Arizona Mohave,18,"$49,712","212,181",TRUE,FALSE,TRUE,3,76.74%,23.26%,3.8%,418.8,falling,14,Solar,"2,303,640",22.3,75.63,Retail trade,0.00%,0.33%,3.37%,TRUE
+Arizona,Navajo,Arizona Navajo,43,"$40,676","110,924",TRUE,FALSE,FALSE,4,41.64%,58.36%,5.9%,332.8,falling,6,Wind,"3,550,794",22.4,76.21,Health care and social assistance,0.40%,2.06%,2.48%,TRUE
+Arizona,Pima,Arizona Pima,53,"$56,150","1,047,279",TRUE,FALSE,TRUE,2,51.20%,48.80%,5.4%,392.6,falling,28,Solar,"1,046,679",25.1,79.33,Health care and social assistance,0.07%,0.78%,3.22%,TRUE
+Arizona,Pinal,Arizona Pinal,72,"$62,067","462,789",TRUE,FALSE,TRUE,1,56.09%,43.91%,5.5%,351.9,falling,14,Solar,"1,503,162",33.5,79.92,Health care and social assistance,0.54%,1.61%,4.11%,TRUE
+Arizona,Santa Cruz,Arizona Santa Cruz,34,"$47,779","46,498",TRUE,FALSE,FALSE,4,14.98%,85.02%,2.9%,330.7,stable,2,Gas,"18,324",23.2,82.16,Wholesale trade,1.11%,0.71%,15.03%,TRUE
+Arizona,Yavapai,Arizona Yavapai,45,"$54,242","235,099",TRUE,FALSE,TRUE,3,80.17%,19.83%,5.6%,407.8,falling,6,Solar,0,23.3,79.31,Health care and social assistance,0.11%,1.48%,2.65%,TRUE
+Arizona,Yuma,Arizona Yuma,44,"$47,024","213,787",TRUE,FALSE,TRUE,3,30.15%,69.85%,4.4%,369.9,stable,8,Solar,"289,799",19.6,80.72,Health care and social assistance,1.44%,0.09%,3.18%,TRUE
+Arkansas,Arkansas,Arkansas Arkansas,27,"$52,539","17,486",FALSE,TRUE,FALSE,6,69.06%,30.94%,2.2%,522.6,rising,2,Biomass,306,15.0,75.09,Manufacturing,1.20%,0.00%,4.19%,FALSE
+Arkansas,Ashley,Arkansas Ashley,28,"$47,744","19,657",FALSE,TRUE,FALSE,7,68.45%,31.55%,3.6%,509.1,stable,1,Biomass,"51,290",20.1,75.48,Manufacturing,4.27%,0.00%,4.31%,FALSE
+Arkansas,Clark,Arkansas Clark,29,"$44,105","22,320",FALSE,TRUE,FALSE,7,68.31%,31.69%,3.1%,512.3,rising,1,Hydro,0,21.5,76.52,Manufacturing,3.77%,0.00%,2.22%,TRUE
+Arkansas,Crittenden,Arkansas Crittenden,38,"$41,976","47,955",TRUE,FALSE,TRUE,1,40.89%,59.11%,3.2%,452.6,rising,0,None,0,20.4,72.88,Transportation and warehousing,0.04%,0.00%,18.27%,TRUE
+Arkansas,Garland,Arkansas Garland,29,"$45,786","99,386",TRUE,FALSE,TRUE,3,81.67%,18.33%,3.9%,491.9,stable,2,Hydro,0,22.8,76.26,Health care and social assistance,0.08%,0.13%,1.25%,FALSE
+Arkansas,Jackson,Arkansas Jackson,26,"$38,636","16,719",FALSE,TRUE,FALSE,6,76.78%,23.22%,2.9%,481.3,stable,0,None,0,18.9,74.64,Manufacturing,2.71%,0.00%,2.85%,TRUE
+Arkansas,Newton,Arkansas Newton,35,"$37,648","7,753",FALSE,TRUE,FALSE,9,93.54%,6.46%,3.4%,359.6,stable,0,None,0,30.8,78.28,Health care and social assistance,0.00%,0.00%,2.74%,TRUE
+Arkansas,Polk,Arkansas Polk,36,"$39,722","19,964",FALSE,TRUE,FALSE,7,87.78%,12.22%,4.2%,443.4,stable,0,None,0,23.2,76.37,Manufacturing,1.40%,0.94%,5.93%,TRUE
+Arkansas,Pulaski,Arkansas Pulaski,42,"$52,684","391,911",TRUE,FALSE,TRUE,2,51.62%,48.38%,4.6%,484.9,falling,7,Gas,"171,154",19.2,76.62,Health care and social assistance,0.02%,0.11%,5.17%,TRUE
+Arkansas,Union,Arkansas Union,34,"$46,602","38,682",FALSE,TRUE,FALSE,7,60.65%,39.35%,3.6%,494.8,stable,1,Gas,"4,739,746",18.7,74.34,Manufacturing,0.68%,1.89%,3.08%,TRUE
+Arkansas,Washington,Arkansas Washington,39,"$52,158","239,187",TRUE,FALSE,TRUE,2,70.44%,29.56%,4.6%,456.5,stable,8,Gas,"152,720",20.8,78.5,Health care and social assistance,0.12%,0.04%,7.23%,TRUE
+California,Alameda,California Alameda,43,"$107,589","1,671,329",TRUE,FALSE,TRUE,1,30.64%,69.36%,5.7%,385.9,falling,33,Gas,"522,910",35.6,81.1,Health care and social assistance,0.01%,0.02%,4.28%,TRUE
+California,Amador,California Amador,37,"$62,640","39,752",FALSE,TRUE,FALSE,6,77.33%,22.67%,4.1%,444.1,falling,7,Hydro,0,31.6,80.01,Accommodation and food services,1.09%,1.37%,1.01%,FALSE
+California,Butte,California Butte,51,"$58,394","219,186",TRUE,FALSE,TRUE,3,70.91%,29.09%,5.2%,471.1,falling,23,Hydro,"2,927",21.1,78.28,Health care and social assistance,0.31%,0.06%,1.85%,FALSE
+California,Calaveras,California Calaveras,44,"$68,248","45,905",FALSE,TRUE,FALSE,6,79.89%,20.11%,4.5%,406.1,falling,5,Hydro,0,37.9,80.16,Retail trade,1.15%,0.31%,2.99%,FALSE
+California,Colusa,California Colusa,38,"$59,048","21,547",FALSE,TRUE,FALSE,6,34.08%,65.92%,3.9%,377.2,stable,2,Gas,"1,282,158",25.1,80.22,Accommodation and food services,2.25%,0.00%,7.00%,TRUE
+California,Contra Costa,California Contra Costa,41,"$106,555","1,153,526",TRUE,FALSE,TRUE,1,42.69%,57.31%,6.1%,419.7,falling,30,Gas,"5,462,407",39.3,81.16,Health care and social assistance,0.02%,0.03%,2.49%,TRUE
+California,Del Norte,California Del Norte,32,"$48,979","27,812",FALSE,TRUE,FALSE,7,61.97%,38.03%,3.9%,382.7,falling,0,None,0,14.6,76.77,Health care and social assistance,1.59%,0.00%,1.21%,FALSE
+California,El Dorado,California El Dorado,43,"$86,202","192,843",TRUE,FALSE,TRUE,1,77.21%,22.79%,4.8%,434.5,falling,12,Hydro,"9,357",28.9,81.17,Accommodation and food services,0.17%,0.07%,0.71%,FALSE
+California,Fresno,California Fresno,74,"$56,926","999,101",TRUE,FALSE,TRUE,2,28.63%,71.37%,7.6%,392.9,falling,76,Solar,"494,369",24.3,78.86,Health care and social assistance,1.03%,0.03%,4.25%,TRUE
+California,Glenn,California Glenn,43,"$55,682","28,393",FALSE,TRUE,FALSE,6,50.48%,49.52%,5.3%,493.9,stable,2,Hydro,0,21.8,78.73,Retail trade,3.13%,0.57%,7.76%,TRUE
+California,Humboldt,California Humboldt,29,"$51,134","135,558",TRUE,FALSE,FALSE,5,73.83%,26.17%,4.4%,427.7,falling,6,Biomass,"222,878",19.0,77.6,Health care and social assistance,1.46%,0.00%,2.29%,TRUE
+California,Imperial,California Imperial,58,"$48,102","181,215",TRUE,FALSE,TRUE,3,10.02%,89.98%,6.1%,391.3,stable,72,Solar,"604,838",23.7,80.31,Retail trade,1.84%,0.99%,5.07%,TRUE
+California,Inyo,California Inyo,52,"$59,605","18,039",FALSE,TRUE,FALSE,7,60.81%,39.19%,4.6%,433.3,stable,16,Hydro,"92,121",16.3,79.09,Accommodation and food services,0.08%,0.00%,1.02%,FALSE
+California,Kern,California Kern,81,"$53,245","900,202",TRUE,FALSE,TRUE,2,32.85%,67.15%,6.4%,406.7,falling,210,Solar,"6,019,840",24.2,77.54,Health care and social assistance,2.48%,3.65%,5.87%,TRUE
+California,Kings,California Kings,67,"$57,297","152,940",TRUE,FALSE,TRUE,3,31.34%,68.66%,6.3%,374.7,falling,38,Solar,"28,264",23.1,79.15,Health care and social assistance,1.73%,0.00%,4.76%,TRUE
+California,Lake,California Lake,32,"$46,897","64,386",TRUE,FALSE,FALSE,4,68.91%,31.09%,4.4%,451.2,falling,8,Geothermal,"86,980",24.8,76.12,Health care and social assistance,2.03%,0.20%,1.68%,TRUE
+California,Los Angeles,California Los Angeles,83,"$72,721","10,039,107",TRUE,FALSE,TRUE,1,26.06%,73.94%,5.6%,377.3,falling,232,Solar,"8,148,606",32.8,80.81,Health care and social assistance,0.02%,0.07%,5.25%,TRUE
+California,Madera,California Madera,61,"$61,105","157,327",TRUE,FALSE,TRUE,3,33.18%,66.82%,6.8%,392.1,falling,17,Solar,"10,886",32.6,79.29,Health care and social assistance,6.76%,0.00%,2.03%,FALSE
+California,Marin,California Marin,33,"$112,069","258,826",TRUE,FALSE,TRUE,1,71.14%,28.86%,4.5%,451.4,falling,3,Solar,0,33.5,83.36,Health care and social assistance,0.05%,0.00%,1.32%,FALSE
+California,Mariposa,California Mariposa,47,"$52,760","17,203",FALSE,TRUE,FALSE,8,79.32%,20.68%,5.5%,372.1,falling,2,Hydro,0,28.7,80.39,Accommodation and food services,0.00%,0.00%,1.19%,FALSE
+California,Merced,California Merced,53,"$59,733","277,680",TRUE,FALSE,TRUE,2,26.49%,73.51%,7.5%,380.5,falling,15,Solar,"2,700",31.1,79.13,Manufacturing,3.39%,0.10%,4.48%,TRUE
+California,Mono,California Mono,40,"$66,226","14,444",FALSE,TRUE,FALSE,7,65.77%,34.23%,3.4%,290.9,stable,9,Hydro,0,15.9,83.29,Accommodation and food services,0.00%,0.36%,0.00%,FALSE
+California,Monterey,California Monterey,36,"$76,509","434,061",TRUE,FALSE,TRUE,2,29.37%,70.63%,4.2%,390.8,falling,23,Gas,"2,287,871",25.1,81.63,Accommodation and food services,2.15%,0.25%,2.59%,FALSE
+California,Napa,California Napa,36,"$90,230","137,744",TRUE,FALSE,TRUE,3,51.76%,48.24%,5.4%,421.6,falling,6,Gas,0,26.9,80.58,Accommodation and food services,0.76%,0.00%,3.23%,FALSE
+California,Nevada,California Nevada,41,"$36,528","99,755",TRUE,FALSE,FALSE,4,84.74%,15.26%,5.5%,411.9,stable,12,Hydro,0,29.1,81.44,Accommodation and food services,0.16%,0.13%,2.27%,TRUE
+California,Orange,California Orange,51,"$95,761","3,175,692",TRUE,FALSE,TRUE,1,39.83%,60.17%,5.5%,410.4,falling,49,Other,"377,028",28.3,81.98,Accommodation and food services,0.02%,0.03%,2.28%,TRUE
+California,Placer,California Placer,54,"$97,688","398,329",TRUE,FALSE,TRUE,1,71.53%,28.47%,5.2%,452.7,stable,20,Hydro,"154,618",28.9,81.29,Accommodation and food services,0.08%,0.01%,2.14%,TRUE
+California,Plumas,California Plumas,49,"$59,376","18,807",FALSE,TRUE,FALSE,7,83.09%,16.91%,3.5%,419.9,falling,13,Hydro,"8,698",19.9,78.75,Health care and social assistance,0.50%,0.00%,0.69%,FALSE
+California,Riverside,California Riverside,87,"$72,905","2,470,546",TRUE,FALSE,TRUE,1,34.07%,65.93%,4.5%,403.2,falling,98,Solar,"1,125,858",35.7,79.91,Accommodation and food services,0.16%,0.05%,6.54%,TRUE
+California,Sacramento,California Sacramento,52,"$71,891","1,552,058",TRUE,FALSE,TRUE,1,43.80%,56.20%,6.1%,425.9,falling,54,Solar,"1,877,930",28.6,79.04,Health care and social assistance,0.06%,0.03%,4.59%,TRUE
+California,San Benito,California San Benito,39,"$84,209","62,808",TRUE,FALSE,TRUE,1,32.79%,67.21%,5.2%,395.4,stable,3,Solar,0,35.3,81.83,Manufacturing,2.26%,0.18%,2.99%,FALSE
+California,San Bernardino,California San Bernardino,93,"$67,398","2,180,085",TRUE,FALSE,TRUE,1,27.29%,72.71%,5.3%,399.9,falling,146,Solar,"3,242,730",31.9,78.4,Health care and social assistance,0.03%,0.11%,12.53%,TRUE
+California,San Diego,California San Diego,71,"$83,576","3,338,330",TRUE,FALSE,TRUE,1,44.96%,55.04%,4.1%,418.6,stable,88,Gas,"1,489,232",27.2,80.98,Health care and social assistance,0.05%,0.02%,2.40%,TRUE
+California,San Francisco,California San Francisco,36,"$121,795","881,549",TRUE,FALSE,TRUE,1,40.20%,59.80%,4.6%,394.5,falling,9,Gas,"29,339",34.7,81.33,"Professional, scientific, and technical services",0.01%,0.01%,2.21%,FALSE
+California,San Joaquin,California San Joaquin,49,"$68,458","762,148",TRUE,FALSE,TRUE,2,30.46%,69.54%,6.0%,413.4,falling,24,Gas,"952,073",36.3,78.37,Health care and social assistance,0.59%,0.09%,13.71%,TRUE
+California,San Luis Obispo,California San Luis Obispo,48,"$76,599","283,111",TRUE,FALSE,TRUE,2,68.50%,31.50%,4.7%,442.7,stable,13,Solar,"5,761",20.3,81.1,Accommodation and food services,0.33%,0.07%,1.96%,FALSE
+California,San Mateo,California San Mateo,35,"$135,234","766,573",TRUE,FALSE,TRUE,1,38.68%,61.32%,4.9%,412.3,falling,6,Gas,"10,337",29.9,82.57,"Professional, scientific, and technical services",0.02%,0.03%,10.82%,TRUE
+California,Santa Barbara,California Santa Barbara,42,"$74,530","446,499",TRUE,FALSE,TRUE,2,43.80%,56.20%,4.0%,438.4,stable,14,Gas,"3,089",21.3,81.66,Accommodation and food services,0.64%,0.47%,2.08%,FALSE
+California,Santa Clara,California Santa Clara,44,"$132,444","1,927,852",TRUE,FALSE,TRUE,1,30.58%,69.42%,4.9%,382.7,falling,57,Gas,"1,651,631",30.1,82.86,"Professional, scientific, and technical services",0.02%,0.01%,1.40%,TRUE
+California,Santa Cruz,California Santa Cruz,34,"$85,770","273,213",TRUE,FALSE,TRUE,2,56.77%,43.23%,5.0%,428.6,falling,4,Biomass,"11,457",30.4,81.47,Health care and social assistance,0.11%,0.02%,1.37%,TRUE
+California,Shasta,California Shasta,41,"$61,464","180,080",TRUE,FALSE,TRUE,3,79.16%,20.84%,3.5%,490.3,stable,41,Hydro,"141,724",20.7,76.93,Health care and social assistance,0.79%,0.22%,2.79%,TRUE
+California,Solano,California Solano,41,"$85,704","447,643",TRUE,FALSE,TRUE,2,37.17%,62.83%,5.8%,428.5,falling,34,Wind,"141,189",34.7,79.42,Health care and social assistance,0.04%,0.18%,4.01%,TRUE
+California,Sonoma,California Sonoma,33,"$87,084","494,336",TRUE,FALSE,TRUE,2,62.91%,37.09%,5.3%,429.7,falling,19,Solar,"593,422",26.1,80.6,Health care and social assistance,0.32%,0.08%,2.42%,FALSE
+California,Stanislaus,California Stanislaus,55,"$62,761","550,660",TRUE,FALSE,TRUE,2,40.38%,59.62%,5.2%,420.6,falling,18,Hydro,"1,074,600",31.7,78.21,Health care and social assistance,1.32%,0.01%,4.78%,TRUE
+California,Sutter,California Sutter,48,"$60,910","96,971",TRUE,FALSE,TRUE,3,44.93%,55.07%,6.3%,398.3,falling,6,Gas,"336,876",28.4,78.96,Retail trade,1.32%,0.00%,4.58%,FALSE
+California,Tehama,California Tehama,43,"$51,672","65,084",TRUE,FALSE,FALSE,4,67.35%,32.65%,4.0%,479.4,falling,7,Hydro,"7,235",27.4,78.1,Retail trade,2.87%,0.00%,14.43%,TRUE
+California,Trinity,California Trinity,27,"$43,881","12,285",FALSE,TRUE,FALSE,8,81.89%,18.11%,3.2%,426.8,falling,5,Hydro,0,19.6,77.71,Retail trade,0.00%,0.00%,0.49%,FALSE
+California,Tulare,California Tulare,79,"$56,776","466,195",TRUE,FALSE,TRUE,2,27.66%,72.34%,5.9%,370.2,falling,39,Solar,"23,936",22.6,78.16,Health care and social assistance,1.15%,0.02%,7.02%,FALSE
+California,Tuolumne,California Tuolumne,41,"$64,729","54,478",TRUE,FALSE,FALSE,4,79.71%,20.29%,5.5%,408.0,falling,19,Hydro,"7,900",26.9,79.64,Health care and social assistance,0.81%,0.50%,0.81%,FALSE
+California,Ventura,California Ventura,47,"$91,446","846,006",TRUE,FALSE,TRUE,2,44.68%,55.32%,6.0%,421.6,stable,16,Gas,"482,147",27.8,81.61,Health care and social assistance,0.28%,0.25%,2.30%,FALSE
+California,Yolo,California Yolo,42,"$70,951","220,500",TRUE,FALSE,TRUE,1,45.95%,54.05%,5.6%,400.1,falling,10,Solar,"7,889",24.0,80.4,Accommodation and food services,0.51%,0.17%,10.85%,TRUE
+Colorado,Adams,Colorado Adams,47,"$75,341","517,421",TRUE,FALSE,TRUE,1,49.03%,50.97%,5.3%,404.2,falling,19,Solar,"2,343,454",30.5,80,Health care and social assistance,0.01%,0.82%,11.97%,TRUE
+Colorado,Arapahoe,Colorado Arapahoe,45,"$82,364","656,590",TRUE,FALSE,TRUE,1,59.39%,40.61%,5.3%,396.0,stable,8,Solar,0,28.9,80,Health care and social assistance,0.02%,0.34%,1.63%,TRUE
+Colorado,Archuleta,Colorado Archuleta,43,"$57,604","14,029",FALSE,TRUE,FALSE,7,76.81%,23.19%,2.7%,299.6,falling,0,None,0,17.9,82.49,Retail trade,0.06%,0.00%,0.61%,FALSE
+Colorado,Boulder,Colorado Boulder,47,"$88,341","326,196",TRUE,FALSE,TRUE,2,77.40%,22.60%,4.1%,384.3,stable,10,Hydro,"5,105",23.9,80,"Professional, scientific, and technical services",0.03%,0.10%,1.00%,FALSE
+Colorado,Clear Creek,Colorado Clear Creek,47,"$79,900","9,700",TRUE,FALSE,TRUE,1,87.80%,12.20%,4.4%,353.8,falling,3,Hydro,0,30.6,82.03,"Arts, entertainment, and recreation",0.00%,21.35%,1.55%,TRUE
+Colorado,Delta,Colorado Delta,41,"$51,525","31,162",FALSE,TRUE,FALSE,6,81.19%,18.81%,4.0%,388.6,stable,0,None,0,25.3,79.48,Health care and social assistance,0.96%,0.41%,1.09%,FALSE
+Colorado,Denver,Colorado Denver,50,"$75,456","727,211",TRUE,FALSE,TRUE,1,54.91%,45.09%,4.8%,408.2,falling,10,Solar,"113,436",27.1,80,Accommodation and food services,0.03%,1.26%,7.19%,TRUE
+Colorado,Douglas,Colorado Douglas,46,"$123,697","351,154",TRUE,FALSE,TRUE,1,81.32%,18.68%,5.0%,391.1,falling,2,Hydro,0,28.4,83.57,Retail trade,0.04%,0.31%,1.16%,TRUE
+Colorado,El Paso,Colorado El Paso,45,"$72,675","720,403",TRUE,FALSE,TRUE,2,68.62%,31.38%,4.9%,415.5,falling,17,Solar,"3,498,839",24.0,80.09,Health care and social assistance,0.01%,0.13%,2.65%,TRUE
+Colorado,Fremont,Colorado Fremont,11,"$52,239","47,839",TRUE,FALSE,FALSE,4,78.83%,21.17%,4.1%,407.6,stable,1,Coal,0,23.1,78.24,Health care and social assistance,0.02%,0.84%,3.63%,TRUE
+Colorado,Garfield,Colorado Garfield,46,"$73,788","60,061",TRUE,FALSE,FALSE,5,67.43%,32.57%,4.0%,414.1,stable,6,Solar,"10,141",32.3,80.85,Accommodation and food services,0.11%,3.24%,2.81%,TRUE
+Colorado,Gilpin,Colorado Gilpin,45,"$74,806","6,243",TRUE,FALSE,TRUE,1,87.60%,12.40%,3.3%,283.1,falling,0,None,0,35.6,81.56,Accommodation and food services,0.00%,0.00%,1.18%,FALSE
+Colorado,Gunnison,Colorado Gunnison,44,"$60,408","17,462",FALSE,TRUE,FALSE,7,86.79%,13.21%,2.6%,342.6,falling,1,Hydro,0,14.7,82.22,Accommodation and food services,0.00%,5.37%,2.14%,FALSE
+Colorado,Jefferson,Colorado Jefferson,46,"$89,696","582,881",TRUE,FALSE,TRUE,1,77.73%,22.27%,4.8%,406.3,falling,8,Gas,"59,638",28.8,80,Retail trade,0.10%,0.23%,1.40%,TRUE
+Colorado,La Plata,Colorado La Plata,44,"$77,829","56,221",TRUE,FALSE,FALSE,4,78.34%,21.66%,4.1%,334.7,falling,3,Hydro,0,21.5,81.86,Accommodation and food services,0.07%,1.66%,2.77%,FALSE
+Colorado,Larimer,Colorado Larimer,48,"$75,332","356,899",TRUE,FALSE,TRUE,2,82.13%,17.87%,4.5%,414.6,rising,12,Hydro,"2,105,669",23.7,81.72,Health care and social assistance,0.05%,0.36%,2.33%,FALSE
+Colorado,Mesa,Colorado Mesa,44,"$60,249","154,210",TRUE,FALSE,TRUE,3,81.05%,18.95%,3.5%,422.3,falling,10,Hydro,"1,684",19.1,79.27,Health care and social assistance,0.03%,3.48%,4.37%,TRUE
+Colorado,Montezuma,Colorado Montezuma,44,"$52,641","26,183",FALSE,TRUE,FALSE,6,72.12%,27.88%,3.4%,306.5,falling,2,Hydro,0,20.3,78.1,Accommodation and food services,0.14%,1.23%,2.92%,FALSE
+Colorado,Pitkin,Colorado Pitkin,12,"$92,820","17,767",FALSE,TRUE,FALSE,7,84.93%,15.07%,4.2%,339.8,falling,1,Hydro,0,18.1,86.61,Accommodation and food services,0.09%,0.00%,2.46%,FALSE
+Colorado,Prowers,Colorado Prowers,17,"$47,051","12,172",FALSE,TRUE,FALSE,7,57.45%,42.55%,3.5%,407.0,stable,4,Wind,7,13.8,78.2,Health care and social assistance,0.58%,1.60%,2.39%,FALSE
+Colorado,Pueblo,Colorado Pueblo,19,"$51,075","168,424",TRUE,FALSE,TRUE,3,51.73%,48.27%,5.3%,413.4,falling,11,Solar,"9,734,784",21.9,77.9,Health care and social assistance,0.03%,0.07%,2.88%,TRUE
+Colorado,Rio Blanco,Colorado Rio Blanco,42,"$65,960","6,324",FALSE,TRUE,FALSE,9,84.16%,15.84%,1.9%,347.0,falling,2,Hydro,0,17.0,80.01,"Mining, quarrying, and oil and gas extraction",0.00%,29.82%,6.67%,FALSE
+Colorado,Routt,Colorado Routt,14,"$87,691","25,638",FALSE,TRUE,FALSE,7,89.60%,10.40%,2.7%,339.7,falling,1,Coal,"3,023,346",19.7,82.91,Accommodation and food services,0.03%,1.88%,2.59%,FALSE
+Colorado,San Miguel,Colorado San Miguel,12,"$77,209","8,179",FALSE,TRUE,FALSE,9,85.18%,14.82%,1.9%,335.8,falling,1,Hydro,0,19.4,84.38,Accommodation and food services,0.00%,0.00%,0.91%,TRUE
+Colorado,Weld,Colorado Weld,48,"$78,160","324,492",TRUE,FALSE,TRUE,2,64.89%,35.11%,4.4%,405.0,stable,27,Solar,"3,695,426",28.3,80,Construction,0.13%,5.00%,3.44%,TRUE
+Connecticut,Fairfield,Connecticut Fairfield,44,"$96,966","943,332",TRUE,FALSE,TRUE,2,60.91%,39.09%,5.5%,464.5,stable,17,Gas,"1,939,857",32.2,81.75,Health care and social assistance,0.04%,0.01%,2.43%,TRUE
+Connecticut,Hartford,Connecticut Hartford,39,"$75,336","891,720",TRUE,FALSE,TRUE,1,59.93%,40.07%,6.9%,462.0,falling,30,Gas,"507,410",23.5,80.27,Health care and social assistance,0.00%,0.03%,4.59%,TRUE
+Connecticut,Litchfield,Connecticut Litchfield,38,"$81,015","180,333",TRUE,FALSE,FALSE,4,87.45%,12.55%,5.6%,475.1,falling,12,Hydro,"73,751",30.2,80.99,Health care and social assistance,0.10%,0.42%,2.99%,FALSE
+Connecticut,Middlesex,Connecticut Middlesex,39,"$81,721","162,436",TRUE,FALSE,TRUE,1,83.34%,16.66%,5.3%,468.7,falling,6,Gas,"1,056,206",26.6,81.09,Health care and social assistance,0.02%,0.00%,2.44%,TRUE
+Connecticut,New Haven,Connecticut New Haven,42,"$69,687","854,757",TRUE,FALSE,TRUE,2,61.63%,38.37%,7.1%,466.4,falling,20,Gas,"3,230,087",25.5,80,Health care and social assistance,0.01%,0.04%,3.24%,TRUE
+Connecticut,New London,Connecticut New London,37,"$75,226","265,206",TRUE,FALSE,TRUE,2,75.12%,24.88%,7.0%,461.1,falling,42,Solar,"377,464",23.8,80.55,Accommodation and food services,0.05%,0.02%,3.12%,TRUE
+Connecticut,Tolland,Connecticut Tolland,39,"$90,181","150,721",TRUE,FALSE,TRUE,1,83.80%,16.20%,6.3%,456.5,falling,3,Solar,"42,036",25.6,81.51,Health care and social assistance,0.09%,0.21%,4.31%,TRUE
+Connecticut,Windham,Connecticut Windham,35,"$63,309","116,782",TRUE,FALSE,TRUE,2,81.98%,18.02%,8.2%,488.0,stable,12,Solar,"2,333,574",27.7,79.25,Health care and social assistance,0.06%,0.33%,6.40%,TRUE
+Delaware,Kent,Delaware Kent,36,"$58,804","180,786",TRUE,FALSE,TRUE,3,60.39%,39.61%,5.8%,511.7,falling,11,Gas,"785,242",27.6,77.73,Health care and social assistance,0.07%,0.12%,4.61%,TRUE
+Delaware,New Castle,Delaware New Castle,40,"$76,076","558,753",TRUE,FALSE,TRUE,1,56.32%,43.68%,5.6%,476.1,falling,13,Oil,"903,416",26.6,78.76,Health care and social assistance,0.02%,0.07%,3.58%,TRUE
+Delaware,Sussex,Delaware Sussex,38,"$64,839","234,225",TRUE,FALSE,TRUE,2,75.36%,24.64%,4.5%,467.6,falling,9,Solar,"182,010",26.3,78.81,Retail trade,0.06%,0.22%,4.23%,TRUE
+District Of Columbia,District of Columbia,District Of Columbia District of Columbia,40,"$90,395","705,749",TRUE,FALSE,TRUE,1,37.46%,62.54%,6.1%,426.0,stable,8,Solar,"69,430",43.0,76.5,"Professional, scientific, and technical services",0.00%,0.00%,0.90%,FALSE
+Florida,Alachua,Florida Alachua,36,"$49,880","269,043",TRUE,FALSE,TRUE,2,60.60%,39.40%,6.0%,461.7,falling,9,Gas,"1,381,593",21.6,78.62,Health care and social assistance,0.10%,0.00%,3.55%,TRUE
+Florida,Baker,Florida Baker,35,"$60,454","29,210",TRUE,FALSE,TRUE,1,80.35%,19.65%,4.6%,429.4,falling,2,Solar,0,30.1,75.73,Health care and social assistance,0.00%,0.00%,16.44%,TRUE
+Florida,Bay,Florida Bay,40,"$58,376","174,705",TRUE,FALSE,TRUE,3,76.62%,23.38%,4.3%,501.0,stable,3,Biomass,"1,714,571",26.0,77.04,Retail trade,0.22%,0.00%,2.38%,TRUE
+Florida,Brevard,Florida Brevard,39,"$57,582","601,942",TRUE,FALSE,TRUE,2,73.81%,26.19%,4.5%,494.1,falling,9,Gas,"2,717,173",26.1,78.8,Health care and social assistance,0.02%,0.01%,3.00%,TRUE
+Florida,Broward,Florida Broward,40,"$61,429","1,952,778",TRUE,FALSE,TRUE,1,34.85%,65.15%,5.1%,442.3,falling,6,Biomass,"3,476,236",29.1,79.43,Retail trade,0.04%,0.01%,4.89%,TRUE
+Florida,Citrus,Florida Citrus,32,"$49,762","149,657",TRUE,FALSE,TRUE,3,87.48%,12.52%,4.4%,533.8,rising,1,Coal,"9,164,790",27.5,77.54,Health care and social assistance,0.09%,0.58%,0.46%,FALSE
+Florida,Collier,Florida Collier,36,"$76,415","384,902",TRUE,FALSE,TRUE,2,62.20%,37.80%,4.3%,396.3,falling,1,Biomass,0,25.5,82.82,Accommodation and food services,0.18%,0.05%,1.43%,TRUE
+Florida,Columbia,Florida Columbia,36,"$47,087","71,686",TRUE,FALSE,FALSE,4,71.82%,28.18%,4.8%,503.4,rising,2,Solar,0,24.5,75.7,Health care and social assistance,0.48%,0.00%,6.51%,TRUE
+Florida,Duval,Florida Duval,42,"$58,339","957,755",TRUE,FALSE,TRUE,1,52.03%,47.97%,6.0%,520.3,stable,18,Gas,"5,900,643",24.9,76.54,Health care and social assistance,0.02%,0.01%,9.16%,TRUE
+Florida,Escambia,Florida Escambia,42,"$52,822","318,316",TRUE,FALSE,TRUE,2,64.04%,35.96%,5.0%,491.9,stable,6,Gas,"3,336,750",22.9,76.5,Health care and social assistance,0.07%,0.07%,3.21%,TRUE
+Florida,Flagler,Florida Flagler,31,"$62,831","115,081",TRUE,FALSE,TRUE,2,74.44%,25.56%,4.5%,491.5,stable,0,None,0,27.3,79.96,Retail trade,0.00%,0.00%,0.82%,TRUE
+Florida,Hamilton,Florida Hamilton,33,"$39,241","14,428",FALSE,TRUE,FALSE,6,54.72%,45.28%,4.1%,429.2,stable,4,Solar,2,22.6,76.46,Manufacturing,1.26%,0.00%,8.55%,TRUE
+Florida,Highlands,Florida Highlands,31,"$45,723","106,221",TRUE,FALSE,TRUE,3,66.09%,33.91%,4.1%,460.1,stable,4,Gas,"3,612",23.2,79.18,Health care and social assistance,0.64%,0.00%,1.09%,FALSE
+Florida,Hillsborough,Florida Hillsborough,43,"$61,133","1,471,968",TRUE,FALSE,TRUE,1,47.66%,52.34%,6.5%,480.8,stable,19,Solar,"7,382,410",28.8,78.41,Health care and social assistance,0.01%,0.00%,3.32%,TRUE
+Florida,Holmes,Florida Holmes,38,"$38,874","19,617",FALSE,TRUE,FALSE,6,86.42%,13.58%,4.0%,296.6,rising,0,None,0,27.8,75.42,Health care and social assistance,0.94%,0.00%,1.23%,TRUE
+Florida,Indian River,Florida Indian River,37,"$61,173","159,923",TRUE,FALSE,TRUE,3,74.98%,25.02%,4.8%,490.6,stable,3,Solar,0,23.0,80.42,Health care and social assistance,1.45%,0.03%,1.84%,TRUE
+Florida,Lake,Florida Lake,32,"$56,850","367,118",TRUE,FALSE,TRUE,1,68.65%,31.35%,5.2%,520.5,falling,2,Gas,"115,587",30.0,79.17,Health care and social assistance,0.09%,0.11%,3.00%,TRUE
+Florida,Lee,Florida Lee,36,"$62,364","770,577",TRUE,FALSE,TRUE,2,66.18%,33.82%,4.5%,426.6,falling,2,Gas,"4,110,942",27.6,80.53,Retail trade,0.02%,0.09%,2.65%,TRUE
+Florida,Leon,Florida Leon,40,"$55,081","293,582",TRUE,FALSE,TRUE,2,55.93%,44.07%,5.0%,401.9,falling,5,Gas,"685,109",20.2,79.33,Health care and social assistance,0.05%,0.00%,1.53%,TRUE
+Florida,Liberty,Florida Liberty,31,"$44,236","8,354",FALSE,TRUE,FALSE,8,70.97%,29.03%,6.2%,366.4,stable,1,Biomass,"4,614",31.5,76.97,Manufacturing,11.97%,0.00%,4.23%,TRUE
+Florida,Manatee,Florida Manatee,33,"$64,151","403,253",TRUE,FALSE,TRUE,2,70.61%,29.39%,4.3%,440.7,stable,5,Gas,"4,877,233",26.2,80.22,Retail trade,1.25%,0.00%,3.02%,TRUE
+Florida,Marion,Florida Marion,39,"$49,079","365,579",TRUE,FALSE,TRUE,2,69.60%,30.40%,5.5%,520.4,falling,1,Biomass,0,25.7,77.82,Health care and social assistance,0.45%,0.08%,4.20%,TRUE
+Florida,Martin,Florida Martin,36,"$70,806","161,000",TRUE,FALSE,TRUE,2,77.73%,22.27%,5.4%,453.5,falling,3,Coal,"4,850,698",27.9,81.25,Health care and social assistance,0.08%,0.00%,4.28%,TRUE
+Florida,Miami-Dade,Florida Miami-Dade,39,"$54,991","2,716,940",TRUE,FALSE,TRUE,1,12.91%,87.09%,5.9%,427.0,falling,9,Biomass,"2,482,856",32.8,80.24,Health care and social assistance,0.03%,0.08%,7.64%,FALSE
+Florida,Nassau,Florida Nassau,4,"$72,818","88,625",TRUE,FALSE,TRUE,1,86.60%,13.40%,4.5%,557.1,stable,4,Gas,"194,397",30.8,78.11,Accommodation and food services,1.48%,0.00%,1.78%,TRUE
+Florida,Okaloosa,Florida Okaloosa,34,"$63,520","210,738",TRUE,FALSE,TRUE,3,73.03%,26.97%,4.3%,437.1,falling,1,Solar,0,25.6,78.64,Retail trade,0.05%,0.00%,2.47%,TRUE
+Florida,Orange,Florida Orange,36,"$63,133","1,393,452",TRUE,FALSE,TRUE,1,39.37%,60.63%,5.9%,423.7,falling,13,Solar,"6,407,714",29.5,79.35,Accommodation and food services,0.02%,0.00%,5.05%,TRUE
+Florida,Osceola,Florida Osceola,32,"$52,270","375,751",TRUE,FALSE,TRUE,1,30.10%,69.90%,7.2%,457.2,stable,8,Gas,"1,849,040",36.0,79.16,Accommodation and food services,0.01%,0.00%,2.28%,FALSE
+Florida,Palm Beach,Florida Palm Beach,38,"$66,621","1,496,770",TRUE,FALSE,TRUE,1,53.54%,46.46%,5.6%,437.0,falling,9,Gas,"11,668,384",27.0,80.99,Health care and social assistance,0.11%,0.02%,2.51%,TRUE
+Florida,Pasco,Florida Pasco,35,"$55,745","553,947",TRUE,FALSE,TRUE,1,72.74%,27.26%,5.8%,508.7,falling,6,Gas,"1,858,675",32.0,77.81,Retail trade,0.05%,0.00%,1.52%,TRUE
+Florida,Pinellas,Florida Pinellas,40,"$56,708","974,996",TRUE,FALSE,TRUE,1,73.62%,26.38%,5.6%,479.6,stable,5,Gas,"3,276,143",25.5,78.67,Health care and social assistance,0.01%,0.00%,1.55%,TRUE
+Florida,Polk,Florida Polk,37,"$51,817","724,777",TRUE,FALSE,TRUE,2,56.93%,43.07%,5.9%,492.4,falling,29,Solar,"11,799,984",30.4,78.07,Health care and social assistance,0.19%,0.47%,9.29%,TRUE
+Florida,Putnam,Florida Putnam,14,"$41,986","74,521",TRUE,FALSE,FALSE,4,71.20%,28.80%,4.6%,496.9,stable,6,Solar,"7,496,598",33.6,75.31,Retail trade,1.25%,0.08%,2.33%,TRUE
+Florida,Santa Rosa,Florida Santa Rosa,40,"$66,139","184,313",TRUE,FALSE,TRUE,2,81.99%,18.01%,4.5%,466.1,stable,3,Gas,"671,885",30.8,78.31,Retail trade,0.37%,0.08%,2.25%,TRUE
+Florida,Sarasota,Florida Sarasota,38,"$66,258","433,742",TRUE,FALSE,TRUE,2,82.76%,17.24%,4.4%,481.4,stable,1,Biomass,0,24.6,81.37,Health care and social assistance,0.04%,0.02%,2.50%,TRUE
+Florida,Seminole,Florida Seminole,36,"$69,954","471,826",TRUE,FALSE,TRUE,1,58.86%,41.14%,5.6%,455.3,falling,3,Solar,0,27.9,80.36,Retail trade,0.02%,0.00%,1.90%,TRUE
+Florida,St. Lucie,Florida St. Lucie,33,"$57,292","328,297",TRUE,FALSE,TRUE,2,55.88%,44.12%,5.2%,442.6,stable,6,Solar,"785,208",28.4,79.1,Health care and social assistance,0.50%,0.00%,3.20%,FALSE
+Florida,Volusia,Florida Volusia,38,"$53,554","553,284",TRUE,FALSE,TRUE,2,70.62%,29.38%,5.2%,491.3,stable,9,Oil,"3,890,911",26.1,77.84,Health care and social assistance,0.03%,0.01%,1.73%,TRUE
+Florida,Wakulla,Florida Wakulla,35,"$58,640","33,739",TRUE,FALSE,TRUE,2,79.15%,20.85%,3.9%,452.5,stable,1,Gas,"503,940",33.9,77.13,Retail trade,0.50%,0.00%,0.85%,FALSE
+Georgia,Bibb,Georgia Bibb,35,"$43,066","153,159",TRUE,FALSE,TRUE,3,37.44%,62.56%,5.3%,496.5,stable,4,Oil,"9,357",21.8,73.91,Health care and social assistance,0.19%,0.00%,3.73%,TRUE
+Georgia,Chatham,Georgia Chatham,39,"$57,122","289,430",TRUE,FALSE,TRUE,2,47.83%,52.17%,4.5%,446.0,stable,8,Biomass,"102,368",22.2,77.01,Accommodation and food services,0.00%,0.00%,9.63%,TRUE
+Georgia,Chattooga,Georgia Chattooga,32,"$41,561","24,789",FALSE,TRUE,FALSE,6,82.48%,17.52%,3.7%,477.9,stable,0,None,0,25.8,75.18,Manufacturing,1.26%,0.00%,0.50%,FALSE
+Georgia,Clarke,Georgia Clarke,36,"$41,036","128,331",TRUE,FALSE,TRUE,3,55.16%,44.84%,5.1%,448.8,stable,3,Oil,0,20.1,78.73,Health care and social assistance,0.02%,0.00%,1.98%,TRUE
+Georgia,Clayton,Georgia Clayton,28,"$50,737","292,256",TRUE,FALSE,TRUE,1,9.10%,90.90%,5.6%,482.6,stable,0,None,0,34.0,77,Transportation and warehousing,0.00%,0.00%,20.97%,TRUE
+Georgia,Cobb,Georgia Cobb,35,"$79,622","760,141",TRUE,FALSE,TRUE,1,51.15%,48.85%,4.7%,468.9,falling,4,Gas,"7,747,135",31.0,79.95,"Professional, scientific, and technical services",0.01%,0.12%,3.46%,TRUE
+Georgia,Coffee,Georgia Coffee,25,"$41,675","43,273",FALSE,TRUE,FALSE,7,57.30%,42.70%,4.2%,468.1,stable,0,None,0,19.6,75.61,Manufacturing,0.53%,0.00%,10.43%,TRUE
+Georgia,Columbia,Georgia Columbia,31,"$47,087","156,714",TRUE,FALSE,TRUE,2,67.41%,32.59%,4.1%,412.0,falling,2,Hydro,0,29.4,79.68,Retail trade,0.00%,0.00%,2.38%,TRUE
+Georgia,Dawson,Georgia Dawson,31,"$69,155","26,108",TRUE,FALSE,TRUE,1,91.29%,8.71%,3.6%,448.8,stable,0,None,0,32.0,78.51,Retail trade,0.19%,0.00%,0.67%,TRUE
+Georgia,DeKalb,Georgia DeKalb,38,"$63,606","759,297",TRUE,FALSE,TRUE,1,29.33%,70.67%,4.0%,450.7,stable,0,None,0,32.2,78.81,Health care and social assistance,0.76%,0.00%,1.01%,TRUE
+Georgia,Dougherty,Georgia Dougherty,37,"$36,894","87,956",TRUE,FALSE,TRUE,3,24.27%,75.73%,5.8%,472.0,falling,6,Biomass,"182,392",19.9,75.95,Health care and social assistance,0.55%,0.00%,5.16%,FALSE
+Georgia,Douglas,Georgia Douglas,32,"$123,697","146,343",TRUE,FALSE,TRUE,1,37.42%,62.58%,5.3%,472.6,stable,0,None,0,32.8,77.17,Retail trade,0.00%,0.12%,6.86%,TRUE
+Georgia,Floyd,Georgia Floyd,30,"$50,520","98,498",TRUE,FALSE,TRUE,3,70.57%,29.43%,3.7%,465.8,stable,3,Coal,"214,373",24.7,76.26,Health care and social assistance,0.13%,0.00%,4.92%,TRUE
+Georgia,Fulton,Georgia Fulton,43,"$79,235","1,063,937",TRUE,FALSE,TRUE,1,39.59%,60.41%,4.7%,465.1,falling,14,Oil,"21,122",29.8,77.25,"Professional, scientific, and technical services",0.01%,0.01%,9.43%,TRUE
+Georgia,Glynn,Georgia Glynn,31,"$58,017","85,292",TRUE,FALSE,TRUE,3,63.61%,36.39%,5.4%,447.1,falling,4,Biomass,"31,648",21.3,76.96,Accommodation and food services,0.14%,0.00%,6.16%,TRUE
+Georgia,Gwinnett,Georgia Gwinnett,37,"$72,225","936,250",TRUE,FALSE,TRUE,1,35.39%,64.61%,5.1%,452.8,stable,2,Biomass,0,34.5,80.51,Retail trade,0.00%,0.02%,3.86%,TRUE
+Georgia,Hall,Georgia Hall,33,"$66,698","204,441",TRUE,FALSE,TRUE,3,60.08%,39.92%,4.6%,498.9,stable,0,None,0,29.8,78.96,Manufacturing,0.07%,0.08%,4.54%,TRUE
+Georgia,Henry,Georgia Henry,32,"$72,927","234,561",TRUE,FALSE,TRUE,1,39.98%,60.02%,4.9%,490.5,stable,0,None,0,34.3,77.66,Retail trade,0.00%,0.00%,11.55%,TRUE
+Georgia,Houston,Georgia Houston,35,"$65,641","157,863",TRUE,FALSE,TRUE,3,54.92%,45.08%,6.8%,479.7,stable,3,Gas,"104,456",24.6,77.94,Accommodation and food services,0.06%,0.00%,1.80%,TRUE
+Georgia,Lowndes,Georgia Lowndes,30,"$46,450","117,406",TRUE,FALSE,TRUE,3,52.97%,47.03%,5.6%,448.2,stable,9,Solar,"5,691",20.9,76.23,Health care and social assistance,0.20%,0.00%,8.76%,TRUE
+Georgia,Murray,Georgia Murray,35,"$50,061","40,096",TRUE,FALSE,TRUE,3,81.81%,18.19%,4.8%,472.1,rising,3,Gas,"2,776,307",27.3,75.73,Manufacturing,0.31%,0.00%,0.53%,TRUE
+Georgia,Muscogee,Georgia Muscogee,35,"$47,035","195,769",TRUE,FALSE,TRUE,2,39.63%,60.37%,4.6%,490.4,stable,4,Hydro,52,19.6,75.11,Health care and social assistance,0.06%,0.00%,1.57%,TRUE
+Georgia,Pike,Georgia Pike,33,"$74,905","18,962",TRUE,FALSE,TRUE,1,87.10%,12.90%,3.2%,499.7,stable,0,None,0,33.9,76.73,Construction,1.10%,0.00%,1.74%,TRUE
+Georgia,Richmond,Georgia Richmond,42,"$44,810","202,518",TRUE,FALSE,TRUE,2,33.73%,66.27%,3.8%,482.3,stable,6,Hydro,"25,193",21.0,74.18,Health care and social assistance,0.02%,0.10%,3.47%,TRUE
+Georgia,Rockdale,Georgia Rockdale,34,"$60,281","90,896",TRUE,FALSE,TRUE,1,28.93%,71.07%,4.3%,473.6,stable,1,Hydro,0,39.9,78.39,Manufacturing,0.01%,0.00%,3.26%,TRUE
+Georgia,Sumter,Georgia Sumter,32,"$63,464","29,524",FALSE,TRUE,FALSE,6,39.03%,60.97%,3.7%,500.9,stable,1,Solar,0,19.4,75.48,Health care and social assistance,1.50%,0.00%,2.33%,TRUE
+Georgia,Walker,Georgia Walker,30,"$47,548","69,761",TRUE,FALSE,TRUE,2,90.54%,9.46%,5.3%,386.2,stable,0,None,0,27.0,75.69,Manufacturing,0.00%,0.00%,0.94%,TRUE
+Georgia,Washington,Georgia Washington,32,"$53,263","20,374",FALSE,TRUE,FALSE,7,42.17%,57.83%,4.6%,470.8,stable,4,Gas,"195,511",21.8,75.55,Health care and social assistance,1.11%,15.52%,11.88%,TRUE
+Hawaii,Hawaii,Hawaii Hawaii,18,"$64,929","201,513",TRUE,FALSE,FALSE,5,30.20%,69.80%,5.2%,384.8,falling,18,Oil,"803,928",30.2,80.68,Accommodation and food services,0.16%,0.00%,5.51%,FALSE
+Hawaii,Honolulu,Hawaii Honolulu,26,"$86,946","974,563",TRUE,FALSE,TRUE,2,17.88%,82.12%,6.1%,427.2,stable,36,Solar,"5,969,087",29.4,81.67,Accommodation and food services,0.01%,0.04%,7.21%,FALSE
+Hawaii,Kauai,Hawaii Kauai,11,"$73,029","72,293",TRUE,FALSE,FALSE,5,29.28%,70.72%,4.2%,363.6,falling,13,Solar,"59,754",22.4,81.45,Accommodation and food services,0.04%,0.00%,5.76%,FALSE
+Hawaii,Maui,Hawaii Maui,15,"$77,375","167,417",TRUE,FALSE,TRUE,3,30.08%,69.92%,5.2%,410.6,stable,14,Oil,"785,467",20.8,81.56,Accommodation and food services,0.00%,0.00%,5.56%,FALSE
+Idaho,Ada,Idaho Ada,40,"$72,295","481,587",TRUE,FALSE,TRUE,2,84.30%,15.70%,4.6%,462.1,falling,8,Hydro,0,21.4,81,Health care and social assistance,0.02%,0.05%,3.55%,TRUE
+Idaho,Bannock,Idaho Bannock,41,"$53,306","87,808",TRUE,FALSE,TRUE,3,83.35%,16.65%,5.3%,377.8,falling,3,Hydro,0,21.3,78.55,Health care and social assistance,0.00%,0.00%,2.36%,TRUE
+Idaho,Benewah,Idaho Benewah,32,"$49,303","9,298",FALSE,TRUE,FALSE,6,84.59%,15.41%,3.2%,416.0,falling,1,Biomass,474,23.4,77.57,Manufacturing,7.30%,0.00%,10.66%,FALSE
+Idaho,Blaine,Idaho Blaine,15,"$75,778","23,021",FALSE,TRUE,FALSE,7,73.70%,26.30%,3.1%,410.1,stable,2,Hydro,0,19.5,83.2,Accommodation and food services,0.14%,0.00%,1.84%,FALSE
+Idaho,Boise,Idaho Boise,35,"$64,443","7,831",TRUE,FALSE,TRUE,2,90.10%,9.90%,3.3%,433.1,stable,1,Hydro,0,40.2,81.54,Accommodation and food services,4.16%,0.00%,3.75%,FALSE
+Idaho,Bonner,Idaho Bonner,25,"$56,729","45,739",FALSE,TRUE,FALSE,6,92.60%,7.40%,2.9%,446.1,falling,2,Hydro,0,25.2,79.67,Retail trade,1.14%,1.01%,2.43%,FALSE
+Idaho,Bonneville,Idaho Bonneville,21,"$65,165","119,062",TRUE,FALSE,TRUE,3,82.54%,17.46%,5.5%,450.0,stable,11,Hydro,0,19.1,79.41,Health care and social assistance,0.20%,0.00%,3.26%,TRUE
+Idaho,Butte,Idaho Butte,40,"$51,742","2,597",TRUE,FALSE,TRUE,3,90.87%,9.13%,2.7%,458.6,rising,1,Hydro,0,19.7,79.45,Health care and social assistance,0.00%,0.00%,0.00%,FALSE
+Idaho,Canyon,Idaho Canyon,33,"$58,670","229,849",TRUE,FALSE,TRUE,2,69.96%,30.04%,4.9%,467.4,stable,2,Gas,"12,205",24.4,79.34,Manufacturing,0.51%,0.07%,4.69%,TRUE
+Idaho,Caribou,Idaho Caribou,6,"$61,518","7,155",FALSE,TRUE,FALSE,6,91.19%,8.81%,2.5%,421.5,stable,4,Hydro,0,14.7,79.49,Manufacturing,0.00%,0.00%,1.53%,FALSE
+Idaho,Franklin,Idaho Franklin,20,"$47,504","13,876",TRUE,FALSE,TRUE,3,90.84%,9.16%,2.8%,384.8,stable,2,Hydro,0,25.5,80.85,Retail trade,0.04%,1.98%,3.34%,TRUE
+Idaho,Idaho,Idaho Idaho,36,"$48,866","16,667",FALSE,TRUE,FALSE,6,90.63%,9.37%,2.7%,412.9,stable,1,Hydro,0,17.4,80.03,Health care and social assistance,2.75%,1.37%,6.19%,FALSE
+Idaho,Kootenai,Idaho Kootenai,19,"$62,764","165,697",TRUE,FALSE,TRUE,3,90.33%,9.67%,4.6%,482.8,falling,4,Gas,"853,973",22.0,79.82,Health care and social assistance,1.28%,0.46%,1.58%,TRUE
+Idaho,Latah,Idaho Latah,16,"$54,999","40,108",TRUE,FALSE,FALSE,4,88.49%,11.51%,3.2%,419.9,stable,0,None,0,19.4,81.34,Accommodation and food services,2.61%,0.00%,0.89%,FALSE
+Idaho,Lemhi,Idaho Lemhi,35,"$46,062","8,027",FALSE,TRUE,FALSE,7,93.14%,6.86%,2.7%,415.6,stable,1,Oil,31,15.8,80.01,Health care and social assistance,0.28%,0.00%,2.22%,FALSE
+Idaho,Nez Perce,Idaho Nez Perce,21,"$67,645","40,408",TRUE,FALSE,TRUE,3,86.84%,13.16%,5.6%,446.2,falling,1,Biomass,"24,582",16.5,78.53,Manufacturing,0.31%,0.00%,4.09%,FALSE
+Idaho,Shoshone,Idaho Shoshone,30,"$39,239","12,882",FALSE,TRUE,FALSE,6,91.08%,8.92%,2.9%,494.5,stable,0,None,0,20.0,76.6,Retail trade,0.71%,10.34%,1.02%,TRUE
+Idaho,Twin Falls,Idaho Twin Falls,18,"$56,141","86,878",TRUE,FALSE,FALSE,5,78.19%,21.81%,4.7%,421.9,falling,30,Wind,"22,211",17.8,78.54,Health care and social assistance,0.33%,0.01%,4.78%,FALSE
+Idaho,Valley,Idaho Valley,30,"$64,041","11,392",FALSE,TRUE,FALSE,8,92.01%,7.99%,3.1%,411.6,falling,1,Hydro,0,15.4,82.1,Accommodation and food services,0.63%,1.01%,1.95%,FALSE
+Illinois,Adams,Illinois Adams,38,"$50,042","65,435",TRUE,FALSE,FALSE,5,91.40%,8.60%,4.1%,483.8,stable,0,None,0,17.2,79.1,Health care and social assistance,0.02%,0.60%,3.02%,TRUE
+Illinois,Champaign,Illinois Champaign,39,"$53,485","209,689",TRUE,FALSE,TRUE,3,66.57%,33.43%,5.9%,446.6,stable,6,Solar,"58,603",17.8,80.65,Health care and social assistance,0.15%,0.00%,4.49%,TRUE
+Illinois,Clark,Illinois Clark,31,"$48,726","15,441",FALSE,TRUE,FALSE,6,96.53%,3.47%,2.6%,482.8,stable,2,Oil,110,23.1,78.06,Manufacturing,0.29%,1.49%,2.18%,TRUE
+Illinois,Cook,Illinois Cook,53,"$40,670","5,150,233",TRUE,FALSE,TRUE,1,41.98%,58.02%,5.3%,449.5,falling,31,Gas,"250,842",33.3,78.55,Health care and social assistance,0.00%,0.02%,6.31%,TRUE
+Illinois,DuPage,Illinois DuPage,41,"$96,354","922,921",TRUE,FALSE,TRUE,1,66.02%,33.98%,4.0%,459.9,falling,9,Gas,"442,956",29.6,81.79,Health care and social assistance,0.00%,0.05%,5.70%,TRUE
+Illinois,Effingham,Illinois Effingham,37,"$71,628","34,008",FALSE,TRUE,FALSE,7,95.57%,4.43%,3.9%,497.2,stable,1,Oil,62,17.1,79.46,Management of companies and enterprises,0.09%,0.00%,3.41%,TRUE
+Illinois,Hamilton,Illinois Hamilton,40,"$39,241","8,116",FALSE,TRUE,FALSE,7,95.93%,4.07%,2.4%,470.2,stable,1,Oil,64,28.0,78.45,Health care and social assistance,0.00%,0.00%,5.54%,TRUE
+Illinois,Jersey,Illinois Jersey,39,"$63,351","21,773",TRUE,FALSE,TRUE,1,95.35%,4.65%,4.2%,492.8,stable,0,None,0,28.3,78.58,Health care and social assistance,0.22%,0.00%,1.34%,FALSE
+Illinois,Jo Daviess,Illinois Jo Daviess,32,"$62,522","21,235",FALSE,TRUE,FALSE,6,94.43%,5.57%,3.0%,467.4,stable,0,None,0,22.2,81.26,Accommodation and food services,0.09%,0.00%,4.31%,FALSE
+Illinois,Kane,Illinois Kane,39,"$84,311","532,403",TRUE,FALSE,TRUE,1,56.62%,43.38%,4.4%,435.5,falling,9,Gas,"210,749",28.9,80.84,Manufacturing,0.07%,0.09%,3.74%,TRUE
+Illinois,La Salle,Illinois La Salle,0,"$41,683","9,147",FALSE,TRUE,FALSE,6,78.80%,21.20%,3.7%,506.7,stable,10,Hydro,144,28.2,78.5,Retail trade,0.28%,1.82%,6.13%,TRUE
+Illinois,Lake,Illinois Lake,39,"$57,660","696,535",TRUE,FALSE,TRUE,1,60.55%,39.45%,4.3%,458.2,falling,7,Gas,"1,987,954",30.4,81.06,Manufacturing,0.03%,0.03%,2.37%,TRUE
+Illinois,Macon,Illinois Macon,41,"$34,634","104,009",TRUE,FALSE,TRUE,3,75.84%,24.16%,6.6%,546.6,stable,3,Coal,"1,031,589",18.1,78.34,Manufacturing,0.01%,0.00%,6.08%,TRUE
+Illinois,Macoupin,Illinois Macoupin,31,"$54,174","44,926",TRUE,FALSE,TRUE,1,95.96%,4.04%,4.2%,526.2,stable,1,Solar,0,27.4,78.59,Health care and social assistance,0.00%,0.00%,3.62%,FALSE
+Illinois,Madison,Illinois Madison,47,"$37,919","262,966",TRUE,FALSE,TRUE,1,84.64%,15.36%,4.5%,490.7,stable,7,Gas,"435,196",25.3,77.81,Health care and social assistance,0.00%,0.07%,12.35%,TRUE
+Illinois,McHenry,Illinois McHenry,40,"$89,379","307,774",TRUE,FALSE,TRUE,1,80.09%,19.91%,4.1%,459.8,falling,6,Solar,"5,885",33.6,80.2,Manufacturing,0.06%,0.07%,2.62%,TRUE
+Illinois,McLean,Illinois McLean,41,"$69,230","171,517",TRUE,FALSE,TRUE,3,79.25%,20.75%,4.8%,437.6,falling,7,Wind,37,18.0,80.23,Retail trade,0.19%,0.00%,5.10%,TRUE
+Illinois,Monroe,Illinois Monroe,1,"$67,528","34,637",TRUE,FALSE,TRUE,1,96.22%,3.78%,3.2%,435.8,falling,1,Gas,418,29.2,80.7,Accommodation and food services,0.00%,0.00%,3.01%,TRUE
+Illinois,Peoria,Illinois Peoria,40,"$57,717","179,179",TRUE,FALSE,TRUE,2,69.38%,30.62%,5.0%,500.0,falling,4,Gas,"3,457,483",18.7,78.42,Health care and social assistance,0.01%,0.00%,1.59%,TRUE
+Illinois,Randolph,Illinois Randolph,38,"$33,505","31,782",FALSE,TRUE,FALSE,6,84.46%,15.54%,3.7%,476.4,stable,2,Coal,"6,785,532",25.5,78.32,Manufacturing,0.05%,1.98%,2.84%,TRUE
+Illinois,Rock Island,Illinois Rock Island,38,"$57,772","141,879",TRUE,FALSE,TRUE,2,70.96%,29.04%,4.9%,453.4,falling,5,Hydro,"673,541",19.1,79.17,Health care and social assistance,0.00%,0.08%,8.28%,TRUE
+Illinois,Sangamon,Illinois Sangamon,39,"$61,768","194,672",TRUE,FALSE,TRUE,3,80.01%,19.99%,5.8%,548.7,stable,7,Coal,"2,308,408",19.6,78.62,Health care and social assistance,0.03%,0.41%,2.27%,TRUE
+Illinois,Tazewell,Illinois Tazewell,1,"$66,206","131,803",TRUE,FALSE,TRUE,2,93.72%,6.28%,4.4%,508.4,falling,3,Wind,"3,177,166",21.3,79.01,Retail trade,0.13%,0.00%,8.16%,TRUE
+Illinois,Wabash,Illinois Wabash,1,"$54,249","11,520",FALSE,TRUE,FALSE,7,93.02%,6.98%,3.5%,454.4,stable,0,None,0,20.4,78.81,Health care and social assistance,0.00%,7.27%,0.41%,FALSE
+Illinois,Will,Illinois Will,42,"$90,249","690,743",TRUE,FALSE,TRUE,1,62.46%,37.54%,4.6%,491.5,falling,19,Gas,"2,536,706",33.4,80.01,Transportation and warehousing,0.02%,0.13%,12.70%,TRUE
+Illinois,Winnebago,Illinois Winnebago,39,"$59,510","282,572",TRUE,FALSE,TRUE,2,67.74%,32.26%,4.6%,459.4,falling,8,Gas,"142,170",22.9,78.45,Manufacturing,0.05%,0.04%,5.87%,TRUE
+Indiana,Allen,Indiana Allen,39,"$56,838","379,299",TRUE,FALSE,TRUE,2,73.07%,26.93%,5.8%,439.4,stable,0,None,0,22.0,79,Health care and social assistance,0.02%,0.12%,4.25%,TRUE
+Indiana,Bartholomew,Indiana Bartholomew,37,"$71,181","83,779",TRUE,FALSE,TRUE,3,80.50%,19.50%,6.1%,453.8,stable,0,None,0,20.0,78.12,Manufacturing,0.00%,0.14%,3.12%,TRUE
+Indiana,Boone,Indiana Boone,32,"$72,426","67,843",TRUE,FALSE,TRUE,1,89.73%,10.27%,4.4%,450.6,stable,0,None,0,27.5,79.26,Retail trade,0.11%,0.30%,12.78%,TRUE
+Indiana,Brown,Indiana Brown,33,"$60,254","15,092",TRUE,FALSE,TRUE,1,95.34%,4.66%,4.0%,439.4,stable,0,None,0,27.5,79.94,Accommodation and food services,0.00%,0.00%,2.01%,TRUE
+Indiana,Carroll,Indiana Carroll,31,"$59,193","20,257",TRUE,FALSE,TRUE,3,93.68%,6.32%,4.3%,468.1,stable,1,Hydro,0,32.9,80.19,Manufacturing,0.00%,0.00%,2.01%,TRUE
+Indiana,Clark,Indiana Clark,42,"$48,726","118,302",TRUE,FALSE,TRUE,1,82.43%,17.57%,3.8%,469.0,falling,3,Biomass,0,28.6,76.81,Retail trade,0.03%,0.46%,11.24%,TRUE
+Indiana,Daviess,Indiana Daviess,0,"$56,611","33,351",FALSE,TRUE,FALSE,7,90.95%,9.05%,4.2%,433.4,stable,1,Solar,0,23.9,77.82,Manufacturing,0.06%,1.92%,6.80%,TRUE
+Indiana,Delaware,Indiana Delaware,35,"$45,912","114,135",TRUE,FALSE,TRUE,3,86.57%,13.43%,5.3%,469.3,stable,0,None,0,25.9,77.44,Health care and social assistance,0.04%,0.00%,2.18%,TRUE
+Indiana,Dubois,Indiana Dubois,33,"$63,869","42,736",TRUE,FALSE,FALSE,5,89.18%,10.82%,3.2%,428.6,stable,1,Solar,0,20.7,79.37,Manufacturing,0.05%,0.53%,5.45%,FALSE
+Indiana,Elkhart,Indiana Elkhart,36,"$55,782","206,341",TRUE,FALSE,TRUE,3,74.10%,25.90%,4.4%,434.0,falling,4,Biomass,16,18.5,79.22,Manufacturing,0.02%,0.04%,2.19%,TRUE
+Indiana,Floyd,Indiana Floyd,32,"$50,520","78,522",TRUE,FALSE,TRUE,1,87.49%,12.51%,3.4%,481.3,falling,1,Coal,"49,838",19.5,77.7,Health care and social assistance,0.05%,0.00%,1.31%,TRUE
+Indiana,Gibson,Indiana Gibson,3,"$61,872","33,659",FALSE,TRUE,FALSE,6,92.92%,7.08%,4.2%,437.4,stable,1,Coal,"12,770,793",22.8,78.77,Manufacturing,0.07%,5.55%,5.02%,FALSE
+Indiana,Greene,Indiana Greene,34,"$60,973","31,922",FALSE,TRUE,FALSE,6,96.37%,3.63%,4.3%,424.1,stable,2,Gas,"39,895",21.7,77.4,Retail trade,0.00%,0.00%,1.78%,TRUE
+Indiana,Hamilton,Indiana Hamilton,38,"$39,241","338,011",TRUE,FALSE,TRUE,1,82.78%,17.22%,5.1%,441.6,stable,2,Gas,"636,267",28.5,81.65,Health care and social assistance,0.01%,0.13%,1.22%,TRUE
+Indiana,Hendricks,Indiana Hendricks,32,"$85,827","170,311",TRUE,FALSE,TRUE,1,82.91%,17.09%,4.1%,458.1,falling,2,Oil,26,25.4,80.26,Retail trade,0.01%,0.00%,18.43%,TRUE
+Indiana,Henry,Indiana Henry,29,"$72,927","47,972",TRUE,FALSE,FALSE,4,93.31%,6.69%,4.9%,471.4,stable,3,Wind,"153,776",27.3,77.45,Manufacturing,0.34%,0.00%,2.16%,TRUE
+Indiana,Howard,Indiana Howard,38,"$54,048","82,544",TRUE,FALSE,TRUE,3,84.57%,15.43%,5.6%,487.8,stable,1,Solar,0,26.2,77.68,Manufacturing,0.00%,0.00%,1.31%,TRUE
+Indiana,Knox,Indiana Knox,33,"$43,404","36,594",TRUE,FALSE,FALSE,5,92.35%,7.65%,3.5%,515.5,stable,2,Coal,"3,715,775",19.5,76.87,Health care and social assistance,0.12%,6.09%,4.35%,TRUE
+Indiana,LaPorte,Indiana LaPorte,37,"$56,427","109,888",TRUE,FALSE,TRUE,3,78.81%,21.19%,4.8%,465.3,stable,2,Coal,"1,270,236",19.2,77.47,Manufacturing,0.01%,0.00%,3.78%,TRUE
+Indiana,Lake,Indiana Lake,44,"$57,660","485,493",TRUE,FALSE,TRUE,1,53.77%,46.23%,5.6%,470.8,falling,13,Solar,"2,308,106",22.9,76.78,Health care and social assistance,0.00%,0.04%,4.52%,TRUE
+Indiana,Madison,Indiana Madison,39,"$37,919","129,569",TRUE,FALSE,TRUE,1,84.60%,15.40%,8.5%,485.2,stable,6,Solar,"5,277",28.8,76.93,Health care and social assistance,0.00%,0.18%,7.44%,TRUE
+Indiana,Marion,Indiana Marion,48,"$49,079","964,582",TRUE,FALSE,TRUE,1,54.10%,45.90%,5.9%,470.5,stable,23,Solar,"823,273",26.1,76.51,Health care and social assistance,0.01%,0.03%,8.40%,TRUE
+Indiana,Monroe,Indiana Monroe,31,"$67,528","148,431",TRUE,FALSE,TRUE,3,82.96%,17.04%,4.6%,421.9,falling,1,Solar,0,23.6,80.45,Health care and social assistance,0.06%,0.66%,1.56%,TRUE
+Indiana,Perry,Indiana Perry,34,"$56,880","19,169",FALSE,TRUE,FALSE,6,93.79%,6.21%,2.7%,411.4,stable,2,Solar,0,19.2,78.39,Manufacturing,0.18%,0.00%,2.78%,TRUE
+Indiana,Porter,Indiana Porter,41,"$74,064","170,389",TRUE,FALSE,TRUE,1,82.35%,17.65%,4.8%,470.8,falling,5,Gas,"528,315",23.8,79.1,Manufacturing,0.00%,0.00%,3.91%,TRUE
+Indiana,Posey,Indiana Posey,31,"$68,435","25,427",TRUE,FALSE,TRUE,2,95.74%,4.26%,3.5%,418.7,stable,2,Coal,"3,458,568",27.3,79.26,Manufacturing,0.00%,0.43%,27.10%,TRUE
+Indiana,Shelby,Indiana Shelby,32,"$61,376","44,729",TRUE,FALSE,TRUE,1,92.14%,7.86%,4.8%,531.1,stable,1,Gas,0,22.7,77.88,Manufacturing,0.00%,0.39%,5.55%,TRUE
+Indiana,Spencer,Indiana Spencer,32,"$59,183","20,277",FALSE,TRUE,FALSE,8,94.57%,5.43%,3.6%,398.8,stable,3,Solar,"8,465,197",23.8,79.32,Manufacturing,0.00%,0.00%,7.24%,TRUE
+Indiana,St. Joseph,Indiana St. Joseph,41,"$53,881","271,826",TRUE,FALSE,TRUE,2,71.82%,28.18%,4.1%,436.8,falling,8,Solar,"2,277,719",26.3,78.5,Health care and social assistance,0.00%,0.00%,3.66%,FALSE
+Indiana,Tippecanoe,Indiana Tippecanoe,39,"$51,228","195,732",TRUE,FALSE,TRUE,3,74.75%,25.25%,5.5%,425.1,falling,6,Gas,"106,760",21.1,79.39,Manufacturing,0.02%,0.04%,2.46%,FALSE
+Indiana,Vanderburgh,Indiana Vanderburgh,39,"$51,603","181,451",TRUE,FALSE,TRUE,2,83.08%,16.92%,4.7%,449.5,stable,4,Gas,0,17.9,77.74,Health care and social assistance,0.00%,0.11%,4.80%,TRUE
+Indiana,Vigo,Indiana Vigo,40,"$48,082","107,038",TRUE,FALSE,TRUE,3,85.16%,14.84%,4.1%,468.4,falling,4,Gas,"1,607,868",19.7,76.86,Health care and social assistance,0.01%,0.11%,3.94%,TRUE
+Indiana,Wabash,Indiana Wabash,35,"$54,249","30,996",FALSE,TRUE,FALSE,6,94.11%,5.89%,5.0%,481.2,stable,2,Gas,0,19.8,78.36,Manufacturing,0.44%,0.00%,1.39%,FALSE
+Indiana,Warrick,Indiana Warrick,33,"$79,644","62,998",TRUE,FALSE,TRUE,2,91.97%,8.03%,4.3%,428.7,stable,2,Coal,"6,566,585",19.8,79.5,Health care and social assistance,0.05%,1.74%,2.86%,TRUE
+Indiana,Whitley,Indiana Whitley,39,"$67,347","33,964",TRUE,FALSE,TRUE,2,95.32%,4.68%,4.6%,442.5,stable,2,Solar,0,23.9,79.51,Manufacturing,0.00%,0.00%,1.70%,TRUE
+Iowa,Black Hawk,Iowa Black Hawk,32,"$60,010","131,228",TRUE,FALSE,TRUE,3,80.57%,19.43%,4.0%,496.1,stable,8,Gas,"13,762",24.8,79.68,Manufacturing,0.03%,0.08%,5.27%,TRUE
+Iowa,Bremer,Iowa Bremer,35,"$67,229","25,062",TRUE,FALSE,TRUE,3,94.91%,5.09%,2.3%,453.5,stable,5,Oil,379,20.0,82.35,Health care and social assistance,0.00%,0.56%,0.78%,FALSE
+Iowa,Cerro Gordo,Iowa Cerro Gordo,18,"$54,589","42,450",TRUE,FALSE,FALSE,5,89.90%,10.10%,4.5%,571.6,rising,6,Wind,"1,153,498",17.3,79.86,Health care and social assistance,0.14%,0.04%,3.74%,TRUE
+Iowa,Clinton,Iowa Clinton,37,"$67,201","46,429",TRUE,FALSE,FALSE,4,90.95%,9.05%,5.7%,495.2,stable,2,Coal,"454,903",19.6,78.93,Manufacturing,0.06%,0.00%,4.04%,TRUE
+Iowa,Harrison,Iowa Harrison,37,"$64,270","14,049",TRUE,FALSE,TRUE,2,95.88%,4.12%,3.7%,529.1,stable,0,None,0,26.8,78.63,Health care and social assistance,0.00%,0.00%,1.93%,TRUE
+Iowa,Johnson,Iowa Johnson,35,"$37,771","151,140",TRUE,FALSE,TRUE,3,77.97%,22.03%,4.3%,470.1,falling,4,Gas,"16,563",19.0,82.22,Health care and social assistance,0.02%,0.16%,6.62%,TRUE
+Iowa,Lee,Iowa Lee,30,"$72,425","33,657",TRUE,FALSE,FALSE,5,90.59%,9.41%,4.0%,516.1,rising,3,Oil,"107,324",17.9,78.11,Manufacturing,0.10%,0.03%,2.32%,TRUE
+Iowa,Linn,Iowa Linn,40,"$64,783","226,706",TRUE,FALSE,TRUE,2,85.22%,14.78%,5.4%,497.1,stable,18,Oil,"677,520",18.6,80.65,Manufacturing,0.02%,0.04%,7.96%,TRUE
+Iowa,Montgomery,Iowa Montgomery,35,"$43,657","9,917",FALSE,TRUE,FALSE,6,93.26%,6.74%,3.8%,556.9,rising,1,Oil,13,19.7,78.99,Health care and social assistance,0.17%,0.00%,2.69%,TRUE
+Iowa,Muscatine,Iowa Muscatine,30,"$61,767","42,664",TRUE,FALSE,FALSE,4,76.23%,23.77%,4.6%,496.5,stable,5,Coal,"451,014",17.4,79.43,Manufacturing,0.16%,0.00%,4.45%,TRUE
+Iowa,Palo Alto,Iowa Palo Alto,36,"$55,074","8,886",FALSE,TRUE,FALSE,7,92.57%,7.43%,3.4%,661.3,stable,4,Wind,212,14.8,80.19,Health care and social assistance,0.00%,0.00%,2.27%,FALSE
+Iowa,Polk,Iowa Polk,36,"$47,896","490,161",TRUE,FALSE,TRUE,2,76.98%,23.02%,3.7%,466.0,stable,8,Gas,"219,324",19.5,79.24,Health care and social assistance,0.05%,0.03%,5.75%,TRUE
+Iowa,Pottawattamie,Iowa Pottawattamie,31,"$60,322","93,206",TRUE,FALSE,TRUE,2,87.32%,12.68%,4.6%,488.2,stable,2,Wind,"8,453,976",20.5,78.4,Retail trade,0.07%,0.00%,5.09%,TRUE
+Iowa,Scott,Iowa Scott,44,"$61,231","172,943",TRUE,FALSE,TRUE,2,79.51%,20.49%,5.0%,488.6,falling,3,Biomass,"6,412",19.0,79.35,Health care and social assistance,0.04%,0.03%,3.99%,TRUE
+Iowa,Van Buren,Iowa Van Buren,36,"$50,425","7,044",FALSE,TRUE,FALSE,9,95.74%,4.26%,2.5%,520.6,stable,0,None,0,21.8,79.29,Manufacturing,0.00%,0.57%,5.59%,TRUE
+Iowa,Woodbury,Iowa Woodbury,29,"$58,419","103,107",TRUE,FALSE,TRUE,3,71.10%,28.90%,4.2%,504.0,stable,2,Coal,"3,447,626",18.0,78.66,Health care and social assistance,0.08%,0.00%,2.77%,TRUE
+Kansas,Ford,Kansas Ford,11,"$55,369","33,619",TRUE,FALSE,FALSE,5,38.87%,61.13%,3.7%,482.1,falling,7,Wind,"4,199",14.3,78.77,Manufacturing,0.01%,0.00%,2.95%,TRUE
+Kansas,Johnson,Kansas Johnson,36,"$37,771","602,401",TRUE,FALSE,TRUE,1,79.36%,20.64%,4.6%,427.9,falling,2,Gas,"96,601",21.5,81.73,Health care and social assistance,0.00%,0.07%,6.39%,TRUE
+Kansas,Leavenworth,Kansas Leavenworth,32,"$75,840","81,758",TRUE,FALSE,TRUE,1,78.73%,21.27%,4.9%,420.8,stable,0,None,0,24.1,79.07,Health care and social assistance,0.15%,0.00%,2.78%,TRUE
+Kansas,Neosho,Kansas Neosho,39,"$49,533","16,007",FALSE,TRUE,FALSE,7,89.10%,10.90%,3.6%,412.5,rising,6,Gas,"138,191",16.8,78.06,Health care and social assistance,0.58%,1.56%,1.21%,FALSE
+Kansas,Sedgwick,Kansas Sedgwick,38,"$60,014","516,042",TRUE,FALSE,TRUE,2,67.59%,32.41%,3.8%,458.2,stable,4,Gas,"203,386",19.8,78.07,Manufacturing,0.01%,0.30%,4.23%,TRUE
+Kansas,Shawnee,Kansas Shawnee,39,"$59,451","176,875",TRUE,FALSE,TRUE,3,73.50%,26.50%,6.2%,460.9,falling,2,Biomass,0,18.5,78.35,Health care and social assistance,0.03%,0.01%,4.24%,TRUE
+Kansas,Sherman,Kansas Sherman,13,"$54,000","5,917",FALSE,TRUE,FALSE,7,83.96%,16.04%,3.4%,413.2,rising,1,Gas,176,12.6,79.11,Health care and social assistance,0.00%,0.00%,4.23%,TRUE
+Kansas,Sumner,Kansas Sumner,40,"$53,618","22,836",TRUE,FALSE,TRUE,2,89.21%,10.79%,2.3%,478.7,rising,5,Gas,"1,511",23.3,77.82,Manufacturing,0.18%,0.64%,8.46%,TRUE
+Kansas,Trego,Kansas Trego,37,"$52,597","2,803",FALSE,TRUE,FALSE,9,94.33%,5.67%,3.5%,398.2,falling,0,None,0,18.8,79.65,Health care and social assistance,0.00%,18.43%,3.01%,TRUE
+Kansas,Wyandotte,Kansas Wyandotte,44,"$47,292","165,429",TRUE,FALSE,TRUE,1,40.26%,59.74%,5.2%,469.7,rising,4,Coal,"1,437,235",21.1,75.6,Health care and social assistance,0.00%,0.00%,13.14%,TRUE
+Kentucky,Bell,Kentucky Bell,33,"$30,940","26,032",FALSE,TRUE,FALSE,7,94.02%,5.98%,3.2%,474.0,falling,1,Coal,0,21.4,73.45,Retail trade,0.17%,5.04%,1.34%,TRUE
+Kentucky,Boone,Kentucky Boone,36,"$72,426","133,581",TRUE,FALSE,TRUE,1,87.29%,12.71%,4.4%,481.5,stable,3,Coal,"3,747,910",24.6,79.11,Transportation and warehousing,0.01%,0.02%,18.16%,TRUE
+Kentucky,Boyd,Kentucky Boyd,36,"$50,017","46,718",TRUE,FALSE,TRUE,2,93.05%,6.95%,7.5%,537.8,stable,0,None,0,21.6,76.43,Health care and social assistance,0.00%,0.32%,4.13%,TRUE
+Kentucky,Bullitt,Kentucky Bullitt,37,"$66,335","81,676",TRUE,FALSE,TRUE,1,93.97%,6.03%,4.6%,546.5,stable,0,None,0,27.8,78.86,Retail trade,0.06%,0.55%,10.23%,FALSE
+Kentucky,Campbell,Kentucky Campbell,39,"$66,520","93,584",TRUE,FALSE,TRUE,1,92.21%,7.79%,4.0%,518.4,stable,0,None,0,22.5,77.93,Accommodation and food services,0.00%,0.00%,2.21%,TRUE
+Kentucky,Carter,Kentucky Carter,31,"$43,492","26,797",FALSE,TRUE,FALSE,6,96.44%,3.56%,5.6%,575.0,stable,0,None,0,31.8,75.67,Retail trade,0.14%,1.45%,1.47%,TRUE
+Kentucky,Christian,Kentucky Christian,38,"$51,573","70,461",TRUE,FALSE,TRUE,2,65.24%,34.76%,4.5%,472.4,stable,0,None,0,17.0,76.14,Manufacturing,0.00%,0.00%,6.46%,TRUE
+Kentucky,Daviess,Kentucky Daviess,38,"$56,611","101,511",TRUE,FALSE,TRUE,3,87.58%,12.42%,4.5%,533.8,stable,1,Coal,"1,833,400",19.1,77.8,Health care and social assistance,0.00%,0.15%,4.57%,TRUE
+Kentucky,Edmonson,Kentucky Edmonson,33,"$47,482","12,150",TRUE,FALSE,TRUE,3,94.72%,5.28%,4.4%,498.1,stable,0,None,0,29.2,78.24,Health care and social assistance,0.00%,0.00%,0.00%,FALSE
+Kentucky,Fayette,Kentucky Fayette,38,"$94,563","323,152",TRUE,FALSE,TRUE,2,70.70%,29.30%,4.9%,480.3,falling,1,Gas,11,20.9,78.68,Health care and social assistance,0.17%,0.11%,4.26%,TRUE
+Kentucky,Greenup,Kentucky Greenup,28,"$52,179","35,098",TRUE,FALSE,TRUE,2,96.07%,3.93%,7.8%,528.9,stable,2,Coal,0,23.1,76.61,Retail trade,0.00%,0.00%,1.64%,FALSE
+Kentucky,Hancock,Kentucky Hancock,37,"$31,715","8,722",TRUE,FALSE,TRUE,3,95.23%,4.77%,3.8%,456.4,stable,3,Coal,"9,308",22.6,77.93,Manufacturing,0.00%,0.00%,5.55%,TRUE
+Kentucky,Hardin,Kentucky Hardin,38,"$44,573","110,958",TRUE,FALSE,TRUE,3,75.77%,24.23%,6.2%,524.6,stable,1,Biomass,0,22.3,77.57,Health care and social assistance,0.01%,0.12%,3.37%,FALSE
+Kentucky,Henderson,Kentucky Henderson,1,"$55,535","45,210",TRUE,FALSE,TRUE,2,86.08%,13.92%,4.3%,477.7,stable,1,Coal,"22,025",21.4,76.92,Manufacturing,0.00%,0.17%,3.22%,TRUE
+Kentucky,Jefferson,Kentucky Jefferson,45,"$35,379","766,757",TRUE,FALSE,TRUE,1,66.58%,33.42%,5.0%,517.7,falling,6,Gas,"10,964,415",22.4,77.2,Health care and social assistance,0.01%,0.02%,11.96%,TRUE
+Kentucky,Jessamine,Kentucky Jessamine,31,"$62,533","54,115",TRUE,FALSE,TRUE,2,88.32%,11.68%,4.6%,500.2,stable,0,None,0,23.8,78.08,Retail trade,0.18%,0.18%,0.72%,FALSE
+Kentucky,Livingston,Kentucky Livingston,37,"$54,422","9,194",FALSE,TRUE,FALSE,9,94.61%,5.39%,2.5%,532.9,stable,1,Hydro,0,22.9,76.18,"Mining, quarrying, and oil and gas extraction",0.00%,23.25%,5.56%,TRUE
+Kentucky,McCracken,Kentucky McCracken,39,"$48,219","65,418",TRUE,FALSE,FALSE,5,83.04%,16.96%,3.9%,501.8,stable,2,Coal,"7,735,792",18.2,76.75,Health care and social assistance,0.00%,0.00%,9.55%,TRUE
+Kentucky,Morgan,Kentucky Morgan,33,"$67,089","13,309",FALSE,TRUE,FALSE,9,92.24%,7.76%,3.4%,496.9,stable,0,None,0,32.9,76.49,Retail trade,0.00%,0.00%,3.98%,TRUE
+Kentucky,Oldham,Kentucky Oldham,38,"$101,152","66,799",TRUE,FALSE,TRUE,1,88.24%,11.76%,4.1%,532.7,falling,1,Gas,"97,410",27.8,79.87,Health care and social assistance,0.77%,0.00%,0.97%,TRUE
+Kentucky,Perry,Kentucky Perry,34,"$56,880","25,758",FALSE,TRUE,FALSE,7,94.91%,5.09%,2.1%,596.3,stable,0,None,0,21.8,71.45,Health care and social assistance,0.00%,7.20%,3.02%,TRUE
+Kentucky,Pike,Kentucky Pike,32,"$74,905","57,876",FALSE,TRUE,FALSE,7,96.80%,3.20%,2.8%,558.0,stable,0,None,0,24.5,73.1,Health care and social assistance,0.02%,7.19%,3.85%,TRUE
+Kentucky,Pulaski,Kentucky Pulaski,36,"$42,274","64,979",TRUE,FALSE,FALSE,5,94.09%,5.91%,4.1%,535.6,stable,1,Coal,"209,558",21.2,76.01,Health care and social assistance,0.00%,0.22%,2.41%,TRUE
+Kentucky,Simpson,Kentucky Simpson,36,"$52,931","18,572",FALSE,TRUE,FALSE,6,84.95%,15.05%,4.1%,492.0,falling,0,None,0,19.2,76.6,Manufacturing,0.00%,0.00%,7.97%,FALSE
+Kentucky,Trigg,Kentucky Trigg,34,"$49,955","14,651",TRUE,FALSE,TRUE,2,87.91%,12.09%,3.1%,478.2,stable,0,None,0,27.0,77.04,Manufacturing,0.00%,0.00%,0.57%,TRUE
+Kentucky,Warren,Kentucky Warren,38,"$37,313","132,896",TRUE,FALSE,TRUE,3,77.61%,22.39%,5.5%,479.9,stable,0,None,0,20.4,77.64,Manufacturing,0.00%,0.10%,5.19%,TRUE
+Kentucky,Washington,Kentucky Washington,34,"$41,674","12,095",FALSE,TRUE,FALSE,9,87.90%,12.10%,4.6%,505.9,stable,0,None,0,26.1,78.41,Manufacturing,0.00%,0.00%,3.23%,TRUE
+Louisiana,Ascension,Louisiana Ascension,31,"$83,072","126,604",TRUE,FALSE,TRUE,2,67.53%,32.47%,3.9%,487.3,stable,4,Gas,"562,783",28.2,77.64,Construction,0.18%,0.59%,3.84%,TRUE
+Louisiana,Bossier,Louisiana Bossier,36,"$54,080","127,039",TRUE,FALSE,TRUE,2,65.92%,34.08%,3.5%,475.8,falling,0,None,0,24.8,77.49,Accommodation and food services,0.40%,3.31%,3.57%,TRUE
+Louisiana,Caddo,Louisiana Caddo,34,"$45,613","240,204",TRUE,FALSE,TRUE,2,44.30%,55.70%,3.6%,485.9,stable,2,Gas,"1,141,242",21.6,75.32,Health care and social assistance,0.11%,1.83%,4.08%,TRUE
+Louisiana,Calcasieu,Louisiana Calcasieu,41,"$53,050","203,436",TRUE,FALSE,TRUE,3,66.65%,33.35%,4.6%,492.7,falling,12,Gas,"3,595,982",24.5,75.52,Accommodation and food services,0.03%,0.42%,4.72%,TRUE
+Louisiana,East Baton Rouge,Louisiana East Baton Rouge,38,"$56,303","440,059",TRUE,FALSE,TRUE,2,44.02%,55.98%,3.7%,487.4,stable,6,Gas,"1,341,921",23.9,76.61,Construction,0.02%,0.03%,3.33%,TRUE
+Louisiana,Iberville,Louisiana Iberville,36,"$55,198","32,511",TRUE,FALSE,TRUE,2,47.67%,52.33%,3.7%,538.0,falling,8,Gas,"4,010,516",26.4,75.54,Manufacturing,0.00%,0.43%,8.22%,TRUE
+Louisiana,Jefferson,Louisiana Jefferson,36,"$55,909","432,493",TRUE,FALSE,TRUE,1,51.95%,48.05%,4.7%,475.0,stable,2,Gas,"5,123,593",25.4,77.34,Health care and social assistance,0.02%,0.35%,5.34%,TRUE
+Louisiana,Lafayette,Louisiana Lafayette,40,"$60,053","244,390",TRUE,FALSE,TRUE,2,65.20%,34.80%,3.3%,476.4,falling,4,Gas,"28,436",22.9,77.51,Health care and social assistance,0.05%,6.13%,4.10%,TRUE
+Louisiana,Lafourche,Louisiana Lafourche,39,"$54,145","97,614",TRUE,FALSE,TRUE,3,76.83%,23.17%,3.7%,492.8,stable,1,Gas,0,27.5,77.3,Health care and social assistance,0.06%,10.09%,13.92%,FALSE
+Louisiana,Livingston,Louisiana Livingston,39,"$63,852","140,789",TRUE,FALSE,TRUE,2,86.77%,13.23%,4.0%,477.2,falling,0,None,0,35.1,76.22,Retail trade,0.59%,0.42%,2.23%,TRUE
+Louisiana,Orleans,Louisiana Orleans,28,"$45,092","390,144",TRUE,FALSE,TRUE,1,30.91%,69.09%,4.8%,442.9,falling,5,Gas,0,23.2,75.56,Accommodation and food services,0.06%,0.59%,4.30%,TRUE
+Louisiana,Ouachita,Louisiana Ouachita,32,"$43,235","153,279",TRUE,FALSE,TRUE,3,57.85%,42.15%,3.8%,505.6,stable,6,Gas,"2,912,337",19.6,75.9,Health care and social assistance,0.05%,0.31%,3.03%,TRUE
+Louisiana,Pointe Coupee,Louisiana Pointe Coupee,32,"$48,011","21,730",TRUE,FALSE,TRUE,2,60.41%,39.59%,2.3%,481.9,stable,3,Gas,"3,321,421",30.3,76.64,Retail trade,1.50%,2.90%,7.36%,FALSE
+Louisiana,Rapides,Louisiana Rapides,26,"$49,687","129,648",TRUE,FALSE,TRUE,3,61.03%,38.97%,4.4%,475.8,stable,3,Coal,"6,002,474",28.2,75.68,Health care and social assistance,0.29%,0.15%,2.03%,TRUE
+Louisiana,St. Bernard,Louisiana Saint Bernard,55,"$45,806","47,244",TRUE,FALSE,TRUE,1,61.65%,38.35%,5.1%,471.7,falling,4,Gas,"14,182",27.7,74.69,Retail trade,0.00%,0.12%,9.28%,FALSE
+Louisiana,St. Charles,Louisiana St. Charles,3,"$71,579","53,100",TRUE,FALSE,TRUE,1,64.82%,35.18%,4.2%,470.5,stable,6,Gas,"6,620,754",27.7,77.32,Manufacturing,0.00%,0.60%,14.60%,FALSE
+Louisiana,St. James,Louisiana St. James,28,"$57,250","21,096",TRUE,FALSE,TRUE,1,48.42%,51.58%,3.0%,511.0,stable,4,Gas,"107,751",27.7,76.99,Manufacturing,0.00%,0.00%,24.74%,FALSE
+Louisiana,St. John the Baptist,Louisiana St. John the Baptist,31,"$54,944","42,837",TRUE,FALSE,TRUE,1,33.09%,66.91%,4.0%,465.9,stable,0,None,0,28.6,75.49,Construction,0.00%,0.53%,3.90%,FALSE
+Louisiana,St. Martin,Louisiana St. Martin,33,"$47,247","53,431",TRUE,FALSE,TRUE,2,64.66%,35.34%,3.5%,510.5,stable,0,None,0,27.3,76.61,Retail trade,0.00%,6.30%,4.54%,FALSE
+Louisiana,St. Tammany,Louisiana St. Tammany,36,"$71,526","260,419",TRUE,FALSE,TRUE,1,78.01%,21.99%,4.8%,496.2,falling,0,None,0,32.5,77.97,Health care and social assistance,0.05%,0.45%,2.78%,FALSE
+Louisiana,Tangipahoa,Louisiana Tangipahoa,26,"$47,860","134,758",TRUE,FALSE,TRUE,3,63.11%,36.89%,4.5%,463.5,stable,0,None,0,31.6,74.59,Health care and social assistance,0.03%,0.15%,4.83%,TRUE
+Louisiana,Terrebonne,Louisiana Terrebonne,27,"$51,719","110,461",TRUE,FALSE,TRUE,3,66.50%,33.50%,4.4%,510.1,rising,1,Gas,"35,516",26.2,75.8,Health care and social assistance,0.19%,5.93%,5.94%,FALSE
+Louisiana,West Baton Rouge,Louisiana West Baton Rouge,38,"$65,344","26,465",TRUE,FALSE,TRUE,2,54.85%,45.15%,3.2%,508.5,stable,2,Gas,"15,719",23.6,76.61,Construction,0.00%,0.00%,11.53%,TRUE
+Maine,Androscoggin,Maine Androscoggin,29,"$58,958","108,277",TRUE,FALSE,TRUE,3,90.19%,9.81%,4.5%,474.4,falling,15,Hydro,"50,608",23.4,78.46,Health care and social assistance,0.12%,0.00%,5.85%,TRUE
+Maine,Aroostook,Maine Aroostook,33,"$40,675","67,055",FALSE,TRUE,FALSE,7,93.74%,6.26%,5.2%,470.1,falling,9,Wind,"2,076",19.6,78.99,Health care and social assistance,2.83%,0.00%,5.56%,FALSE
+Maine,Cumberland,Maine Cumberland,38,"$53,991","295,003",TRUE,FALSE,TRUE,2,90.14%,9.86%,5.0%,455.5,falling,8,Hydro,"517,706",24.5,80.5,Health care and social assistance,0.08%,0.00%,4.37%,TRUE
+Maine,Hancock,Maine Hancock,35,"$31,715","54,987",FALSE,TRUE,FALSE,6,94.50%,5.50%,4.5%,501.0,falling,7,Wind,"1,315",23.6,80.06,Retail trade,0.95%,0.00%,1.70%,TRUE
+Maine,Kennebec,Maine Kennebec,35,"$55,358","122,302",TRUE,FALSE,FALSE,4,94.35%,5.65%,4.1%,459.9,falling,10,Hydro,0,22.9,78.64,Health care and social assistance,0.14%,0.01%,2.59%,TRUE
+Maine,Knox,Maine Knox,31,"$43,404","39,772",FALSE,TRUE,FALSE,7,94.95%,5.05%,4.9%,486.1,stable,2,Wind,0,17.8,80.45,Health care and social assistance,3.53%,0.00%,2.44%,TRUE
+Maine,Oxford,Maine Oxford,33,"$50,344","57,975",FALSE,TRUE,FALSE,6,95.00%,5.00%,4.2%,463.2,stable,11,Wind,"137,876",28.4,78.93,Health care and social assistance,1.34%,0.00%,1.92%,FALSE
+Maine,Penobscot,Maine Penobscot,29,"$50,702","152,148",TRUE,FALSE,TRUE,3,93.44%,6.56%,4.8%,520.1,stable,24,Hydro,"235,224",22.3,78.8,Health care and social assistance,1.20%,0.00%,4.99%,TRUE
+Maine,Washington,Maine Washington,33,"$41,674","31,379",FALSE,TRUE,FALSE,7,89.30%,10.70%,4.3%,504.7,falling,5,Wind,"26,041",20.9,77.66,Health care and social assistance,3.47%,0.00%,3.50%,TRUE
+Maine,York,Maine York,39,"$66,803","207,641",TRUE,FALSE,TRUE,2,93.91%,6.09%,5.3%,487.8,falling,7,Hydro,0,27.8,80.37,Health care and social assistance,0.23%,0.04%,2.37%,TRUE
+Maryland,Anne Arundel,Maryland Anne Arundel,32,"$100,916","579,234",TRUE,FALSE,TRUE,1,66.69%,33.31%,5.3%,461.4,falling,6,Coal,"3,071,787",32.1,79.36,"Professional, scientific, and technical services",0.02%,0.00%,6.43%,TRUE
+Maryland,Baltimore,Maryland Baltimore,39,"$76,972","827,370",TRUE,FALSE,TRUE,1,55.79%,44.21%,5.1%,491.8,stable,13,Solar,"33,897",30.1,79.2,Health care and social assistance,0.01%,0.03%,2.86%,FALSE
+Maryland,Baltimore City,Maryland Baltimore City,34,"$49,780","609,032",TRUE,FALSE,TRUE,1,27.68%,72.32%,7.1%,487.5,falling,7,Gas,"205,607",30.7,72.76,Health care and social assistance,0.00%,0.00%,3.47%,TRUE
+Maryland,Calvert,Maryland Calvert,35,"$111,056","92,525",TRUE,FALSE,TRUE,1,77.50%,22.50%,4.8%,445.8,falling,2,Gas,"1,126,338",45.8,79.44,Health care and social assistance,0.00%,0.00%,2.09%,FALSE
+Maryland,Carroll,Maryland Carroll,39,"$56,468","168,447",TRUE,FALSE,TRUE,1,88.33%,11.67%,4.5%,486.8,stable,0,None,0,37.5,79.49,Health care and social assistance,0.04%,0.00%,4.56%,TRUE
+Maryland,Cecil,Maryland Cecil,34,"$75,307","102,855",TRUE,FALSE,TRUE,1,84.59%,15.41%,5.8%,525.1,stable,5,Solar,"1,443,112",30.1,77.38,Manufacturing,0.29%,0.39%,14.11%,TRUE
+Maryland,Charles,Maryland Charles,34,"$102,510","163,257",TRUE,FALSE,TRUE,1,37.25%,62.75%,5.3%,443.5,stable,4,Solar,"3,699,801",47.1,78.57,Retail trade,0.04%,0.13%,3.86%,FALSE
+Maryland,Dorchester,Maryland Dorchester,35,"$48,709","31,929",FALSE,TRUE,FALSE,6,62.33%,37.67%,6.7%,493.2,stable,3,Solar,"5,369",27.0,77.48,Manufacturing,0.00%,0.00%,4.75%,TRUE
+Maryland,Frederick,Maryland Frederick,40,"$102,951","259,547",TRUE,FALSE,TRUE,1,71.73%,28.27%,5.7%,448.5,falling,8,Solar,0,35.7,80.72,Health care and social assistance,0.04%,0.08%,2.53%,TRUE
+Maryland,Garrett,Maryland Garrett,36,"$59,253","29,014",FALSE,TRUE,FALSE,6,96.23%,3.77%,4.4%,433.9,stable,8,Wind,0,24.5,79.09,Health care and social assistance,0.82%,3.60%,4.75%,TRUE
+Maryland,Harford,Maryland Harford,38,"$91,492","255,441",TRUE,FALSE,TRUE,1,75.10%,24.90%,4.7%,514.8,stable,17,Solar,"167,093",32.8,79.66,Retail trade,0.04%,0.10%,7.61%,TRUE
+Maryland,Howard,Maryland Howard,28,"$54,048","325,690",TRUE,FALSE,TRUE,1,50.26%,49.74%,5.2%,402.9,falling,4,Solar,0,30.6,82.66,"Professional, scientific, and technical services",0.19%,0.00%,3.09%,TRUE
+Maryland,Kent,Maryland Kent,33,"$65,615","19,422",FALSE,TRUE,FALSE,6,77.79%,22.21%,5.1%,467.4,stable,5,Solar,0,26.4,79.3,Educational services,0.71%,0.00%,2.28%,TRUE
+Maryland,Montgomery,Maryland Montgomery,33,"$43,657","1,050,688",TRUE,FALSE,TRUE,1,42.95%,57.05%,4.8%,380.6,falling,9,Solar,"764,429",35.0,80.86,"Professional, scientific, and technical services",0.02%,0.00%,0.73%,TRUE
+Maryland,Prince George's,Maryland Prince Georges,37,"$85,357","909,327",TRUE,FALSE,TRUE,1,12.26%,87.74%,5.4%,406.4,falling,18,Solar,"3,049,336",37.0,80.9,Retail trade,0.00%,0.02%,5.01%,FALSE
+Maryland,Washington,Maryland Washington,37,"$41,674","151,049",TRUE,FALSE,TRUE,2,77.41%,22.59%,6.9%,478.0,stable,13,Solar,0,32.5,78.51,Health care and social assistance,0.09%,0.00%,10.46%,TRUE
+Massachusetts,Barnstable,Massachusetts Barnstable,35,"$82,686","212,990",TRUE,FALSE,TRUE,3,89.51%,10.49%,5.7%,491.5,falling,14,Solar,"59,671",26.7,80.89,Health care and social assistance,0.15%,0.07%,2.95%,FALSE
+Massachusetts,Berkshire,Massachusetts Berkshire,36,"$58,805","124,944",TRUE,FALSE,TRUE,3,87.66%,12.34%,5.4%,442.8,stable,27,Solar,"43,189",19.2,80.48,Health care and social assistance,0.09%,0.10%,1.93%,TRUE
+Massachusetts,Bristol,Massachusetts Bristol,39,"$69,857","565,217",TRUE,FALSE,TRUE,1,81.80%,18.20%,8.2%,468.1,falling,42,Solar,"181,422",29.9,79.53,Health care and social assistance,0.08%,0.02%,4.35%,TRUE
+Massachusetts,Dukes,Massachusetts Dukes,37,"$76,036","17,332",FALSE,TRUE,FALSE,7,86.91%,13.09%,5.0%,496.6,falling,7,Solar,"1,125",13.0,82.18,Retail trade,0.00%,0.00%,3.86%,FALSE
+Massachusetts,Essex,Massachusetts Essex,37,"$83,253","789,034",TRUE,FALSE,TRUE,1,69.00%,31.00%,6.6%,464.2,falling,29,Solar,"1,045,116",31.0,80.69,Health care and social assistance,0.08%,0.00%,2.04%,TRUE
+Massachusetts,Franklin,Massachusetts Franklin,37,"$55,421","70,180",TRUE,FALSE,FALSE,4,90.38%,9.62%,6.6%,401.5,falling,23,Solar,"12,791",25.5,80.6,Manufacturing,0.48%,0.00%,2.91%,TRUE
+Massachusetts,Hampden,Massachusetts Hampden,39,"$59,918","466,372",TRUE,FALSE,TRUE,2,61.44%,38.56%,7.5%,434.1,falling,72,Solar,"398,945",23.5,78.97,Health care and social assistance,0.01%,0.00%,4.31%,TRUE
+Massachusetts,Hampshire,Massachusetts Hampshire,35,"$74,142","160,830",TRUE,FALSE,TRUE,2,83.32%,16.68%,7.1%,409.9,falling,23,Solar,"6,146",24.6,80.9,Educational services,0.06%,0.04%,1.47%,TRUE
+Massachusetts,Middlesex,Massachusetts Middlesex,36,"$106,543","1,611,699",TRUE,FALSE,TRUE,1,71.21%,28.79%,6.0%,441.2,stable,45,Solar,"1,538,224",32.0,81.48,"Professional, scientific, and technical services",0.02%,0.01%,2.47%,TRUE
+Massachusetts,Norfolk,Massachusetts Norfolk,32,"$106,851","706,775",TRUE,FALSE,TRUE,1,73.76%,26.24%,5.8%,474.6,falling,28,Solar,"2,785,267",35.7,81.52,Health care and social assistance,0.02%,0.04%,3.28%,TRUE
+Massachusetts,Plymouth,Massachusetts Plymouth,37,"$69,165","521,202",TRUE,FALSE,TRUE,1,81.15%,18.85%,6.4%,490.1,stable,50,Solar,"621,807",35.9,79.64,Health care and social assistance,0.04%,0.03%,3.49%,TRUE
+Massachusetts,Suffolk,Massachusetts Suffolk,37,"$75,843","803,907",TRUE,FALSE,TRUE,1,45.18%,54.82%,6.9%,423.0,falling,11,Gas,"132,863",31.9,79.46,Health care and social assistance,0.01%,0.00%,4.63%,TRUE
+Massachusetts,Worcester,Massachusetts Worcester,38,"$65,821","830,622",TRUE,FALSE,TRUE,2,75.69%,24.31%,6.7%,476.1,stable,144,Solar,"1,568,847",30.5,79.89,Health care and social assistance,0.05%,0.05%,4.62%,TRUE
+Michigan,Allegan,Michigan Allegan,36,"$66,568","118,081",TRUE,FALSE,FALSE,4,88.14%,11.86%,4.1%,418.0,stable,4,Gas,"61,982",23.2,79.41,Manufacturing,0.26%,0.13%,2.98%,TRUE
+Michigan,Bay,Michigan Bay,17,"$50,130","103,126",TRUE,FALSE,TRUE,3,89.81%,10.19%,5.2%,480.0,stable,5,Gas,"2,247,547",24.4,78.78,Health care and social assistance,0.00%,0.16%,1.41%,TRUE
+Michigan,Benzie,Michigan Benzie,36,"$56,934","17,766",FALSE,TRUE,FALSE,9,93.67%,6.33%,4.2%,480.1,stable,0,None,0,25.4,80.1,Accommodation and food services,0.00%,0.00%,1.28%,FALSE
+Michigan,Berrien,Michigan Berrien,38,"$50,659","153,401",TRUE,FALSE,TRUE,3,74.75%,25.25%,4.2%,457.0,falling,7,Hydro,0,21.5,78.27,Manufacturing,0.01%,0.11%,2.66%,TRUE
+Michigan,Cass,Michigan Cass,39,"$51,011","51,787",TRUE,FALSE,TRUE,2,86.28%,13.72%,3.5%,429.9,stable,1,Gas,0,24.6,78.71,Manufacturing,0.21%,0.00%,1.62%,TRUE
+Michigan,Clinton,Michigan Clinton,34,"$67,201","79,595",TRUE,FALSE,TRUE,2,89.55%,10.45%,6.1%,420.8,stable,3,Biomass,0,26.5,80.92,Manufacturing,0.16%,0.00%,4.27%,TRUE
+Michigan,Genesee,Michigan Genesee,35,"$50,554","405,813",TRUE,FALSE,TRUE,2,72.38%,27.62%,6.6%,460.1,falling,4,Biomass,"5,660",26.2,76.71,Health care and social assistance,0.02%,0.00%,2.63%,TRUE
+Michigan,Huron,Michigan Huron,36,"$49,126","30,981",FALSE,TRUE,FALSE,7,94.89%,5.11%,5.2%,465.4,stable,17,Wind,494,21.0,79,Manufacturing,0.35%,0.00%,3.88%,FALSE
+Michigan,Ingham,Michigan Ingham,34,"$54,704","292,406",TRUE,FALSE,TRUE,2,69.17%,30.83%,7.0%,431.8,falling,4,Gas,"332,711",21.0,79.22,Health care and social assistance,0.17%,0.03%,4.74%,TRUE
+Michigan,Kalamazoo,Michigan Kalamazoo,38,"$56,739","265,066",TRUE,FALSE,TRUE,2,76.99%,23.01%,4.4%,421.3,falling,6,Gas,"68,401",19.7,79.09,Health care and social assistance,0.00%,0.06%,3.02%,TRUE
+Michigan,Kent,Michigan Kent,36,"$65,615","656,955",TRUE,FALSE,TRUE,2,73.27%,26.73%,5.7%,415.0,falling,7,Gas,"173,469",21.5,80.03,Manufacturing,0.17%,0.03%,3.58%,TRUE
+Michigan,Lenawee,Michigan Lenawee,38,"$55,466","98,451",TRUE,FALSE,FALSE,4,86.49%,13.51%,6.1%,415.1,stable,2,Oil,2,28.3,79.15,Manufacturing,0.10%,0.00%,2.95%,FALSE
+Michigan,Macomb,Michigan Macomb,36,"$65,051","873,972",TRUE,FALSE,TRUE,1,77.98%,22.02%,5.6%,495.0,falling,3,Biomass,"1,338",28.6,78.94,Manufacturing,0.01%,0.01%,2.62%,TRUE
+Michigan,Manistee,Michigan Manistee,28,"$50,047","24,558",FALSE,TRUE,FALSE,7,88.59%,11.41%,4.0%,435.9,falling,3,Coal,"489,900",21.1,79.25,Accommodation and food services,0.00%,0.00%,1.51%,FALSE
+Michigan,Mason,Michigan Mason,37,"$51,967","29,144",FALSE,TRUE,FALSE,7,91.35%,8.65%,4.1%,378.0,falling,4,Wind,"357,684",17.4,79.14,Manufacturing,2.49%,0.00%,3.19%,FALSE
+Michigan,Missaukee,Michigan Missaukee,36,"$51,317","15,118",FALSE,TRUE,FALSE,9,93.76%,6.24%,4.5%,479.9,stable,2,Wind,"32,503",20.6,79.09,Manufacturing,5.23%,0.00%,10.86%,FALSE
+Michigan,Monroe,Michigan Monroe,1,"$90,904","150,500",TRUE,FALSE,TRUE,3,91.03%,8.97%,5.7%,396.0,stable,4,Coal,"16,687,777",26.4,78.73,Manufacturing,0.05%,0.09%,6.48%,TRUE
+Michigan,Muskegon,Michigan Muskegon,37,"$50,730","173,566",TRUE,FALSE,TRUE,3,76.38%,23.62%,5.4%,441.0,falling,2,Gas,"2,672",23.3,77.94,Manufacturing,0.06%,0.00%,1.71%,TRUE
+Michigan,Oakland,Michigan Oakland,36,"$81,257","1,257,584",TRUE,FALSE,TRUE,1,71.53%,28.47%,6.0%,479.4,falling,6,Oil,"4,682",27.5,80.07,Health care and social assistance,0.04%,0.02%,1.71%,TRUE
+Michigan,Ottawa,Michigan Ottawa,33,"$58,729","291,830",TRUE,FALSE,TRUE,2,83.43%,16.57%,4.8%,389.6,falling,14,Gas,"11,650,240",20.9,81.74,Manufacturing,0.02%,0.02%,2.49%,TRUE
+Michigan,Schoolcraft,Michigan Schoolcraft,33,"$50,256","8,094",FALSE,TRUE,FALSE,7,85.35%,14.65%,4.4%,405.1,falling,1,Oil,899,18.7,79.11,Health care and social assistance,5.14%,0.00%,4.61%,FALSE
+Michigan,St. Clair,Michigan St. Clair,35,"$57,726","5,327",TRUE,FALSE,TRUE,1,91.00%,9.00%,7.9%,468.7,falling,10,Gas,"11,815,157",29.1,78.05,Manufacturing,0.06%,0.09%,3.35%,FALSE
+Michigan,Tuscola,Michigan Tuscola,32,"$52,342","52,245",FALSE,TRUE,FALSE,6,93.07%,6.93%,4.9%,466.6,stable,7,Wind,"7,449",29.5,78.45,Health care and social assistance,0.35%,0.00%,2.66%,FALSE
+Michigan,Washtenaw,Michigan Washtenaw,38,"$76,728","367,601",TRUE,FALSE,TRUE,2,70.16%,29.84%,5.7%,440.7,falling,7,Gas,"64,442",24.4,80.99,Health care and social assistance,0.04%,0.02%,2.73%,TRUE
+Michigan,Wayne,Michigan Wayne,48,"$47,382","1,749,343",TRUE,FALSE,TRUE,1,49.39%,50.61%,6.7%,495.5,falling,18,Gas,"4,684,234",25.6,75.33,Health care and social assistance,0.01%,0.02%,7.39%,TRUE
+Michigan,Wexford,Michigan Wexford,33,"$53,146","33,631",FALSE,TRUE,FALSE,7,94.12%,5.88%,4.3%,499.4,stable,2,Hydro,"29,200",21.2,78.25,Manufacturing,0.18%,0.15%,3.48%,FALSE
+Mississippi,Bolivar,Mississippi Bolivar,39,"$30,309","30,628",FALSE,TRUE,FALSE,7,32.66%,67.34%,5.1%,538.4,rising,1,Gas,0,18.3,72.22,Manufacturing,0.75%,0.00%,6.07%,FALSE
+Mississippi,DeSoto,Mississippi DeSoto,37,"$67,450","184,945",TRUE,FALSE,TRUE,1,61.88%,38.12%,3.5%,468.0,stable,2,Gas,"1,427,360",26.8,77.29,Retail trade,0.07%,0.00%,15.08%,TRUE
+Mississippi,Forrest,Mississippi Forrest,36,"$40,224","74,897",TRUE,FALSE,TRUE,3,56.89%,43.11%,5.5%,498.3,stable,2,Gas,0,18.3,75.03,Health care and social assistance,0.10%,0.05%,2.62%,TRUE
+Mississippi,Hancock,Mississippi Hancock,38,"$53,724","47,632",TRUE,FALSE,TRUE,2,84.54%,15.46%,3.3%,495.7,falling,0,None,0,29.6,76.88,Accommodation and food services,0.10%,0.00%,2.26%,TRUE
+Mississippi,Harrison,Mississippi Harrison,42,"$64,270","208,080",TRUE,FALSE,TRUE,2,63.19%,36.81%,3.1%,497.7,falling,2,Gas,"1,611,168",22.4,75.64,Accommodation and food services,0.00%,0.00%,2.25%,TRUE
+Mississippi,Hinds,Mississippi Hinds,44,"$44,773","231,840",TRUE,FALSE,TRUE,2,23.88%,76.12%,4.2%,484.0,rising,3,Gas,"1,400,388",24.3,76.01,Health care and social assistance,0.05%,0.22%,3.67%,TRUE
+Mississippi,Jackson,Mississippi Jackson,39,"$37,308","143,617",TRUE,FALSE,TRUE,2,67.42%,32.58%,3.8%,465.6,stable,2,Gas,"6,306,175",26.1,76.03,Manufacturing,0.13%,0.09%,1.39%,TRUE
+Mississippi,Lauderdale,Mississippi Lauderdale,31,"$41,604","74,125",TRUE,FALSE,FALSE,5,52.00%,48.00%,4.7%,427.8,stable,4,Solar,"5,710",19.7,75.16,Health care and social assistance,0.28%,0.01%,3.14%,TRUE
+Mississippi,Lee,Mississippi Lee,35,"$57,619","85,436",TRUE,FALSE,FALSE,5,64.61%,35.39%,3.9%,488.4,stable,0,None,0,21.8,75.22,Manufacturing,0.00%,0.00%,3.67%,TRUE
+Mississippi,Yalobusha,Mississippi Yalobusha,31,"$40,515","12,108",FALSE,TRUE,FALSE,7,57.97%,42.03%,3.0%,516.7,rising,0,None,0,24.7,74.33,Manufacturing,0.37%,0.00%,3.01%,TRUE
+Missouri,Andrew,Missouri Andrew,38,"$62,823","17,712",TRUE,FALSE,TRUE,3,93.90%,6.10%,4.1%,439.9,stable,0,None,0,23.6,79.41,Retail trade,0.00%,0.00%,2.13%,TRUE
+Missouri,Boone,Missouri Boone,33,"$72,426","180,463",TRUE,FALSE,TRUE,3,78.42%,21.58%,4.5%,430.7,falling,4,Gas,"56,516",18.0,79.9,Health care and social assistance,0.06%,0.04%,2.54%,TRUE
+Missouri,Buchanan,Missouri Buchanan,33,"$67,906","87,364",TRUE,FALSE,TRUE,3,82.67%,17.33%,5.0%,473.0,stable,2,Gas,999,17.0,77.11,Manufacturing,0.00%,0.00%,4.10%,TRUE
+Missouri,Callaway,Missouri Callaway,35,"$58,720","44,743",TRUE,FALSE,TRUE,3,89.99%,10.01%,3.9%,452.2,stable,2,Gas,261,23.5,78.28,Health care and social assistance,0.11%,0.00%,7.93%,TRUE
+Missouri,Cass,Missouri Cass,36,"$51,011","105,780",TRUE,FALSE,TRUE,1,87.27%,12.73%,4.6%,437.4,stable,3,Gas,"1,129,102",28.3,78.61,Retail trade,0.04%,0.17%,7.66%,TRUE
+Missouri,Cedar,Missouri Cedar,36,"$71,029","14,349",FALSE,TRUE,FALSE,6,94.17%,5.83%,4.1%,404.8,falling,2,Hydro,0,25.4,77.42,Health care and social assistance,0.00%,0.00%,1.57%,TRUE
+Missouri,Clay,Missouri Clay,35,"$49,377","249,948",TRUE,FALSE,TRUE,1,80.14%,19.86%,5.1%,462.6,falling,1,Coal,0,23.1,79.33,"Professional, scientific, and technical services",0.01%,0.07%,4.38%,TRUE
+Missouri,Clinton,Missouri Clinton,37,"$67,201","20,387",TRUE,FALSE,TRUE,1,93.34%,6.66%,3.8%,491.7,stable,0,None,0,31.5,77.3,Health care and social assistance,0.24%,0.00%,1.54%,TRUE
+Missouri,Franklin,Missouri Franklin,1,"$55,421","103,967",TRUE,FALSE,TRUE,1,94.93%,5.07%,4.9%,490.5,stable,1,Coal,"15,624,861",28.4,77.57,Manufacturing,0.03%,0.00%,3.72%,TRUE
+Missouri,Greene,Missouri Greene,37,"$52,116","293,086",TRUE,FALSE,TRUE,2,87.03%,12.97%,4.7%,414.3,falling,7,Gas,"2,111,070",19.5,78.28,Health care and social assistance,0.04%,0.04%,6.81%,TRUE
+Missouri,Iron,Missouri Iron,17,"$46,814","10,125",FALSE,TRUE,FALSE,7,94.09%,5.91%,4.4%,522.0,stable,0,None,0,28.5,73.89,Health care and social assistance,0.00%,17.18%,4.11%,TRUE
+Missouri,Jackson,Missouri Jackson,40,"$37,308","703,011",TRUE,FALSE,TRUE,1,62.22%,37.78%,5.6%,449.9,falling,13,Gas,"3,193,003",23.5,77.2,Health care and social assistance,0.01%,0.03%,2.78%,TRUE
+Missouri,Jasper,Missouri Jasper,35,"$59,980","121,328",TRUE,FALSE,TRUE,3,83.55%,16.45%,5.0%,484.4,stable,4,Gas,"2,266,161",17.8,76.78,Manufacturing,0.02%,0.07%,14.53%,TRUE
+Missouri,Jefferson,Missouri Jefferson,38,"$63,078","225,081",TRUE,FALSE,TRUE,1,94.12%,5.88%,5.5%,476.7,stable,1,Coal,"5,850,289",31.3,76.79,Retail trade,0.12%,0.34%,2.64%,TRUE
+Missouri,Lincoln,Missouri Lincoln,37,"$50,608","59,013",TRUE,FALSE,TRUE,1,92.86%,7.14%,5.0%,485.8,stable,0,None,0,33.2,77.71,Retail trade,0.00%,1.47%,6.91%,TRUE
+Missouri,Monroe,Missouri Monroe,31,"$90,904","8,644",FALSE,TRUE,FALSE,9,92.48%,7.52%,3.9%,467.9,stable,1,Oil,0,28.4,79.14,Manufacturing,0.00%,0.00%,6.42%,TRUE
+Missouri,New Madrid,Missouri New Madrid,117,"$42,115","17,076",FALSE,TRUE,FALSE,7,79.63%,20.37%,2.5%,471.9,stable,1,Coal,"6,881,233",20.0,74.47,Health care and social assistance,3.90%,0.00%,9.80%,TRUE
+Missouri,Perry,Missouri Perry,36,"$56,880","19,136",FALSE,TRUE,FALSE,6,94.60%,5.40%,3.3%,453.4,stable,0,None,0,22.6,79.18,Manufacturing,0.00%,0.00%,6.74%,TRUE
+Missouri,St. Charles,Missouri Saint Charles,33,"$34,157","402,022",TRUE,FALSE,TRUE,1,86.57%,13.43%,5.2%,459.0,falling,2,Coal,"4,439,984",25.5,80.43,Accommodation and food services,0.01%,0.06%,3.47%,FALSE
+Missouri,St. Louis,Missouri Saint Louis,40,"$28,186","994,205",TRUE,FALSE,TRUE,1,65.27%,34.73%,5.6%,471.2,falling,3,Coal,"636,548",24.3,79.45,Health care and social assistance,0.01%,0.05%,3.40%,FALSE
+Missouri,Ste. Genevieve,Missouri Ste. Genevieve,36,"$25,987","17,894",FALSE,TRUE,FALSE,7,86.86%,13.14%,4.3%,441.3,stable,0,None,0,27.4,79.2,Manufacturing,0.00%,3.68%,4.56%,FALSE
+Missouri,St. Louis City,Missouri Saint Louis City,40,"$28,186","308,174",TRUE,FALSE,TRUE,1,44.71%,55.29%,6.5%,450.2,falling,3,Gas,"10,323",24.4,74.04,Health care and social assistance,0.00%,0.00%,4.46%,FALSE
+Montana,Cascade,Montana Cascade,18,"$51,732","81,366",TRUE,FALSE,TRUE,3,84.94%,15.06%,7.0%,421.5,falling,8,Hydro,0,16.5,78.97,Health care and social assistance,0.00%,0.04%,3.06%,TRUE
+Montana,Fergus,Montana Fergus,39,"$48,703","11,050",FALSE,TRUE,FALSE,7,93.71%,6.29%,3.9%,429.2,falling,0,None,0,13.4,79.14,Health care and social assistance,0.22%,0.00%,1.22%,FALSE
+Montana,Flathead,Montana Flathead,35,"$61,334","103,806",TRUE,FALSE,FALSE,5,92.63%,7.37%,3.5%,506.2,stable,3,Hydro,336,19.3,79.49,Health care and social assistance,0.44%,0.09%,2.33%,FALSE
+Montana,Gallatin,Montana Gallatin,22,"$46,515","114,434",TRUE,FALSE,FALSE,5,91.28%,8.72%,2.9%,432.1,stable,0,None,0,18.0,82.05,Accommodation and food services,0.17%,0.17%,3.12%,TRUE
+Montana,Lewis and Clark,Montana Lewis and Clark,40,"$66,075","69,432",TRUE,FALSE,FALSE,5,91.05%,8.95%,4.5%,485.9,stable,4,Hydro,0,16.4,79.4,Health care and social assistance,0.03%,0.16%,2.74%,TRUE
+Montana,Lincoln,Montana Lincoln,40,"$50,608","19,980",FALSE,TRUE,FALSE,7,92.32%,7.68%,2.7%,490.1,stable,1,Hydro,0,16.5,78.15,Health care and social assistance,3.38%,0.19%,3.40%,TRUE
+Montana,Missoula,Montana Missoula,47,"$57,279","119,600",TRUE,FALSE,TRUE,3,89.05%,10.95%,3.4%,431.5,falling,1,Hydro,0,18.3,79.95,Health care and social assistance,0.26%,0.05%,4.01%,TRUE
+Montana,Phillips,Montana Phillips,35,"$51,546","3,954",FALSE,TRUE,FALSE,9,82.65%,17.35%,2.0%,507.9,stable,0,None,0,17.6,79.5,Health care and social assistance,0.00%,3.26%,1.25%,TRUE
+Montana,Powder River,Montana Powder River,40,"$47,843","1,682",FALSE,TRUE,FALSE,9,92.69%,7.31%,3.3%,395.4,stable,0,None,0,16.2,80.47,Retail trade,0.00%,0.00%,2.13%,FALSE
+Montana,Ravalli,Montana Ravalli,11,"$57,209","43,806",FALSE,TRUE,FALSE,6,92.64%,7.36%,3.0%,408.0,falling,0,None,0,22.9,80.5,Health care and social assistance,0.65%,0.02%,3.38%,FALSE
+Montana,Richland,Montana Richland,36,"$49,775","10,803",FALSE,TRUE,FALSE,7,88.85%,11.15%,4.3%,430.6,stable,2,Coal,"389,958",15.7,78.45,Health care and social assistance,0.00%,12.53%,11.38%,TRUE
+Montana,Rosebud,Montana Rosebud,37,"$58,139","8,937",FALSE,TRUE,FALSE,9,54.17%,45.83%,2.9%,558.4,stable,2,Coal,"16,183,624",12.4,76.42,Educational services,0.00%,0.00%,0.45%,TRUE
+Montana,Sanders,Montana Sanders,23,"$45,193","12,113",FALSE,TRUE,FALSE,8,89.83%,10.17%,2.7%,491.1,stable,2,Hydro,0,18.8,79,Health care and social assistance,2.64%,0.77%,2.91%,FALSE
+Montana,Silver Bow,Montana Silver Bow,19,"$49,249","34,915",TRUE,FALSE,FALSE,5,90.15%,9.85%,3.0%,468.1,stable,1,Gas,"84,683",14.7,77.1,Health care and social assistance,0.00%,0.00%,3.10%,TRUE
+Montana,Yellowstone,Montana Yellowstone,23,"$61,435","161,300",TRUE,FALSE,TRUE,3,85.95%,14.05%,4.2%,523.3,stable,4,Coal,"415,500",19.6,79.18,Health care and social assistance,0.07%,0.38%,4.94%,TRUE
+Nebraska,Cass,Nebraska Cass,14,"$51,011","26,248",TRUE,FALSE,TRUE,2,93.18%,6.82%,3.5%,491.0,stable,1,Gas,"134,967",26.1,79.59,Retail trade,0.52%,6.06%,9.04%,TRUE
+Nebraska,Douglas,Nebraska Douglas,36,"$64,283","571,327",TRUE,FALSE,TRUE,2,68.78%,31.22%,3.9%,495.6,rising,4,Biomass,"2,358,798",20.3,78.91,Health care and social assistance,0.02%,0.01%,3.83%,TRUE
+Nebraska,Gage,Nebraska Gage,22,"$56,817","21,513",FALSE,TRUE,FALSE,6,93.97%,6.03%,3.5%,480.0,stable,1,Gas,"342,034",20.3,79.42,Health care and social assistance,0.29%,0.00%,2.67%,FALSE
+Nebraska,Hall,Nebraska Hall,20,"$57,371","61,353",TRUE,FALSE,TRUE,3,65.12%,34.88%,3.3%,447.6,falling,2,Coal,"686,833",16.7,79.19,Manufacturing,0.31%,0.00%,8.62%,TRUE
+Nebraska,Knox,Nebraska Knox,35,"$43,404","8,332",FALSE,TRUE,FALSE,9,84.73%,15.27%,4.3%,436.0,stable,2,Wind,0,17.5,80.09,Health care and social assistance,1.65%,0.00%,4.00%,TRUE
+Nebraska,Lancaster,Nebraska Lancaster,30,"$61,383","319,090",TRUE,FALSE,TRUE,2,80.63%,19.37%,4.9%,448.2,stable,9,Gas,"1,035,510",18.7,80.8,Health care and social assistance,0.09%,0.00%,4.44%,TRUE
+Nebraska,Sarpy,Nebraska Sarpy,29,"$84,016","187,196",TRUE,FALSE,TRUE,2,80.09%,19.91%,3.8%,480.7,stable,2,Gas,"76,166",21.0,80.81,Retail trade,0.00%,0.06%,4.84%,TRUE
+Nebraska,Scotts Bluff,Nebraska Scotts Bluff,27,"$50,263","35,618",TRUE,FALSE,FALSE,5,71.56%,28.44%,2.9%,437.9,stable,1,Coal,"220,199",15.0,78.46,Health care and social assistance,0.00%,0.09%,3.71%,FALSE
+Nebraska,Washington,Nebraska Washington,23,"$45,813","20,729",TRUE,FALSE,TRUE,2,94.30%,5.70%,2.3%,501.2,stable,2,Solar,0,22.0,81.04,Retail trade,0.00%,0.00%,5.15%,TRUE
+Nevada,Carson City,Nevada Carson City,41,"$58,126","54,773",TRUE,FALSE,TRUE,3,66.39%,33.61%,4.5%,463.8,rising,1,Oil,0,19.2,77.12,Health care and social assistance,0.06%,0.00%,0.96%,FALSE
+Nevada,Churchill,Nevada Churchill,40,"$56,335","24,909",FALSE,TRUE,FALSE,6,72.50%,27.50%,3.6%,423.2,stable,13,Geothermal,"46,730",20.8,77.1,Retail trade,0.00%,1.74%,8.20%,TRUE
+Nevada,Clark,Nevada Clark,61,"$58,323","2,266,715",TRUE,FALSE,TRUE,1,41.67%,58.33%,5.5%,385.8,stable,63,Solar,"8,910,561",25.9,78.02,Accommodation and food services,0.02%,0.05%,4.44%,TRUE
+Nevada,Douglas,Nevada Douglas,17,"$64,283","48,905",TRUE,FALSE,FALSE,4,80.18%,19.82%,3.7%,416.2,stable,0,None,0,24.5,81.37,Accommodation and food services,0.05%,0.17%,0.74%,TRUE
+Nevada,Elko,Nevada Elko,18,"$83,287","52,778",TRUE,FALSE,FALSE,5,66.53%,33.47%,2.7%,380.9,rising,1,Geothermal,0,30.9,78.7,"Mining, quarrying, and oil and gas extraction",0.00%,26.12%,2.89%,TRUE
+Nevada,Lyon,Nevada Lyon,38,"$66,139","57,510",TRUE,FALSE,FALSE,4,73.79%,26.21%,4.3%,449.6,falling,5,Geothermal,"460,771",28.5,77.26,Manufacturing,0.06%,0.89%,12.82%,TRUE
+Nevada,Nye,Nevada Nye,21,"$48,490","46,523",TRUE,FALSE,FALSE,4,75.06%,24.94%,3.7%,448.5,falling,5,Solar,0,25.0,74.84,Accommodation and food services,0.29%,11.73%,1.04%,FALSE
+Nevada,Washoe,Nevada Washoe,46,"$71,733","471,519",TRUE,FALSE,TRUE,2,62.32%,37.68%,4.8%,429.8,falling,18,Geothermal,"6,565",23.1,78.03,Accommodation and food services,0.02%,0.17%,7.28%,FALSE
+Nevada,White Pine,Nevada White Pine,44,"$60,086","9,580",FALSE,TRUE,FALSE,7,71.02%,28.98%,2.9%,369.0,rising,2,Wind,0,14.7,77.34,"Mining, quarrying, and oil and gas extraction",0.00%,46.55%,1.51%,FALSE
+New Hampshire,Belknap,New Hampshire Belknap,30,"$68,752","61,303",TRUE,FALSE,FALSE,4,94.84%,5.16%,3.5%,519.3,stable,2,Hydro,0,25.5,79.93,Retail trade,0.04%,0.14%,2.29%,TRUE
+New Hampshire,Cheshire,New Hampshire Cheshire,35,"$65,326","76,085",TRUE,FALSE,FALSE,4,93.82%,6.18%,4.4%,471.2,stable,0,None,0,24.2,80.2,Retail trade,0.07%,0.12%,2.53%,FALSE
+New Hampshire,Coos,New Hampshire Coos,43,"$49,156","31,563",FALSE,TRUE,FALSE,7,94.80%,5.20%,5.4%,484.3,stable,10,Hydro,"156,142",21.2,78.62,Health care and social assistance,1.98%,0.00%,3.75%,FALSE
+New Hampshire,Grafton,New Hampshire Grafton,33,"$62,468","89,886",TRUE,FALSE,FALSE,5,90.41%,9.59%,4.3%,446.9,falling,12,Hydro,"11,969",23.0,81.06,Health care and social assistance,0.25%,0.03%,1.20%,TRUE
+New Hampshire,Hillsborough,New Hampshire Hillsborough,36,"$82,862","417,025",TRUE,FALSE,TRUE,2,83.76%,16.24%,5.6%,461.2,falling,9,Hydro,13,28.0,80.53,Health care and social assistance,0.03%,0.01%,2.52%,TRUE
+New Hampshire,Merrimack,New Hampshire Merrimack,28,"$75,800","151,391",TRUE,FALSE,FALSE,4,92.12%,7.88%,4.8%,484.7,falling,12,Hydro,"478,889",28.7,80.28,Health care and social assistance,0.15%,0.17%,3.06%,TRUE
+New Hampshire,Rockingham,New Hampshire Rockingham,38,"$91,416","309,769",TRUE,FALSE,TRUE,1,92.19%,7.81%,5.1%,495.3,falling,6,Gas,"1,653,132",30.8,80.76,Retail trade,0.03%,0.01%,4.08%,TRUE
+New Jersey,Atlantic,New Jersey Atlantic,34,"$62,678","263,670",TRUE,FALSE,TRUE,2,55.95%,44.05%,5.6%,495.2,falling,16,Solar,"67,419",26.1,77.82,Accommodation and food services,0.02%,0.00%,2.10%,FALSE
+New Jersey,Bergen,New Jersey Bergen,39,"$107,971","932,202",TRUE,FALSE,TRUE,1,55.14%,44.86%,5.4%,472.8,falling,6,Solar,"1,371,367",34.2,82.33,Health care and social assistance,0.00%,0.00%,4.63%,TRUE
+New Jersey,Camden,New Jersey Camden,40,"$51,460","506,471",TRUE,FALSE,TRUE,1,55.83%,44.17%,7.1%,527.3,stable,13,Solar,"228,875",29.7,78.18,Health care and social assistance,0.00%,0.00%,5.63%,TRUE
+New Jersey,Cumberland,New Jersey Cumberland,38,"$53,991","149,527",TRUE,FALSE,TRUE,3,45.45%,54.55%,5.5%,503.4,stable,20,Solar,"173,639",24.7,76.95,Health care and social assistance,0.15%,0.32%,6.66%,TRUE
+New Jersey,Essex,New Jersey Essex,39,"$83,253","798,975",TRUE,FALSE,TRUE,1,30.22%,69.78%,6.7%,462.5,stable,14,Gas,"2,601,570",36.1,77.8,Health care and social assistance,0.00%,0.00%,12.18%,TRUE
+New Jersey,Gloucester,New Jersey Gloucester,36,"$87,996","291,636",TRUE,FALSE,TRUE,1,77.82%,22.18%,6.6%,541.7,stable,16,Solar,"3,215,122",30.5,78.63,Retail trade,0.01%,0.00%,6.12%,TRUE
+New Jersey,Hudson,New Jersey Hudson,37,"$77,738","672,391",TRUE,FALSE,TRUE,1,28.97%,71.03%,7.3%,405.9,falling,24,Solar,"445,372",36.9,79.88,Health care and social assistance,0.00%,0.00%,13.81%,TRUE
+New Jersey,Hunterdon,New Jersey Hunterdon,38,"$117,275","124,371",TRUE,FALSE,TRUE,1,84.81%,15.19%,4.5%,491.5,stable,15,Solar,"12,925",36.6,82.28,Health care and social assistance,0.31%,0.00%,1.96%,TRUE
+New Jersey,Mercer,New Jersey Mercer,38,"$62,241","367,430",TRUE,FALSE,TRUE,2,48.23%,51.77%,6.1%,501.4,falling,21,Solar,"56,463",29.6,79.67,Health care and social assistance,0.01%,0.00%,2.51%,TRUE
+New Jersey,Middlesex,New Jersey Middlesex,37,"$106,543","825,062",TRUE,FALSE,TRUE,1,41.72%,58.28%,5.6%,456.4,falling,53,Solar,"5,646,867",34.9,80.99,"Professional, scientific, and technical services",0.01%,0.01%,8.83%,TRUE
+New Jersey,Monmouth,New Jersey Monmouth,37,"$102,579","618,795",TRUE,FALSE,TRUE,1,75.05%,24.95%,5.2%,524.4,falling,22,Solar,0,36.2,80.08,Health care and social assistance,0.04%,0.03%,2.70%,TRUE
+New Jersey,Morris,New Jersey Morris,35,"$54,775","491,845",TRUE,FALSE,TRUE,1,70.46%,29.54%,4.2%,486.5,falling,9,Solar,0,32.2,81.93,"Professional, scientific, and technical services",0.02%,0.05%,2.91%,TRUE
+New Jersey,Ocean,New Jersey Ocean,35,"$75,627","607,186",TRUE,FALSE,TRUE,1,84.29%,15.71%,6.0%,527.9,falling,16,Solar,"228,567",33.7,79.46,Health care and social assistance,0.06%,0.04%,2.47%,FALSE
+New Jersey,Passaic,New Jersey Passaic,36,"$76,039","501,826",TRUE,FALSE,TRUE,1,40.35%,59.65%,6.1%,454.8,falling,6,Hydro,949,29.3,79.79,Health care and social assistance,0.00%,0.04%,4.07%,TRUE
+New Jersey,Union,New Jersey Union,38,"$51,575","556,341",TRUE,FALSE,TRUE,1,39.23%,60.77%,5.2%,452.5,falling,17,Solar,"4,621,399",32.4,80.46,Health care and social assistance,0.00%,0.00%,8.24%,TRUE
+New Jersey,Warren,New Jersey Warren,34,"$53,621","105,267",TRUE,FALSE,TRUE,2,80.43%,19.57%,5.3%,505.0,falling,15,Solar,"32,763",37.2,80.29,Retail trade,0.06%,0.08%,2.51%,TRUE
+New Mexico,Bernalillo,New Mexico Bernalillo,54,"$56,148","679,121",TRUE,FALSE,TRUE,2,38.25%,61.75%,4.8%,387.9,falling,14,Solar,"371,927",23.2,79.02,Health care and social assistance,0.01%,0.03%,2.63%,TRUE
+New Mexico,Dona Ana,New Mexico Dona Ana,53,"$43,618","1,158",FALSE,TRUE,FALSE,9,27.20%,72.80%,5.5%,403.9,stable,10,Solar,"1,065,169",20.9,79.63,Health care and social assistance,0.10%,0.04%,3.46%,TRUE
+New Mexico,Eddy,New Mexico Eddy,46,"$63,671","58,460",TRUE,FALSE,FALSE,5,45.25%,54.75%,3.8%,375.0,falling,3,Gas,0,18.7,77,"Mining, quarrying, and oil and gas extraction",0.15%,23.91%,8.46%,FALSE
+New Mexico,Lea,New Mexico Lea,39,"$63,012","71,070",TRUE,FALSE,FALSE,5,34.28%,65.72%,3.7%,354.1,falling,13,Solar,"3,138,680",25.2,76.67,"Mining, quarrying, and oil and gas extraction",0.00%,21.26%,7.27%,FALSE
+New Mexico,Luna,New Mexico Luna,19,"$32,544","23,709",FALSE,TRUE,FALSE,6,28.55%,71.45%,2.7%,414.2,stable,6,Solar,"1,166,443",17.9,77.92,Health care and social assistance,0.00%,0.00%,3.72%,TRUE
+New Mexico,Rio Arriba,New Mexico Rio Arriba,44,"$44,579","38,921",TRUE,FALSE,FALSE,4,12.83%,87.17%,5.9%,303.0,falling,5,Hydro,0,27.8,76.15,Health care and social assistance,0.55%,0.00%,0.82%,FALSE
+New Mexico,San Juan,New Mexico San Juan,45,"$46,201","123,958",TRUE,FALSE,TRUE,3,37.45%,62.55%,4.7%,333.0,falling,9,Gas,"15,988,576",22.8,78.03,Health care and social assistance,0.00%,9.80%,3.47%,FALSE
+New Mexico,Sandoval,New Mexico Sandoval,44,"$71,118","146,748",TRUE,FALSE,TRUE,2,42.54%,57.46%,4.8%,409.4,falling,7,Solar,0,28.6,80.01,Accommodation and food services,0.00%,0.26%,1.37%,FALSE
+New Mexico,Santa Fe,New Mexico Santa Fe,44,"$61,791","150,358",TRUE,FALSE,TRUE,3,43.16%,56.84%,4.5%,329.5,falling,1,Solar,0,22.8,81.15,Accommodation and food services,0.05%,0.14%,1.44%,TRUE
+New Mexico,Taos,New Mexico Taos,20,"$43,032","32,723",FALSE,TRUE,FALSE,7,35.81%,64.19%,5.1%,329.1,falling,6,Solar,0,19.7,80.41,Accommodation and food services,0.00%,0.00%,0.78%,FALSE
+New Mexico,Valencia,New Mexico Valencia,44,"$54,867","76,688",TRUE,FALSE,TRUE,2,31.93%,68.07%,4.0%,400.9,falling,9,Solar,"67,678",26.1,77.43,Retail trade,0.00%,0.00%,9.04%,TRUE
+New York,Albany,New York Albany,38,"$69,408","305,506",TRUE,FALSE,TRUE,2,71.57%,28.43%,5.7%,522.4,stable,18,Solar,"1,939,556",21.4,79.96,Health care and social assistance,0.01%,0.28%,3.33%,TRUE
+New York,Bronx,New York Bronx,39,"$41,470","1,418,207",TRUE,FALSE,TRUE,1,9.01%,90.99%,8.5%,441.2,falling,11,Oil,"90,188",45.9,78.27,Health care and social assistance,0.00%,0.00%,4.85%,TRUE
+New York,Chautauqua,New York Chautauqua,35,"$43,664","126,903",TRUE,FALSE,FALSE,4,87.07%,12.93%,6.1%,530.1,falling,7,Wind,"87,516",19.0,79.18,Manufacturing,0.03%,0.21%,2.54%,TRUE
+New York,Dutchess,New York Dutchess,33,"$84,564","294,218",TRUE,FALSE,TRUE,1,70.66%,29.34%,5.2%,468.5,falling,8,Solar,"79,136",33.4,80.48,Health care and social assistance,0.09%,0.15%,2.63%,FALSE
+New York,Erie,New York Erie,37,"$60,620","918,702",TRUE,FALSE,TRUE,1,74.95%,25.05%,6.2%,541.5,falling,12,Solar,"15,514",21.5,78.81,Health care and social assistance,0.01%,0.04%,4.05%,TRUE
+New York,Essex,New York Essex,38,"$83,253","36,885",FALSE,TRUE,FALSE,6,92.25%,7.75%,4.1%,445.6,falling,4,Oil,"15,517",21.8,80.19,Accommodation and food services,0.16%,0.81%,0.89%,TRUE
+New York,Hamilton,New York Hamilton,34,"$107,710","4,416",FALSE,TRUE,FALSE,8,94.50%,5.50%,2.9%,531.4,stable,0,None,0,25.3,79.69,Accommodation and food services,1.68%,0.00%,4.68%,TRUE
+New York,Jefferson,New York Jefferson,33,"$50,531","109,834",TRUE,FALSE,TRUE,3,81.30%,18.70%,6.0%,565.7,stable,22,Hydro,"1,749",20.1,79.22,Health care and social assistance,0.04%,0.13%,4.19%,TRUE
+New York,Kings,New York Kings,23,"$66,501","2,559,903",TRUE,FALSE,TRUE,1,36.77%,63.23%,6.4%,441.7,falling,22,Oil,"812,109",43.8,79.81,Health care and social assistance,0.00%,0.00%,3.40%,TRUE
+New York,Monroe,New York Monroe,36,"$90,904","741,770",TRUE,FALSE,TRUE,1,70.12%,29.88%,6.7%,504.9,stable,21,Solar,"73,401",20.2,80.11,Health care and social assistance,0.07%,0.02%,2.41%,TRUE
+New York,Nassau,New York Nassau,20,"$117,767","1,356,924",TRUE,FALSE,TRUE,1,58.53%,41.47%,6.0%,505.8,falling,17,Gas,"1,925,910",37.0,81.93,Health care and social assistance,0.03%,0.00%,3.84%,TRUE
+New York,New York,New York New York,37,"$93,007","1,628,706",TRUE,FALSE,TRUE,1,47.22%,52.78%,5.6%,449.2,falling,17,Oil,"1,478,581",31.7,81.36,"Professional, scientific, and technical services",0.00%,0.00%,1.01%,TRUE
+New York,Niagara,New York Niagara,34,"$56,371","209,281",TRUE,FALSE,TRUE,1,84.95%,15.05%,6.6%,550.5,stable,10,Gas,"523,447",22.8,78.7,Health care and social assistance,0.02%,0.00%,4.04%,TRUE
+New York,Oneida,New York Oneida,16,"$56,516","228,671",TRUE,FALSE,TRUE,2,81.35%,18.65%,5.4%,515.2,stable,17,Solar,"12,870",20.4,79.31,Health care and social assistance,0.03%,0.05%,4.56%,TRUE
+New York,Onondaga,New York Onondaga,35,"$61,597","460,528",TRUE,FALSE,TRUE,2,76.46%,23.54%,4.8%,519.2,falling,10,Solar,"262,933",20.9,79.9,Health care and social assistance,0.02%,0.05%,4.59%,TRUE
+New York,Orange,New York Orange,36,"$47,931","384,940",TRUE,FALSE,TRUE,1,62.73%,37.27%,7.2%,496.2,falling,30,Solar,"1,796,203",34.5,79.83,Health care and social assistance,0.13%,0.05%,5.61%,TRUE
+New York,Oswego,New York Oswego,33,"$57,640","117,124",TRUE,FALSE,TRUE,2,93.72%,6.28%,3.9%,541.8,stable,20,Hydro,"1,971,102",24.7,78.55,Health care and social assistance,0.04%,0.00%,1.71%,TRUE
+New York,Putnam,New York Putnam,32,"$74,367","98,320",TRUE,FALSE,TRUE,1,77.08%,22.92%,4.8%,500.7,falling,1,Oil,0,41.4,81.7,Health care and social assistance,0.16%,0.00%,2.88%,TRUE
+New York,Queens,New York Queens,38,"$72,975","2,253,858",TRUE,FALSE,TRUE,1,24.85%,75.15%,6.0%,421.3,falling,17,Gas,"5,934,505",44.2,81.55,Health care and social assistance,0.00%,0.00%,12.46%,TRUE
+New York,Richmond,New York Richmond,36,"$86,624","476,143",TRUE,FALSE,TRUE,1,59.58%,40.42%,5.1%,526.2,stable,5,Gas,"649,450",46.4,79.82,Health care and social assistance,0.00%,0.00%,5.38%,TRUE
+New York,Rockland,New York Rockland,34,"$99,831","325,789",TRUE,FALSE,TRUE,1,62.74%,37.26%,6.6%,478.7,falling,10,Gas,"239,477",30.4,82.05,Health care and social assistance,0.01%,0.00%,2.86%,TRUE
+New York,Saratoga,New York Saratoga,33,"$89,071","229,863",TRUE,FALSE,TRUE,2,90.12%,9.88%,5.9%,526.1,stable,26,Hydro,"269,707",25.7,81.31,Health care and social assistance,0.28%,0.00%,3.12%,TRUE
+New York,St. Lawrence,New York St. Lawrence,14,"$51,742","107,740",TRUE,FALSE,FALSE,4,91.97%,8.03%,5.6%,480.5,falling,42,Hydro,804,21.3,78.65,Health care and social assistance,0.31%,1.04%,2.57%,FALSE
+New York,Steuben,New York Steuben,34,"$59,444","95,379",TRUE,FALSE,FALSE,4,93.41%,6.59%,5.5%,484.5,falling,13,Wind,0,21.5,78.96,Health care and social assistance,0.03%,0.19%,2.88%,TRUE
+New York,Suffolk,New York Suffolk,37,"$75,843","1,476,601",TRUE,FALSE,TRUE,1,66.63%,33.37%,5.9%,530.5,falling,52,Solar,"3,429,091",33.5,80.48,Health care and social assistance,0.03%,0.03%,3.68%,TRUE
+New York,Tompkins,New York Tompkins,34,"$59,176","102,180",TRUE,FALSE,TRUE,3,77.03%,22.97%,5.2%,429.2,stable,12,Solar,"168,583",21.1,81.26,Educational services,0.57%,0.43%,1.35%,FALSE
+New York,Wayne,New York Wayne,34,"$51,829","89,918",TRUE,FALSE,TRUE,1,89.51%,10.49%,5.8%,518.3,stable,9,Solar,210,24.3,79.38,Manufacturing,0.24%,0.12%,1.47%,TRUE
+New York,Westchester,New York Westchester,36,"$101,741","967,506",TRUE,FALSE,TRUE,1,52.62%,47.38%,5.0%,475.6,falling,19,Oil,"400,349",36.1,82.18,Health care and social assistance,0.05%,0.00%,2.98%,TRUE
+North Carolina,Alexander,North Carolina Alexander,33,"$54,960","37,497",TRUE,FALSE,TRUE,2,86.65%,13.35%,4.4%,477.0,stable,3,Solar,0,24.1,77.97,Manufacturing,0.00%,0.16%,3.10%,FALSE
+North Carolina,Avery,North Carolina Avery,37,"$45,823","17,557",FALSE,TRUE,FALSE,8,88.53%,11.47%,4.1%,474.7,stable,0,None,0,21.5,78.11,Retail trade,0.05%,0.00%,0.75%,FALSE
+North Carolina,Beaufort,North Carolina Beaufort,0,"$49,410","46,994",FALSE,TRUE,FALSE,6,65.94%,34.06%,4.6%,419.4,falling,11,Solar,0,24.6,76.61,Manufacturing,1.27%,0.00%,2.08%,FALSE
+North Carolina,Brunswick,North Carolina Brunswick,0,"$63,712","142,820",TRUE,FALSE,TRUE,2,82.31%,17.69%,4.2%,473.0,rising,5,Solar,"116,460",24.2,78.49,Retail trade,0.21%,0.00%,2.55%,TRUE
+North Carolina,Buncombe,North Carolina Buncombe,31,"$55,448","261,191",TRUE,FALSE,TRUE,2,83.36%,16.64%,4.7%,471.0,stable,7,Coal,"1,538,868",20.1,78.82,Health care and social assistance,0.02%,0.08%,3.10%,TRUE
+North Carolina,Caldwell,North Carolina Caldwell,31,"$44,144","82,178",TRUE,FALSE,TRUE,2,86.72%,13.28%,5.0%,483.2,stable,3,Oil,78,24.1,76.48,Manufacturing,0.00%,0.08%,2.10%,TRUE
+North Carolina,Carteret,North Carolina Carteret,34,"$60,058","69,473",TRUE,FALSE,FALSE,4,86.53%,13.47%,3.0%,475.9,falling,1,Oil,0,23.2,78.23,Retail trade,0.02%,0.00%,2.03%,FALSE
+North Carolina,Caswell,North Carolina Caswell,31,"$51,240","22,604",FALSE,TRUE,FALSE,8,60.98%,39.02%,5.2%,493.3,stable,3,Solar,0,30.7,76.71,Health care and social assistance,2.24%,0.00%,1.53%,FALSE
+North Carolina,Catawba,North Carolina Catawba,31,"$53,688","159,551",TRUE,FALSE,TRUE,2,74.91%,25.09%,4.6%,467.7,stable,21,Solar,"8,147,791",22.4,77.06,Manufacturing,0.02%,0.03%,6.05%,TRUE
+North Carolina,Cumberland,North Carolina Cumberland,35,"$34,897","335,509",TRUE,FALSE,TRUE,2,42.36%,57.64%,5.5%,456.7,stable,14,Solar,"11,079",21.0,76.23,Health care and social assistance,0.11%,0.02%,3.20%,TRUE
+North Carolina,Davidson,North Carolina Davidson,32,"$53,924","167,609",TRUE,FALSE,TRUE,2,79.38%,20.62%,4.8%,493.0,stable,7,Oil,111,24.8,77.08,Manufacturing,0.04%,0.00%,5.95%,TRUE
+North Carolina,Durham,North Carolina Durham,35,"$65,541","321,488",TRUE,FALSE,TRUE,2,42.98%,57.02%,4.9%,454.9,falling,5,Solar,0,22.8,78.67,"Professional, scientific, and technical services",0.00%,0.00%,1.83%,TRUE
+North Carolina,Edgecombe,North Carolina Edgecombe,32,"$40,784","51,472",TRUE,FALSE,TRUE,3,36.04%,63.96%,5.2%,454.3,stable,8,Solar,0,22.5,75.39,Health care and social assistance,0.02%,0.00%,9.69%,FALSE
+North Carolina,Forsyth,North Carolina Forsyth,40,"$53,054","382,295",TRUE,FALSE,TRUE,2,56.28%,43.72%,5.3%,473.6,falling,5,Biomass,"5,313",21.7,78.29,Health care and social assistance,0.02%,0.03%,2.27%,TRUE
+North Carolina,Graham,North Carolina Graham,40,"$48,912","8,441",FALSE,TRUE,FALSE,9,86.12%,13.88%,3.4%,408.0,stable,2,Hydro,0,29.7,77.42,Construction,0.00%,0.00%,0.96%,FALSE
+North Carolina,Granville,North Carolina Granville,36,"$54,300","60,443",TRUE,FALSE,FALSE,4,57.77%,42.23%,4.4%,531.2,stable,9,Solar,0,28.5,77.4,Manufacturing,0.15%,0.00%,6.76%,TRUE
+North Carolina,Guilford,North Carolina Guilford,36,"$55,820","537,174",TRUE,FALSE,TRUE,2,49.39%,50.61%,5.3%,483.9,stable,9,Oil,571,21.6,78.79,Health care and social assistance,0.00%,0.03%,7.73%,TRUE
+North Carolina,Haywood,North Carolina Haywood,35,"$51,612","62,317",TRUE,FALSE,TRUE,2,92.15%,7.85%,3.7%,511.5,stable,3,Hydro,"72,881",23.1,78.67,Retail trade,0.03%,0.00%,0.72%,TRUE
+North Carolina,Jackson,North Carolina Jackson,24,"$59,472","43,938",FALSE,TRUE,FALSE,6,80.64%,19.36%,3.6%,402.3,falling,5,Hydro,0,19.9,78.76,Accommodation and food services,0.11%,0.00%,1.06%,TRUE
+North Carolina,Johnston,North Carolina Johnston,36,"$62,835","209,339",TRUE,FALSE,TRUE,1,66.82%,33.18%,5.2%,483.8,stable,28,Solar,0,30.4,77.55,Retail trade,0.15%,0.16%,3.67%,TRUE
+North Carolina,Lenoir,North Carolina Lenoir,32,"$39,947","55,949",TRUE,FALSE,FALSE,4,48.91%,51.09%,6.1%,499.7,falling,16,Solar,701,22.0,75.33,Manufacturing,0.19%,0.00%,2.87%,FALSE
+North Carolina,Lincoln,North Carolina Lincoln,35,"$47,557","86,111",TRUE,FALSE,TRUE,1,84.57%,15.43%,4.2%,491.0,stable,7,Solar,"25,756",29.7,77.65,Manufacturing,0.10%,0.00%,3.42%,TRUE
+North Carolina,Macon,North Carolina Macon,29,"$45,717","35,858",FALSE,TRUE,FALSE,7,88.64%,11.36%,4.3%,467.4,stable,3,Hydro,0,21.3,78.99,Retail trade,0.08%,0.20%,1.58%,TRUE
+North Carolina,Martin,North Carolina Martin,30,"$56,735","22,440",FALSE,TRUE,FALSE,6,52.28%,47.72%,5.2%,473.5,stable,17,Solar,"11,705",24.7,74.75,Health care and social assistance,3.06%,0.00%,3.51%,TRUE
+North Carolina,Mecklenburg,North Carolina Mecklenburg,40,"$69,455","1,110,356",TRUE,FALSE,TRUE,1,46.14%,53.86%,4.5%,448.0,falling,7,Oil,19,26.2,79.45,Health care and social assistance,0.01%,0.03%,6.71%,TRUE
+North Carolina,Mitchell,North Carolina Mitchell,20,"$61,247","14,964",FALSE,TRUE,FALSE,7,91.14%,8.86%,4.2%,456.7,stable,0,None,0,24.6,77.48,Health care and social assistance,0.17%,17.47%,3.41%,TRUE
+North Carolina,Montgomery,North Carolina Montgomery,35,"$54,366","27,173",FALSE,TRUE,FALSE,6,62.90%,37.10%,4.9%,436.8,stable,9,Solar,0,23.5,77.73,Manufacturing,1.38%,0.00%,1.69%,TRUE
+North Carolina,New Hanover,North Carolina New Hanover,31,"$57,252","234,473",TRUE,FALSE,TRUE,2,77.43%,22.57%,4.4%,464.2,stable,3,Solar,"1,972,743",20.2,79.56,Health care and social assistance,0.04%,0.05%,3.46%,TRUE
+North Carolina,Northampton,North Carolina Northampton,22,"$39,777","19,483",FALSE,TRUE,FALSE,9,38.76%,61.24%,5.0%,422.3,stable,16,Solar,0,26.1,76.55,Transportation and warehousing,0.77%,0.00%,30.69%,TRUE
+North Carolina,Person,North Carolina Person,29,"$54,553","39,490",TRUE,FALSE,TRUE,2,66.28%,33.72%,4.8%,490.4,stable,9,Solar,"9,695,693",31.7,77.1,Manufacturing,0.34%,0.00%,0.97%,FALSE
+North Carolina,Pitt,North Carolina Pitt,33,"$52,961","180,742",TRUE,FALSE,TRUE,3,54.07%,45.93%,5.2%,435.3,stable,11,Solar,581,20.9,77.61,Health care and social assistance,0.13%,0.05%,1.78%,FALSE
+North Carolina,Rockingham,North Carolina Rockingham,34,"$91,416","91,010",TRUE,FALSE,TRUE,2,72.15%,27.85%,5.1%,502.0,stable,13,Solar,"2,476,477",25.9,76.51,Manufacturing,0.14%,0.00%,4.08%,TRUE
+North Carolina,Rowan,North Carolina Rowan,39,"$44,068","142,088",TRUE,FALSE,TRUE,1,71.36%,28.64%,4.9%,503.7,falling,14,Solar,"3,874,776",24.8,76.49,Health care and social assistance,0.24%,0.29%,7.16%,TRUE
+North Carolina,Swain,North Carolina Swain,33,"$46,075","14,271",FALSE,TRUE,FALSE,8,60.70%,39.30%,4.4%,533.6,stable,1,Hydro,0,18.1,74.79,Health care and social assistance,0.00%,0.00%,1.29%,FALSE
+North Carolina,Union,North Carolina Union,31,"$53,866","239,859",TRUE,FALSE,TRUE,1,71.08%,28.92%,4.6%,461.5,stable,7,Solar,"1,289",29.5,78.97,Manufacturing,0.11%,0.00%,3.43%,TRUE
+North Carolina,Wake,North Carolina Wake,38,"$84,377","1,111,761",TRUE,FALSE,TRUE,1,59.57%,40.43%,4.5%,464.3,falling,13,Solar,"70,059",25.1,80.91,Health care and social assistance,0.04%,0.05%,2.46%,TRUE
+North Carolina,Yancey,North Carolina Yancey,44,"$47,664","18,069",FALSE,TRUE,FALSE,8,91.98%,8.02%,4.3%,481.3,stable,0,None,0,28.0,78.87,Manufacturing,0.77%,0.00%,1.94%,FALSE
+North Dakota,Billings,North Dakota Billings,34,"$69,528",928,FALSE,TRUE,FALSE,9,91.92%,8.08%,3.8%,472.2,stable,0,None,0,25.2,85.26,Accommodation and food services,0.00%,24.29%,8.10%,TRUE
+North Dakota,Burke,North Dakota Burke,33,"$47,890","2,115",FALSE,TRUE,FALSE,9,92.39%,7.61%,2.4%,466.1,stable,1,Wind,0,23.6,80.14,Retail trade,0.00%,14.60%,8.76%,TRUE
+North Dakota,Burleigh,North Dakota Burleigh,33,"$73,565","95,626",TRUE,FALSE,TRUE,3,88.24%,11.76%,4.7%,467.2,stable,3,Wind,0,17.0,81.4,Health care and social assistance,0.01%,0.17%,4.43%,TRUE
+North Dakota,Cass,North Dakota Cass,34,"$51,777","181,923",TRUE,FALSE,TRUE,3,84.38%,15.62%,4.9%,471.6,falling,2,Oil,28,18.6,81.17,Health care and social assistance,0.03%,0.00%,4.77%,TRUE
+North Dakota,Dunn,North Dakota Dunn,33,"$75,723","4,424",FALSE,TRUE,FALSE,9,80.20%,19.80%,3.9%,340.8,falling,0,None,0,21.6,80.22,"Mining, quarrying, and oil and gas extraction",0.00%,22.16%,20.20%,TRUE
+North Dakota,McKenzie,North Dakota McKenzie,33,"$86,890","15,024",FALSE,TRUE,FALSE,9,76.24%,23.76%,3.4%,307.0,stable,2,Gas,"545,689",17.6,78.7,Transportation and warehousing,0.00%,20.48%,22.11%,FALSE
+North Dakota,Mercer,North Dakota Mercer,33,"$55,267","8,187",FALSE,TRUE,FALSE,7,92.17%,7.83%,3.2%,561.7,stable,6,Coal,"14,538,951",18.5,80.76,Manufacturing,0.00%,17.62%,1.02%,TRUE
+North Dakota,Oliver,North Dakota Oliver,35,"$72,919","1,959",TRUE,FALSE,TRUE,3,93.31%,6.69%,4.0%,443.3,stable,3,Wind,"5,654,409",29.1,83.36,Utilities,0.00%,0.00%,0.00%,FALSE
+North Dakota,Ward,North Dakota Ward,33,"$68,634","67,641",TRUE,FALSE,FALSE,5,82.16%,17.84%,4.7%,457.7,stable,2,Wind,0,17.0,80.1,Retail trade,0.03%,8.30%,3.82%,TRUE
+North Dakota,Williams,North Dakota Williams,1,"$84,606","37,589",FALSE,TRUE,FALSE,7,78.16%,21.84%,3.0%,387.3,falling,6,Wind,"177,844",16.5,79.29,"Mining, quarrying, and oil and gas extraction",0.00%,26.90%,8.24%,TRUE
+Ohio,Allen,Ohio Allen,36,"$46,690","102,351",TRUE,FALSE,TRUE,3,80.60%,19.40%,3.9%,480.3,stable,1,Other,0,2.0,78.33,Health care and social assistance,0.02%,0.05%,4.20%,TRUE
+Ohio,Ashtabula,Ohio Ashtabula,31,"$47,388","97,241",TRUE,FALSE,FALSE,4,89.26%,10.74%,4.6%,460.1,stable,3,Gas,"58,575",22.5,77.15,Manufacturing,0.00%,0.28%,2.28%,TRUE
+Ohio,Athens,Ohio Athens,24,"$43,621","65,327",TRUE,FALSE,FALSE,4,89.71%,10.29%,4.9%,463.6,stable,0,None,0,22.7,77.24,Health care and social assistance,0.05%,0.00%,1.30%,FALSE
+Ohio,Belmont,Ohio Belmont,12,"$50,166","67,006",TRUE,FALSE,TRUE,3,92.45%,7.55%,4.2%,431.6,falling,1,Wind,0,26.1,77.51,Retail trade,0.00%,13.27%,5.30%,TRUE
+Ohio,Butler,Ohio Butler,40,"$57,080","383,134",TRUE,FALSE,TRUE,1,79.85%,20.15%,4.8%,445.5,falling,9,Gas,"1,827,359",26.8,78.15,Manufacturing,0.00%,0.08%,7.68%,TRUE
+Ohio,Clark,Ohio Clark,40,"$59,085","134,083",TRUE,FALSE,TRUE,3,83.89%,16.11%,5.2%,493.1,stable,2,Oil,0,22.0,76.8,Health care and social assistance,0.02%,0.10%,7.10%,TRUE
+Ohio,Clermont,Ohio Clermont,35,"$68,724","206,428",TRUE,FALSE,TRUE,1,93.21%,6.79%,4.9%,472.9,falling,2,Coal,"4,141,461",28.2,78.21,Retail trade,0.15%,0.19%,6.65%,FALSE
+Ohio,Clinton,Ohio Clinton,39,"$56,865","41,968",FALSE,TRUE,FALSE,6,93.34%,6.66%,3.4%,468.1,falling,1,Other,0,26.0,77.4,Manufacturing,0.00%,0.47%,16.72%,TRUE
+Ohio,Columbiana,Ohio Columbiana,1,"$52,693","101,883",TRUE,FALSE,FALSE,4,93.74%,6.26%,5.2%,465.1,stable,1,Gas,0,25.5,78.18,Manufacturing,0.00%,0.21%,5.22%,FALSE
+Ohio,Cuyahoga,Ohio Cuyahoga,46,"$52,503","1,235,072",TRUE,FALSE,TRUE,1,58.59%,41.41%,5.1%,479.7,falling,13,Wind,"56,830",24.2,77.89,Health care and social assistance,0.00%,0.04%,3.24%,TRUE
+Ohio,Delaware,Ohio Delaware,38,"$45,912","209,177",TRUE,FALSE,TRUE,1,83.80%,16.20%,4.3%,449.1,falling,2,Hydro,0,26.0,81.37,Retail trade,0.02%,0.05%,4.31%,TRUE
+Ohio,Fayette,Ohio Fayette,35,"$48,499","28,525",FALSE,TRUE,FALSE,6,92.25%,7.75%,3.9%,507.8,rising,0,None,0,24.8,76,Retail trade,0.00%,0.00%,2.60%,TRUE
+Ohio,Franklin,Ohio Franklin,40,"$67,315","1,316,756",TRUE,FALSE,TRUE,1,62.14%,37.86%,5.4%,468.3,falling,6,Oil,20,21.9,77.49,Health care and social assistance,0.01%,0.03%,7.28%,TRUE
+Ohio,Gallia,Ohio Gallia,7,"$48,094","29,898",FALSE,TRUE,FALSE,6,93.13%,6.87%,5.9%,504.2,stable,2,Coal,"20,648,095",28.5,76.26,Health care and social assistance,0.08%,0.00%,4.15%,FALSE
+Ohio,Geauga,Ohio Geauga,41,"$79,865","93,649",TRUE,FALSE,TRUE,1,95.42%,4.58%,4.5%,452.4,stable,0,None,0,28.3,81.67,Manufacturing,0.33%,0.00%,1.98%,TRUE
+Ohio,Greene,Ohio Greene,39,"$51,918","168,937",TRUE,FALSE,TRUE,2,83.68%,16.32%,4.7%,431.8,falling,1,Solar,0,21.2,79.87,"Professional, scientific, and technical services",0.00%,0.06%,1.46%,TRUE
+Ohio,Guernsey,Ohio Guernsey,3,"$48,283","38,875",FALSE,TRUE,FALSE,6,94.61%,5.39%,3.2%,496.4,stable,1,Gas,0,23.9,77.18,Manufacturing,0.00%,4.75%,3.30%,TRUE
+Ohio,Hamilton,Ohio Hamilton,48,"$107,710","817,473",TRUE,FALSE,TRUE,1,64.81%,35.19%,5.3%,477.7,stable,6,Gas,"7,126,926",23.3,77.68,Health care and social assistance,0.00%,0.02%,3.16%,TRUE
+Ohio,Hancock,Ohio Hancock,0,"$77,905","75,783",TRUE,FALSE,FALSE,4,88.63%,11.37%,5.1%,455.4,stable,4,Wind,0,16.8,79.76,Manufacturing,0.01%,0.00%,9.90%,TRUE
+Ohio,Harrison,Ohio Harrison,1,"$64,270","15,040",FALSE,TRUE,FALSE,6,94.83%,5.17%,6.1%,401.7,stable,1,Gas,0,30.0,77.01,Health care and social assistance,0.00%,15.69%,13.56%,TRUE
+Ohio,Jefferson,Ohio Jefferson,37,"$53,378","65,325",TRUE,FALSE,TRUE,3,90.11%,9.89%,6.5%,489.2,stable,3,Coal,"14,951,314",24.3,76.46,Health care and social assistance,0.00%,0.33%,8.15%,TRUE
+Ohio,Knox,Ohio Knox,38,"$48,760","62,322",TRUE,FALSE,FALSE,4,95.26%,4.74%,3.8%,488.8,stable,0,None,0,25.8,78.41,Manufacturing,0.02%,0.32%,1.08%,TRUE
+Ohio,Lake,Ohio Lake,37,"$57,280","230,149",TRUE,FALSE,TRUE,1,87.57%,12.43%,4.5%,481.2,stable,3,Coal,"6,031",23.2,79.39,Manufacturing,0.01%,0.28%,1.95%,TRUE
+Ohio,Lawrence,Ohio Lawrence,35,"$56,261","59,463",TRUE,FALSE,TRUE,2,94.71%,5.29%,5.9%,547.4,stable,1,Gas,"4,225,480",23.7,75.79,Health care and social assistance,0.00%,0.00%,5.89%,TRUE
+Ohio,Licking,Ohio Licking,37,"$66,321","176,862",TRUE,FALSE,TRUE,1,89.06%,10.94%,4.2%,491.8,stable,1,Solar,0,26.0,78.23,Manufacturing,0.05%,0.12%,9.19%,TRUE
+Ohio,Lorain,Ohio Lorain,35,"$59,201","309,833",TRUE,FALSE,TRUE,1,77.74%,22.26%,4.7%,475.8,falling,7,Oil,"485,785",24.5,78.71,Manufacturing,0.02%,0.02%,1.77%,TRUE
+Ohio,Lucas,Ohio Lucas,38,"$53,085","428,348",TRUE,FALSE,TRUE,2,68.24%,31.76%,6.0%,464.1,falling,8,Gas,"3,131,460",20.7,77.37,Health care and social assistance,0.01%,0.05%,4.45%,TRUE
+Ohio,Madison,Ohio Madison,39,"$54,145","44,731",TRUE,FALSE,TRUE,1,88.09%,11.91%,4.3%,476.5,stable,0,None,0,25.5,77.8,Manufacturing,0.00%,0.00%,22.19%,TRUE
+Ohio,Mahoning,Ohio Mahoning,38,"$48,018","228,683",TRUE,FALSE,TRUE,2,75.45%,24.55%,4.3%,434.7,falling,2,Biomass,0,22.0,77.47,Health care and social assistance,0.00%,0.27%,3.96%,TRUE
+Ohio,Medina,Ohio Medina,35,"$78,540","179,746",TRUE,FALSE,TRUE,1,93.57%,6.43%,4.7%,486.3,stable,4,Oil,136,27.0,80.47,Manufacturing,0.07%,0.00%,4.46%,TRUE
+Ohio,Miami,Ohio Miami,39,"$53,658","106,987",TRUE,FALSE,TRUE,2,91.81%,8.19%,4.3%,452.0,stable,3,Solar,65,21.4,79.06,Manufacturing,0.00%,0.12%,6.63%,TRUE
+Ohio,Montgomery,Ohio Montgomery,44,"$54,366","531,687",TRUE,FALSE,TRUE,2,70.34%,29.66%,5.0%,471.5,stable,4,Gas,"636,880",21.5,77.21,Health care and social assistance,0.00%,0.02%,4.22%,TRUE
+Ohio,Morgan,Ohio Morgan,1,"$63,414","14,508",FALSE,TRUE,FALSE,6,91.78%,8.22%,3.1%,463.4,stable,2,Hydro,0,31.0,78.18,Manufacturing,0.00%,1.07%,0.37%,TRUE
+Ohio,Noble,Ohio Noble,36,"$60,980","14,424",FALSE,TRUE,FALSE,7,94.90%,5.10%,2.6%,337.8,falling,0,None,0,29.0,81.28,Health care and social assistance,0.00%,6.97%,7.31%,TRUE
+Ohio,Portage,Ohio Portage,39,"$57,439","162,466",TRUE,FALSE,TRUE,2,89.20%,10.80%,4.8%,467.9,stable,1,Gas,"3,358",25.7,79.09,Manufacturing,0.04%,0.39%,3.08%,TRUE
+Ohio,Preble,Ohio Preble,38,"$62,128","40,882",FALSE,TRUE,FALSE,6,96.13%,3.87%,4.5%,493.7,stable,0,None,0,26.5,78,Manufacturing,0.57%,0.00%,3.64%,FALSE
+Ohio,Scioto,Ohio Scioto,14,"$45,410","75,314",TRUE,FALSE,FALSE,4,93.22%,6.78%,5.3%,487.6,stable,2,Coal,"104,541",25.5,75.41,Health care and social assistance,0.12%,0.00%,3.25%,FALSE
+Ohio,Stark,Ohio Stark,42,"$68,759","370,606",TRUE,FALSE,TRUE,2,86.18%,13.82%,4.9%,453.0,falling,1,Solar,0,21.9,78.68,Health care and social assistance,0.01%,0.38%,1.97%,TRUE
+Ohio,Summit,Ohio Summit,39,"$57,753","541,013",TRUE,FALSE,TRUE,2,76.37%,23.63%,5.8%,454.7,falling,4,Oil,195,22.9,78.44,Health care and social assistance,0.02%,0.02%,4.62%,TRUE
+Ohio,Trumbull,Ohio Trumbull,37,"$47,966","197,974",TRUE,FALSE,TRUE,2,86.87%,13.13%,4.7%,452.0,falling,5,Oil,"2,436,039",23.0,77.9,Retail trade,0.02%,0.17%,4.91%,TRUE
+Ohio,Warren,Ohio Warren,39,"$64,109","234,602",TRUE,FALSE,TRUE,1,85.34%,14.66%,4.8%,449.9,falling,1,Oil,0,25.7,79.77,Manufacturing,0.02%,0.05%,1.78%,TRUE
+Ohio,Washington,Ohio Washington,38,"$51,948","59,911",TRUE,FALSE,FALSE,4,94.91%,5.09%,4.0%,517.6,stable,7,Hydro,"4,687,820",22.8,78.26,Health care and social assistance,0.00%,3.16%,4.08%,TRUE
+Ohio,Wood,Ohio Wood,34,"$64,723","130,817",TRUE,FALSE,TRUE,2,87.97%,12.03%,4.5%,457.5,stable,6,Gas,"254,323",20.2,79.71,Manufacturing,0.20%,0.03%,9.25%,TRUE
+Oklahoma,Adair,Oklahoma Adair,33,"$57,977","22,194",FALSE,TRUE,FALSE,6,39.37%,60.63%,3.8%,438.5,stable,0,None,0,24.7,74.54,Manufacturing,0.00%,0.00%,1.79%,TRUE
+Oklahoma,Canadian,Oklahoma Canadian,36,"$75,111","148,306",TRUE,FALSE,TRUE,1,74.97%,25.03%,6.4%,439.3,falling,4,Wind,"684,562",23.8,78.48,Accommodation and food services,0.03%,11.88%,4.56%,TRUE
+Oklahoma,Carter,Oklahoma Carter,43,"$43,492","48,111",TRUE,FALSE,FALSE,5,69.45%,30.55%,4.2%,452.1,stable,0,None,0,18.9,74.18,Health care and social assistance,0.05%,4.59%,8.62%,TRUE
+Oklahoma,Cleveland,Oklahoma Cleveland,43,"$46,012","284,014",TRUE,FALSE,TRUE,1,70.81%,29.19%,6.3%,439.9,falling,1,Gas,5,23.4,78.66,Accommodation and food services,0.01%,0.51%,1.50%,TRUE
+Oklahoma,Comanche,Oklahoma Comanche,40,"$47,854","120,749",TRUE,FALSE,TRUE,3,55.87%,44.13%,5.3%,454.9,stable,3,Wind,"153,693",16.9,76.54,Health care and social assistance,0.00%,0.47%,1.96%,TRUE
+Oklahoma,Creek,Oklahoma Creek,35,"$54,737","71,522",TRUE,FALSE,TRUE,2,75.38%,24.62%,4.0%,474.8,stable,0,None,0,25.0,75.57,Manufacturing,0.00%,1.91%,5.42%,TRUE
+Oklahoma,Dewey,Oklahoma Dewey,39,"$56,316","4,891",FALSE,TRUE,FALSE,9,81.19%,18.81%,3.8%,422.2,stable,6,Wind,0,21.7,75.31,"Mining, quarrying, and oil and gas extraction",0.00%,33.11%,6.49%,FALSE
+Oklahoma,Garfield,Oklahoma Garfield,0,"$43,106","61,056",TRUE,FALSE,FALSE,5,73.07%,26.93%,5.4%,422.2,falling,8,Wind,0,16.9,76.95,Health care and social assistance,0.12%,3.63%,6.70%,TRUE
+Oklahoma,Kay,Oklahoma Kay,42,"$48,522","43,538",TRUE,FALSE,FALSE,5,73.68%,26.32%,5.1%,480.0,stable,10,Wind,"118,184",17.4,76.19,Manufacturing,0.09%,1.63%,5.12%,TRUE
+Oklahoma,Kiowa,Oklahoma Kiowa,24,"$49,588","8,708",FALSE,TRUE,FALSE,6,73.92%,26.08%,3.1%,536.6,stable,1,Wind,0,21.4,74,Health care and social assistance,0.00%,7.08%,3.92%,FALSE
+Oklahoma,Love,Oklahoma Love,46,"$51,481","10,253",FALSE,TRUE,FALSE,9,69.97%,30.03%,3.6%,511.3,stable,1,Solar,0,22.6,76.68,"Arts, entertainment, and recreation",0.00%,0.71%,11.48%,TRUE
+Oklahoma,Mayes,Oklahoma Mayes,31,"$49,293","41,100",FALSE,TRUE,FALSE,6,64.35%,35.65%,3.6%,477.5,stable,5,Hydro,"3,930,710",23.9,76.19,Manufacturing,0.00%,0.00%,1.58%,TRUE
+Oklahoma,McClain,Oklahoma McClain,46,"$75,009","40,474",TRUE,FALSE,TRUE,1,78.61%,21.39%,4.9%,479.2,falling,1,Gas,"1,197,311",26.6,76.93,Retail trade,0.25%,6.85%,2.30%,TRUE
+Oklahoma,Oklahoma,Oklahoma Oklahoma,45,"$56,272","797,434",TRUE,FALSE,TRUE,1,55.47%,44.53%,6.6%,444.1,falling,4,Gas,"3,802,128",21.3,76.1,Health care and social assistance,0.01%,3.08%,4.36%,TRUE
+Oklahoma,Osage,Oklahoma Osage,36,"$55,655","46,963",TRUE,FALSE,TRUE,2,63.08%,36.92%,4.9%,424.4,stable,3,Wind,117,24.6,78.2,Retail trade,0.00%,5.62%,2.73%,TRUE
+Oklahoma,Ottawa,Oklahoma Ottawa,37,"$58,729","31,127",FALSE,TRUE,FALSE,6,64.66%,35.34%,4.5%,479.0,stable,0,None,0,20.6,74.96,Accommodation and food services,0.00%,0.00%,0.95%,TRUE
+Oklahoma,Pittsburg,Oklahoma Pittsburg,39,"$47,215","43,654",TRUE,FALSE,FALSE,5,69.19%,30.81%,3.7%,438.9,stable,1,Gas,"2,427,069",20.9,75.44,Health care and social assistance,0.00%,1.78%,4.97%,FALSE
+Oklahoma,Sequoyah,Oklahoma Sequoyah,33,"$43,038","41,569",TRUE,FALSE,TRUE,2,62.25%,37.75%,3.6%,487.5,rising,2,Hydro,0,25.7,75.03,Health care and social assistance,0.00%,0.50%,2.71%,TRUE
+Oklahoma,Tulsa,Oklahoma Tulsa,42,"$57,668","651,552",TRUE,FALSE,TRUE,2,61.19%,38.81%,5.1%,472.7,falling,5,Gas,"2,802,767",19.8,76.93,Health care and social assistance,0.01%,1.80%,4.11%,TRUE
+Oklahoma,Washington,Oklahoma Washington,40,"$51,948","51,527",TRUE,FALSE,FALSE,4,72.27%,27.73%,4.7%,444.4,stable,0,None,0,18.3,78.36,Management of companies and enterprises,0.00%,1.11%,4.70%,TRUE
+Oregon,Baker,Oregon Baker,25,"$48,530","16,124",FALSE,TRUE,FALSE,7,89.72%,10.28%,3.1%,280.7,falling,9,Wind,0,15.0,78.73,Retail trade,0.33%,3.33%,2.41%,TRUE
+Oregon,Benton,Oregon Benton,18,"$70,023","93,053",TRUE,FALSE,TRUE,3,79.82%,20.18%,3.9%,385.3,falling,3,Gas,"9,868",18.9,82.38,Health care and social assistance,1.61%,0.09%,1.59%,TRUE
+Oregon,Clackamas,Oregon Clackamas,30,"$80,539","418,187",TRUE,FALSE,TRUE,1,81.13%,18.87%,4.4%,457.1,stable,20,Solar,0,29.0,80.46,Health care and social assistance,0.65%,0.04%,2.34%,TRUE
+Oregon,Columbia,Oregon Columbia,25,"$71,563","52,354",TRUE,FALSE,TRUE,1,87.84%,12.16%,4.4%,442.1,falling,3,Gas,"1,323,656",33.7,79.2,Retail trade,2.01%,1.20%,3.42%,TRUE
+Oregon,Crook,Oregon Crook,21,"$58,739","24,404",FALSE,TRUE,FALSE,6,88.00%,12.00%,4.5%,511.2,stable,3,Solar,0,26.5,79.5,Manufacturing,1.12%,0.36%,12.91%,TRUE
+Oregon,Deschutes,Oregon Deschutes,18,"$71,880","197,692",TRUE,FALSE,TRUE,3,86.84%,13.16%,4.3%,429.6,falling,8,Hydro,0,19.0,80.67,Retail trade,0.44%,0.12%,2.45%,FALSE
+Oregon,Douglas,Oregon Douglas,22,"$62,559","110,980",TRUE,FALSE,FALSE,4,87.48%,12.52%,4.2%,427.8,falling,13,Hydro,"4,281",19.1,77.93,Health care and social assistance,3.63%,0.10%,4.82%,TRUE
+Oregon,Grant,Oregon Grant,33,"$65,178","7,199",FALSE,TRUE,FALSE,9,91.26%,8.74%,2.2%,333.1,stable,1,Biomass,0,15.8,80.13,Health care and social assistance,4.43%,0.00%,1.57%,TRUE
+Oregon,Harney,Oregon Harney,32,"$39,874","7,393",FALSE,TRUE,FALSE,7,86.42%,13.58%,2.9%,355.8,falling,4,Solar,0,15.5,78.82,Health care and social assistance,4.49%,0.00%,1.91%,FALSE
+Oregon,Jackson,Oregon Jackson,40,"$57,687","220,944",TRUE,FALSE,TRUE,3,80.12%,19.88%,4.7%,429.3,falling,12,Hydro,"6,705",18.9,79.31,Health care and social assistance,1.78%,0.14%,5.13%,TRUE
+Oregon,Jefferson,Oregon Jefferson,21,"$51,741","24,658",FALSE,TRUE,FALSE,6,60.68%,39.32%,4.8%,440.4,stable,7,Hydro,0,22.5,77.95,Manufacturing,0.59%,0.25%,0.85%,TRUE
+Oregon,Josephine,Oregon Josephine,26,"$47,533","87,487",TRUE,FALSE,TRUE,3,86.55%,13.45%,4.9%,446.8,falling,0,None,0,19.7,77.88,Health care and social assistance,1.38%,0.00%,1.84%,TRUE
+Oregon,Klamath,Oregon Klamath,41,"$53,030","68,238",TRUE,FALSE,FALSE,5,77.12%,22.88%,4.5%,467.4,stable,17,Solar,"1,538,487",15.7,77.58,Health care and social assistance,0.93%,0.00%,2.56%,FALSE
+Oregon,Lake,Oregon Lake,23,"$38,044","7,869",FALSE,TRUE,FALSE,7,84.04%,15.96%,2.7%,400.2,falling,19,Solar,0,14.8,78.82,Health care and social assistance,1.94%,0.00%,1.94%,TRUE
+Oregon,Lane,Oregon Lane,40,"$60,315","382,067",TRUE,FALSE,TRUE,2,81.29%,18.71%,4.8%,377.5,falling,12,Hydro,"13,266",20.2,79.76,Health care and social assistance,1.05%,0.16%,2.43%,TRUE
+Oregon,Linn,Oregon Linn,27,"$64,783","129,749",TRUE,FALSE,TRUE,3,84.34%,15.66%,5.0%,433.4,falling,6,Hydro,684,22.7,78.54,Manufacturing,1.75%,0.12%,8.61%,TRUE
+Oregon,Marion,Oregon Marion,32,"$66,381","347,818",TRUE,FALSE,TRUE,2,64.71%,35.29%,4.5%,449.9,falling,18,Solar,"96,427",23.7,79.16,Health care and social assistance,1.07%,0.09%,4.44%,TRUE
+Oregon,Multnomah,Oregon Multnomah,33,"$72,469","812,855",TRUE,FALSE,TRUE,1,69.09%,30.91%,4.3%,454.1,falling,4,Hydro,0,26.9,78.9,Health care and social assistance,0.09%,0.02%,6.35%,TRUE
+Oregon,Umatilla,Oregon Umatilla,35,"$58,286","77,950",TRUE,FALSE,FALSE,4,65.13%,34.87%,4.3%,435.6,stable,16,Wind,"3,143,977",18.4,78.64,Manufacturing,2.03%,0.06%,10.85%,TRUE
+Oregon,Union,Oregon Union,20,"$52,914","26,835",FALSE,TRUE,FALSE,7,88.22%,11.78%,4.3%,421.8,stable,1,Wind,0,17.1,79.85,Retail trade,0.62%,0.00%,2.80%,TRUE
+Oregon,Wallowa,Oregon Wallowa,20,"$52,106","7,208",FALSE,TRUE,FALSE,9,92.61%,7.39%,4.5%,336.4,stable,2,Hydro,0,16.2,81.04,Health care and social assistance,3.35%,0.00%,6.28%,FALSE
+Oregon,Wasco,Oregon Wasco,18,"$56,993","26,682",FALSE,TRUE,FALSE,6,73.59%,26.41%,3.2%,444.9,falling,4,Hydro,0,17.8,78.41,Health care and social assistance,0.72%,0.00%,2.34%,TRUE
+Oregon,Washington,Oregon Washington,31,"$63,230","601,592",TRUE,FALSE,TRUE,1,64.58%,35.42%,4.6%,416.1,falling,2,Biomass,9,24.5,81.8,Manufacturing,0.17%,0.05%,1.80%,TRUE
+Pennsylvania,Adams,Pennsylvania Adams,40,"$53,385","103,009",TRUE,FALSE,TRUE,3,88.73%,11.27%,5.7%,478.9,stable,5,Oil,"2,468,183",27.8,80.01,Manufacturing,0.22%,0.28%,3.01%,TRUE
+Pennsylvania,Allegheny,Pennsylvania Allegheny,47,"$64,799","1,216,045",TRUE,FALSE,TRUE,1,78.11%,21.89%,5.1%,484.4,falling,14,Gas,"3,057,996",27.8,78.58,Health care and social assistance,0.01%,0.44%,2.79%,TRUE
+Pennsylvania,Armstrong,Pennsylvania Armstrong,39,"$56,259","64,735",TRUE,FALSE,TRUE,1,96.97%,3.03%,4.2%,476.0,stable,8,Hydro,"12,126,854",31.6,78.73,Health care and social assistance,0.07%,5.09%,8.98%,FALSE
+Pennsylvania,Beaver,Pennsylvania Beaver,42,"$55,397","163,929",TRUE,FALSE,TRUE,1,89.08%,10.92%,4.7%,483.8,stable,7,Hydro,"871,737",27.2,78.89,Health care and social assistance,0.02%,0.15%,5.35%,TRUE
+Pennsylvania,Berks,Pennsylvania Berks,40,"$67,418","421,164",TRUE,FALSE,TRUE,2,70.30%,29.70%,7.0%,479.7,stable,8,Biomass,"2,433,704",25.1,79.67,Manufacturing,0.14%,0.13%,4.47%,TRUE
+Pennsylvania,Blair,Pennsylvania Blair,38,"$51,004","121,829",TRUE,FALSE,TRUE,3,94.52%,5.48%,5.1%,479.8,stable,4,Wind,"5,167",20.8,78.09,Health care and social assistance,0.02%,0.00%,6.67%,TRUE
+Pennsylvania,Bradford,Pennsylvania Bradford,37,"$51,356","60,323",FALSE,TRUE,FALSE,6,95.67%,4.33%,4.1%,478.2,stable,6,Gas,"2,118,176",22.5,79.03,Health care and social assistance,0.11%,2.89%,7.59%,FALSE
+Pennsylvania,Bucks,Pennsylvania Bucks,33,"$93,587","628,270",TRUE,FALSE,TRUE,1,83.34%,16.66%,5.6%,489.3,falling,8,Biomass,"3,173,880",31.9,80.24,Health care and social assistance,0.01%,0.08%,3.39%,TRUE
+Pennsylvania,Cambria,Pennsylvania Cambria,38,"$48,798","130,192",TRUE,FALSE,TRUE,3,92.56%,7.44%,4.5%,480.0,falling,9,Wind,"1,585,435",23.3,78.38,Health care and social assistance,0.05%,0.24%,4.93%,FALSE
+Pennsylvania,Centre,Pennsylvania Centre,38,"$61,036","162,385",TRUE,FALSE,TRUE,3,85.42%,14.58%,7.0%,424.7,stable,3,Gas,"20,113",20.4,81.59,Health care and social assistance,0.06%,0.40%,3.02%,TRUE
+Pennsylvania,Chester,Pennsylvania Chester,39,"$102,233","524,989",TRUE,FALSE,TRUE,1,78.77%,21.23%,5.1%,468.9,falling,7,Solar,428,29.9,81.16,Health care and social assistance,0.27%,0.07%,3.14%,TRUE
+Pennsylvania,Clearfield,Pennsylvania Clearfield,31,"$46,967","79,255",TRUE,FALSE,FALSE,4,92.79%,7.21%,6.7%,456.1,falling,1,Gas,"202,219",27.2,78.69,Health care and social assistance,0.14%,1.71%,10.24%,TRUE
+Pennsylvania,Cumberland,Pennsylvania Cumberland,33,"$34,897","253,370",TRUE,FALSE,TRUE,2,84.59%,15.41%,4.5%,434.7,falling,7,Oil,"3,008",22.2,80.35,Retail trade,0.01%,0.12%,12.74%,TRUE
+Pennsylvania,Dauphin,Pennsylvania Dauphin,40,"$60,763","278,299",TRUE,FALSE,TRUE,2,64.47%,35.53%,4.2%,461.1,stable,5,Gas,"41,520",22.2,78.76,Health care and social assistance,0.04%,0.06%,5.46%,TRUE
+Pennsylvania,Delaware,Pennsylvania Delaware,43,"$70,091","566,747",TRUE,FALSE,TRUE,1,65.62%,34.38%,5.6%,498.4,stable,6,Gas,"4,306,400",29.7,78.64,Health care and social assistance,0.00%,0.06%,4.78%,TRUE
+Pennsylvania,Elk,Pennsylvania Elk,34,"$41,930","29,910",FALSE,TRUE,FALSE,7,97.18%,2.82%,6.4%,513.5,stable,1,Biomass,"6,519",19.0,79.3,Manufacturing,0.34%,0.45%,2.46%,FALSE
+Pennsylvania,Erie,Pennsylvania Erie,34,"$60,620","269,728",TRUE,FALSE,TRUE,2,84.00%,16.00%,4.1%,470.2,falling,2,Coal,0,20.0,78.81,Health care and social assistance,0.01%,0.11%,2.25%,TRUE
+Pennsylvania,Fayette,Pennsylvania Fayette,37,"$53,142","129,274",TRUE,FALSE,TRUE,1,91.62%,8.38%,4.1%,484.2,falling,6,Hydro,"2,221,519",27.3,77.09,Health care and social assistance,0.00%,5.64%,6.10%,TRUE
+Pennsylvania,Franklin,Pennsylvania Franklin,32,"$55,847","155,027",TRUE,FALSE,TRUE,3,87.46%,12.54%,5.6%,446.7,falling,11,Solar,"140,276",24.4,80.09,Health care and social assistance,0.18%,0.50%,12.28%,TRUE
+Pennsylvania,Greene,Pennsylvania Greene,36,"$55,562","36,233",FALSE,TRUE,FALSE,6,93.15%,6.85%,3.9%,473.7,stable,4,Gas,0,27.2,77.39,"Mining, quarrying, and oil and gas extraction",0.00%,18.77%,3.92%,TRUE
+Pennsylvania,Indiana,Pennsylvania Indiana,36,"$51,299","84,073",TRUE,FALSE,FALSE,4,93.75%,6.25%,4.4%,435.1,falling,4,Coal,"21,386,306",26.6,79.32,Health care and social assistance,0.07%,4.67%,3.79%,FALSE
+Pennsylvania,Lackawanna,Pennsylvania Lackawanna,38,"$53,655","209,674",TRUE,FALSE,TRUE,2,83.76%,16.24%,5.0%,475.7,stable,4,Gas,"4,026,087",22.0,78.14,Health care and social assistance,0.01%,0.06%,5.99%,TRUE
+Pennsylvania,Lancaster,Pennsylvania Lancaster,43,"$61,383","545,724",TRUE,FALSE,TRUE,2,81.28%,18.72%,5.1%,459.3,falling,14,Biomass,"247,396",24.2,80.75,Health care and social assistance,0.09%,0.10%,4.76%,TRUE
+Pennsylvania,Lawrence,Pennsylvania Lawrence,31,"$38,055","85,512",TRUE,FALSE,FALSE,4,91.64%,8.36%,4.2%,492.1,stable,2,Gas,"241,092",25.9,78.76,Health care and social assistance,0.02%,0.59%,2.90%,TRUE
+Pennsylvania,Lebanon,Pennsylvania Lebanon,30,"$61,560","141,793",TRUE,FALSE,TRUE,3,81.01%,18.99%,4.1%,459.9,stable,3,Gas,"2,133,392",24.1,79.96,Manufacturing,0.15%,0.09%,6.87%,TRUE
+Pennsylvania,Lehigh,Pennsylvania Lehigh,37,"$65,436","369,318",TRUE,FALSE,TRUE,2,62.51%,37.49%,5.8%,494.6,falling,2,Oil,"2,875",26.3,79.84,Health care and social assistance,0.01%,0.02%,5.22%,TRUE
+Pennsylvania,Luzerne,Pennsylvania Luzerne,31,"$53,439","317,417",TRUE,FALSE,TRUE,2,79.28%,20.72%,4.1%,514.9,stable,10,Gas,"2,829,674",24.3,77.8,Health care and social assistance,0.01%,0.26%,10.57%,TRUE
+Pennsylvania,Lycoming,Pennsylvania Lycoming,37,"$53,762","113,299",TRUE,FALSE,TRUE,3,90.33%,9.67%,4.5%,490.2,falling,6,Oil,"1,583,280",21.6,79.12,Health care and social assistance,0.02%,1.20%,3.94%,TRUE
+Pennsylvania,Mercer,Pennsylvania Mercer,38,"$55,267","109,424",TRUE,FALSE,TRUE,2,90.03%,9.97%,4.6%,498.1,stable,1,Oil,"10,046",23.3,78.66,Manufacturing,0.05%,0.42%,3.99%,TRUE
+Pennsylvania,Monroe,Pennsylvania Monroe,33,"$56,397","170,271",TRUE,FALSE,TRUE,3,64.53%,35.47%,5.8%,490.4,stable,2,Oil,58,39.7,79.25,Accommodation and food services,0.03%,0.17%,5.37%,TRUE
+Pennsylvania,Montgomery,Pennsylvania Montgomery,38,"$52,715","830,915",TRUE,FALSE,TRUE,1,75.02%,24.98%,5.4%,477.6,falling,10,Gas,"316,516",29.5,80.88,Health care and social assistance,0.00%,0.05%,2.67%,TRUE
+Pennsylvania,Northampton,Pennsylvania Northampton,38,"$39,777","305,285",TRUE,FALSE,TRUE,2,75.38%,24.62%,5.9%,514.3,falling,9,Gas,"3,857,037",27.8,80.31,Health care and social assistance,0.01%,0.02%,9.60%,TRUE
+Pennsylvania,Philadelphia,Pennsylvania Philadelphia,41,"$26,211","1,584,064",TRUE,FALSE,TRUE,1,34.34%,65.66%,6.8%,492.0,falling,12,Gas,"732,268",34.3,75.3,Health care and social assistance,0.00%,0.01%,4.43%,TRUE
+Pennsylvania,Somerset,Pennsylvania Somerset,34,"$45,333","73,447",TRUE,FALSE,FALSE,4,94.09%,5.91%,4.9%,467.9,stable,14,Wind,0,25.6,79.04,Health care and social assistance,0.11%,3.35%,7.48%,TRUE
+Pennsylvania,Susquehanna,Pennsylvania Susquehanna,23,"$60,235","40,328",FALSE,TRUE,FALSE,6,96.07%,3.93%,3.9%,462.5,stable,4,Gas,"22,281",28.3,78.76,Retail trade,0.96%,7.64%,2.77%,TRUE
+Pennsylvania,Tioga,Pennsylvania Tioga,37,"$60,699","40,591",FALSE,TRUE,FALSE,6,96.11%,3.89%,3.3%,483.6,stable,4,Gas,"2,940",24.0,79.44,Health care and social assistance,0.38%,5.65%,4.84%,FALSE
+Pennsylvania,Warren,Pennsylvania Warren,9,"$79,557","39,191",FALSE,TRUE,FALSE,6,96.64%,3.36%,3.9%,471.6,stable,2,Gas,"2,274",20.3,78.86,Health care and social assistance,0.12%,2.10%,8.19%,TRUE
+Pennsylvania,Washington,Pennsylvania Washington,41,"$63,230","206,865",TRUE,FALSE,TRUE,1,91.88%,8.12%,4.0%,507.1,stable,7,Gas,0,26.1,78.53,Health care and social assistance,0.04%,4.28%,3.83%,TRUE
+Pennsylvania,Westmoreland,Pennsylvania Westmoreland,35,"$59,407","348,899",TRUE,FALSE,TRUE,1,93.66%,6.34%,4.6%,483.1,stable,3,Gas,"2,174,323",28.0,79.33,Health care and social assistance,0.03%,0.46%,6.45%,TRUE
+Pennsylvania,Wyoming,Pennsylvania Wyoming,25,"$58,214","26,794",TRUE,FALSE,TRUE,2,95.37%,4.63%,4.1%,477.7,falling,4,Gas,"302,320",25.9,78.69,Management of companies and enterprises,1.99%,2.48%,9.45%,FALSE
+Pennsylvania,York,Pennsylvania York,40,"$66,803","449,058",TRUE,FALSE,TRUE,2,82.62%,17.38%,5.1%,479.2,falling,9,Gas,"4,859,157",28.0,79.67,Manufacturing,0.01%,0.15%,6.59%,TRUE
+Rhode Island,Kent,Rhode Island Kent,31,"$74,230","164,292",TRUE,FALSE,TRUE,1,87.44%,12.56%,6.2%,507.4,falling,11,Wind,0,26.2,79.45,Health care and social assistance,0.07%,0.00%,5.74%,TRUE
+Rhode Island,Providence,Rhode Island Providence,40,"$62,165","638,931",TRUE,FALSE,TRUE,1,60.08%,39.92%,7.2%,459.4,falling,33,Solar,"2,679,432",25.8,79.37,Health care and social assistance,0.01%,0.04%,2.59%,TRUE
+Rhode Island,Washington,Rhode Island Washington,32,"$86,450","125,577",TRUE,FALSE,TRUE,1,90.81%,9.19%,5.9%,496.2,falling,15,Solar,"80,407",27.6,81.2,Manufacturing,0.16%,0.10%,1.46%,TRUE
+South Carolina,Aiken,South Carolina Aiken,32,"$56,824","170,872",TRUE,FALSE,TRUE,2,65.76%,34.24%,4.4%,396.3,falling,5,Solar,"833,703",24.5,77.43,Manufacturing,0.33%,0.20%,3.30%,TRUE
+South Carolina,Anderson,South Carolina Anderson,35,"$51,352","202,558",TRUE,FALSE,TRUE,2,77.13%,22.87%,4.6%,469.9,falling,14,Solar,"4,968,428",25.8,76.37,Manufacturing,0.05%,0.00%,3.34%,TRUE
+South Carolina,Berkeley,South Carolina Berkeley,31,"$68,690","227,907",TRUE,FALSE,TRUE,2,63.27%,36.73%,5.6%,444.1,falling,7,Hydro,"11,908,068",29.5,77.72,Retail trade,0.09%,0.06%,8.93%,TRUE
+South Carolina,Charleston,South Carolina Charleston,35,"$70,980","411,406",TRUE,FALSE,TRUE,2,65.20%,34.80%,5.2%,445.4,falling,3,Gas,"110,940",24.8,78.06,Accommodation and food services,0.02%,0.00%,5.12%,FALSE
+South Carolina,Chesterfield,South Carolina Chesterfield,34,"$42,441","45,650",FALSE,TRUE,FALSE,6,60.02%,39.98%,3.5%,454.9,stable,2,Solar,0,24.5,74.85,Manufacturing,1.15%,1.05%,7.72%,TRUE
+South Carolina,Darlington,South Carolina Darlington,32,"$44,007","66,618",TRUE,FALSE,TRUE,3,54.49%,45.51%,4.4%,444.3,stable,26,Solar,"27,323",23.4,74.11,Health care and social assistance,0.39%,0.00%,6.98%,TRUE
+South Carolina,Edgefield,South Carolina Edgefield,33,"$52,591","27,260",TRUE,FALSE,TRUE,2,57.18%,42.82%,3.9%,377.8,stable,0,None,0,24.6,78.17,Transportation and warehousing,2.01%,0.00%,21.62%,FALSE
+South Carolina,Florence,South Carolina Florence,28,"$49,770","138,293",TRUE,FALSE,TRUE,3,51.24%,48.76%,5.0%,459.9,stable,11,Solar,"136,944",25.4,74.66,Health care and social assistance,0.26%,0.00%,2.95%,TRUE
+South Carolina,Greenville,South Carolina Greenville,39,"$64,399","523,542",TRUE,FALSE,TRUE,2,67.96%,32.04%,5.0%,466.5,stable,8,Hydro,0,24.4,78.06,Health care and social assistance,0.03%,0.03%,2.92%,TRUE
+South Carolina,Horry,South Carolina Horry,32,"$53,648","354,081",TRUE,FALSE,TRUE,2,77.70%,22.30%,4.2%,433.0,falling,8,Solar,140,22.9,77.31,Accommodation and food services,0.07%,0.06%,1.67%,FALSE
+South Carolina,Lexington,South Carolina Lexington,29,"$62,059","298,750",TRUE,FALSE,TRUE,2,74.15%,25.85%,4.6%,449.3,stable,11,Solar,"402,822",25.7,77.84,Retail trade,0.09%,0.11%,8.99%,TRUE
+South Carolina,Richland,South Carolina Richland,35,"$69,095","415,759",TRUE,FALSE,TRUE,2,41.47%,58.53%,5.3%,438.3,falling,5,Gas,"2,218,561",23.2,77.55,Health care and social assistance,0.09%,0.07%,2.29%,TRUE
+South Carolina,Spartanburg,South Carolina Spartanburg,40,"$55,588","319,785",TRUE,FALSE,TRUE,2,67.77%,32.23%,5.5%,472.3,falling,12,Solar,"4,463",23.9,75.99,Manufacturing,0.04%,0.11%,7.95%,TRUE
+South Carolina,York,South Carolina York,35,"$66,803","280,979",TRUE,FALSE,TRUE,1,69.74%,30.26%,4.7%,466.1,falling,4,Oil,280,27.7,77.67,Retail trade,0.06%,0.08%,6.38%,TRUE
+South Dakota,Brookings,South Dakota Brookings,38,"$59,036","35,077",TRUE,FALSE,FALSE,5,89.92%,10.08%,3.1%,482.8,stable,4,Wind,"415,572",15.2,81.78,Manufacturing,0.00%,0.12%,1.94%,TRUE
+South Dakota,Brown,South Dakota Brown,23,"$47,558","38,839",TRUE,FALSE,FALSE,5,86.17%,13.83%,3.4%,473.4,stable,2,Gas,"103,618",12.8,80.51,Manufacturing,0.09%,0.00%,2.27%,TRUE
+South Dakota,Codington,South Dakota Codington,36,"$63,442","28,009",TRUE,FALSE,FALSE,5,92.47%,7.53%,3.7%,466.4,stable,3,Wind,"2,443",13.8,80.55,Manufacturing,0.10%,0.00%,2.41%,TRUE
+South Dakota,Custer,South Dakota Custer,41,"$49,379","8,972",TRUE,FALSE,TRUE,3,89.23%,10.77%,4.0%,370.6,falling,0,None,0,27.2,80.35,Retail trade,0.99%,2.68%,0.92%,TRUE
+South Dakota,Hughes,South Dakota Hughes,14,"$37,631","17,526",FALSE,TRUE,FALSE,7,81.60%,18.40%,3.2%,487.6,stable,2,Hydro,0,10.8,80.51,Retail trade,0.23%,0.00%,5.41%,FALSE
+South Dakota,Jackson,South Dakota Jackson,39,"$60,615","3,344",FALSE,TRUE,FALSE,8,39.29%,60.71%,3.5%,428.9,stable,0,None,0,13.9,75.85,Retail trade,0.00%,0.00%,4.74%,TRUE
+South Dakota,Meade,South Dakota Meade,38,"$64,640","28,332",TRUE,FALSE,TRUE,3,87.24%,12.76%,2.8%,400.1,falling,0,None,0,20.9,79.89,Health care and social assistance,0.00%,0.17%,10.72%,TRUE
+South Dakota,Minnehaha,South Dakota Minnehaha,35,"$63,162","193,134",TRUE,FALSE,TRUE,3,81.95%,18.05%,3.9%,521.8,stable,2,Gas,"81,737",18.7,79.7,Health care and social assistance,0.01%,0.00%,4.02%,TRUE
+South Dakota,Pennington,South Dakota Pennington,31,"$55,870","113,775",TRUE,FALSE,TRUE,3,79.75%,20.25%,4.0%,429.4,falling,2,Gas,"22,825",18.9,80.44,Health care and social assistance,0.04%,0.53%,2.38%,TRUE
+South Dakota,Union,South Dakota Union,36,"$52,914","15,932",TRUE,FALSE,TRUE,3,91.04%,8.96%,3.0%,527.4,stable,0,None,0,19.7,81.08,Manufacturing,0.00%,0.00%,3.70%,TRUE
+Tennessee,Anderson,Tennessee Anderson,35,"$51,352","76,978",TRUE,FALSE,TRUE,2,88.86%,11.14%,6.5%,461.1,falling,5,Wind,"1,514,696",26.0,77.33,Manufacturing,0.00%,0.09%,1.43%,TRUE
+Tennessee,Blount,Tennessee Blount,38,"$59,368","133,088",TRUE,FALSE,TRUE,2,90.61%,9.39%,4.5%,488.9,falling,2,Hydro,0,25.0,77.72,Manufacturing,0.04%,0.00%,6.00%,TRUE
+Tennessee,Claiborne,Tennessee Claiborne,32,"$31,221","31,959",FALSE,TRUE,FALSE,6,94.91%,5.09%,3.7%,525.4,stable,0,None,0,24.4,74.77,Manufacturing,0.17%,0.00%,7.53%,TRUE
+Tennessee,Davidson,Tennessee Davidson,41,"$53,924","694,144",TRUE,FALSE,TRUE,1,56.33%,43.67%,4.5%,443.8,falling,4,Gas,"43,297",25.0,76.79,Health care and social assistance,0.00%,0.04%,6.19%,TRUE
+Tennessee,DeKalb,Tennessee DeKalb,33,"$53,997","20,490",FALSE,TRUE,FALSE,6,87.38%,12.62%,3.1%,407.5,falling,1,Hydro,0,28.5,74.91,Manufacturing,0.00%,0.00%,0.38%,TRUE
+Tennessee,Dyer,Tennessee Dyer,23,"$48,770","37,159",TRUE,FALSE,FALSE,5,79.54%,20.46%,3.1%,476.3,rising,0,None,0,19.9,75.37,Manufacturing,0.00%,0.00%,2.34%,FALSE
+Tennessee,Hamilton,Tennessee Hamilton,40,"$55,857","367,804",TRUE,FALSE,TRUE,2,70.90%,29.10%,5.6%,463.6,falling,5,Hydro,0,22.2,77.75,Health care and social assistance,0.06%,0.04%,6.44%,TRUE
+Tennessee,Jefferson,Tennessee Jefferson,37,"$68,549","54,495",TRUE,FALSE,TRUE,3,91.82%,8.18%,3.9%,486.4,stable,1,Hydro,0,26.5,76.65,Manufacturing,0.00%,1.88%,10.64%,TRUE
+Tennessee,Knox,Tennessee Knox,38,"$31,634","470,313",TRUE,FALSE,TRUE,2,81.97%,18.03%,4.6%,466.7,falling,1,Gas,"10,139",22.5,77.4,Health care and social assistance,0.03%,0.11%,4.27%,TRUE
+Tennessee,Lawrence,Tennessee Lawrence,20,"$38,055","44,142",FALSE,TRUE,FALSE,6,93.32%,6.68%,3.5%,462.0,stable,0,None,0,27.3,76.12,Manufacturing,0.73%,0.00%,7.50%,TRUE
+Tennessee,Loudon,Tennessee Loudon,34,"$65,226","54,068",TRUE,FALSE,TRUE,2,87.14%,12.86%,5.4%,477.2,stable,3,Hydro,"269,529",22.7,78.43,Manufacturing,0.00%,0.00%,9.28%,TRUE
+Tennessee,Madison,Tennessee Madison,25,"$50,316","97,984",TRUE,FALSE,TRUE,3,55.60%,44.40%,3.7%,458.4,stable,1,Solar,0,18.8,76.91,Health care and social assistance,0.03%,0.00%,3.00%,TRUE
+Tennessee,Maury,Tennessee Maury,22,"$66,434","96,387",TRUE,FALSE,TRUE,1,78.66%,21.34%,4.1%,509.8,stable,0,None,0,29.8,76.95,Manufacturing,0.00%,0.00%,5.49%,TRUE
+Tennessee,McMinn,Tennessee McMinn,28,"$49,836","53,794",TRUE,FALSE,FALSE,4,88.67%,11.33%,4.1%,456.2,stable,1,Biomass,0,23.0,76.11,Manufacturing,0.10%,0.12%,1.08%,TRUE
+Tennessee,Montgomery,Tennessee Montgomery,26,"$44,240","208,993",TRUE,FALSE,TRUE,2,62.28%,37.72%,4.7%,463.1,stable,1,Biomass,0,26.9,77.01,Health care and social assistance,0.00%,0.12%,1.17%,TRUE
+Tennessee,Putnam,Tennessee Putnam,23,"$42,434","80,245",TRUE,FALSE,FALSE,4,87.93%,12.07%,3.9%,458.6,stable,0,None,0,22.9,77.09,Health care and social assistance,0.02%,0.15%,3.88%,TRUE
+Tennessee,Roane,Tennessee Roane,26,"$50,561","53,382",TRUE,FALSE,TRUE,2,92.51%,7.49%,5.6%,458.8,stable,1,Coal,"4,377,658",28.5,76.59,Health care and social assistance,0.00%,0.00%,7.61%,TRUE
+Tennessee,Sevier,Tennessee Sevier,40,"$54,476","98,250",TRUE,FALSE,FALSE,4,89.36%,10.64%,4.3%,496.5,stable,1,Hydro,0,25.9,77.14,Accommodation and food services,0.00%,0.00%,0.87%,TRUE
+Tennessee,Shelby,Tennessee Shelby,44,"$71,737","937,166",TRUE,FALSE,TRUE,1,35.27%,64.73%,4.0%,458.2,falling,4,Solar,"2,264,030",23.1,75.74,Health care and social assistance,0.01%,0.01%,12.52%,TRUE
+Tennessee,Sullivan,Tennessee Sullivan,37,"$43,421","158,348",TRUE,FALSE,TRUE,2,93.14%,6.86%,4.7%,479.1,stable,5,Hydro,"473,467",21.3,76.91,Manufacturing,0.00%,1.01%,3.24%,TRUE
+Tennessee,Sumner,Tennessee Sumner,37,"$53,618","191,283",TRUE,FALSE,TRUE,1,83.04%,16.96%,5.6%,462.6,falling,2,Coal,"5,027,805",31.2,78.31,Manufacturing,0.31%,0.08%,6.18%,TRUE
+Tennessee,Williamson,Tennessee Williamson,37,"$119,637","238,412",TRUE,FALSE,TRUE,1,83.78%,16.22%,4.2%,441.9,falling,0,None,0,28.4,81.7,Health care and social assistance,0.02%,0.00%,1.40%,TRUE
+Tennessee,Wilson,Tennessee Wilson,33,"$46,243","144,657",TRUE,FALSE,TRUE,1,84.14%,15.86%,4.4%,450.8,falling,0,None,0,33.0,78.13,Retail trade,0.00%,0.15%,13.12%,TRUE
+Texas,Atascosa,Texas Atascosa,29,"$57,309","51,153",TRUE,FALSE,TRUE,1,32.81%,67.19%,3.2%,360.1,falling,1,Coal,"3,130,648",30.3,78.21,"Mining, quarrying, and oil and gas extraction",0.59%,26.55%,8.12%,TRUE
+Texas,Bell,Texas Bell,40,"$30,940","362,924",TRUE,FALSE,TRUE,2,44.57%,55.43%,5.4%,487.9,stable,2,Gas,"2,175,006",21.1,78.05,Health care and social assistance,0.00%,0.15%,3.84%,TRUE
+Texas,Bexar,Texas Bexar,49,"$58,956","2,003,554",TRUE,FALSE,TRUE,1,27.09%,72.91%,5.2%,393.4,falling,21,Solar,"10,546,512",25.3,78.71,Health care and social assistance,0.01%,0.50%,3.58%,TRUE
+Texas,Bowie,Texas Bowie,36,"$51,207","93,245",TRUE,FALSE,TRUE,3,63.13%,36.87%,4.6%,418.3,falling,0,None,0,17.8,75.98,Health care and social assistance,0.07%,0.05%,2.52%,TRUE
+Texas,Brazoria,Texas Brazoria,33,"$83,704","374,264",TRUE,FALSE,TRUE,1,45.32%,54.68%,4.1%,419.6,falling,11,Gas,"3,948,233",29.7,78.47,Retail trade,0.05%,0.79%,2.93%,FALSE
+Texas,Brazos,Texas Brazos,30,"$54,471","229,211",TRUE,FALSE,TRUE,3,55.15%,44.85%,4.6%,381.8,falling,3,Gas,"188,729",17.1,80.18,Accommodation and food services,0.51%,1.05%,4.47%,FALSE
+Texas,Brewster,Texas Brewster,40,"$48,581","9,203",FALSE,TRUE,FALSE,7,49.79%,50.21%,3.3%,307.6,stable,1,Solar,0,13.7,80.56,Accommodation and food services,0.00%,0.26%,1.66%,FALSE
+Texas,Cameron,Texas Cameron,43,"$43,704","423,163",TRUE,FALSE,TRUE,2,8.60%,91.40%,4.3%,366.2,falling,9,Wind,"43,684",20.2,80.32,Health care and social assistance,0.16%,0.04%,4.73%,FALSE
+Texas,Collin,Texas Collin,37,"$96,847","1,034,730",TRUE,FALSE,TRUE,1,55.09%,44.91%,5.4%,402.2,falling,3,Gas,"68,605",28.9,81.75,Health care and social assistance,0.00%,0.18%,1.86%,FALSE
+Texas,Dallas,Texas Dallas,42,"$42,389","2,635,516",TRUE,FALSE,TRUE,1,28.29%,71.71%,5.7%,424.2,stable,9,Gas,"534,652",27.4,78.25,Health care and social assistance,0.01%,0.35%,9.16%,TRUE
+Texas,Denton,Texas Denton,40,"$90,910","887,207",TRUE,FALSE,TRUE,1,57.64%,42.36%,5.4%,411.4,falling,7,Biomass,"139,363",29.0,80.64,Accommodation and food services,0.04%,0.59%,8.77%,TRUE
+Texas,Ector,Texas Ector,27,"$65,564","166,223",TRUE,FALSE,TRUE,3,30.42%,69.58%,5.3%,421.7,falling,7,Gas,"4,699,339",23.1,75.64,"Mining, quarrying, and oil and gas extraction",0.00%,14.38%,5.64%,TRUE
+Texas,El Paso,Texas El Paso,54,"$48,629","839,238",TRUE,FALSE,TRUE,2,11.59%,88.41%,5.1%,394.4,falling,9,Gas,"2,464,361",23.4,80.03,Health care and social assistance,0.04%,0.05%,6.24%,TRUE
+Texas,Ellis,Texas Ellis,39,"$51,237","184,826",TRUE,FALSE,TRUE,1,58.87%,41.13%,5.0%,447.9,falling,4,Gas,"3,085,727",29.7,78.15,Manufacturing,0.01%,0.15%,7.30%,TRUE
+Texas,Freestone,Texas Freestone,0,"$52,511","19,717",FALSE,TRUE,FALSE,7,66.25%,33.75%,3.3%,434.1,stable,2,Coal,"3,147,778",26.0,76.99,Accommodation and food services,0.00%,12.87%,4.41%,TRUE
+Texas,Galveston,Texas Galveston,40,"$73,214","342,139",TRUE,FALSE,TRUE,1,56.69%,43.31%,4.5%,407.9,stable,9,Gas,"2,523,334",27.7,77.39,Accommodation and food services,0.07%,0.44%,3.67%,TRUE
+Texas,Gregg,Texas Gregg,32,"$53,137","123,945",TRUE,FALSE,TRUE,3,57.02%,42.98%,5.0%,502.4,rising,1,Gas,"85,354",20.1,75.86,Health care and social assistance,0.00%,5.49%,3.30%,TRUE
+Texas,Harris,Texas Harris,50,"$61,638","4,713,325",TRUE,FALSE,TRUE,1,28.71%,71.29%,4.7%,393.5,stable,35,Gas,"14,299,374",29.2,78.58,Health care and social assistance,0.01%,1.96%,5.45%,TRUE
+Texas,Harrison,Texas Harrison,36,"$51,475","66,553",TRUE,FALSE,FALSE,4,63.03%,36.97%,3.8%,436.1,falling,4,Gas,"5,785,851",21.4,76.39,Manufacturing,0.32%,8.29%,2.64%,TRUE
+Texas,Hidalgo,Texas Hidalgo,37,"$37,322","868,707",TRUE,FALSE,TRUE,2,5.94%,94.06%,4.6%,334.9,falling,8,Wind,"2,600,228",22.1,81.02,Health care and social assistance,0.43%,0.42%,4.17%,TRUE
+Texas,Hood,Texas Hood,33,"$74,534","61,643",TRUE,FALSE,TRUE,1,83.50%,16.50%,4.9%,448.3,stable,3,Gas,"3,563,998",33.1,78.79,Retail trade,0.08%,4.02%,2.03%,FALSE
+Texas,Howard,Texas Howard,9,"$121,329","36,664",TRUE,FALSE,FALSE,4,47.94%,52.06%,3.5%,387.1,falling,7,Wind,"539,538",19.3,75.62,Health care and social assistance,0.00%,11.77%,2.02%,TRUE
+Texas,Hunt,Texas Hunt,32,"$57,513","98,594",TRUE,FALSE,TRUE,1,70.44%,29.56%,4.7%,456.9,stable,4,Solar,"8,245",30.8,76.44,Manufacturing,0.00%,0.00%,1.09%,TRUE
+Texas,Hutchinson,Texas Hutchinson,16,"$59,336","20,938",FALSE,TRUE,FALSE,6,69.53%,30.47%,4.1%,476.7,stable,6,Wind,"612,410",19.1,76.18,Manufacturing,0.00%,5.83%,2.34%,FALSE
+Texas,Jefferson,Texas Jefferson,41,"$68,549","251,565",TRUE,FALSE,TRUE,2,39.36%,60.64%,4.7%,410.4,falling,10,Gas,"3,092,557",20.1,76.37,Health care and social assistance,0.03%,0.31%,5.00%,TRUE
+Texas,Johnson,Texas Johnson,34,"$91,913","175,817",TRUE,FALSE,TRUE,1,70.07%,29.93%,6.0%,468.5,stable,1,Gas,"388,326",30.9,77.22,Manufacturing,0.03%,5.10%,5.90%,TRUE
+Texas,Karnes,Texas Karnes,6,"$54,843","15,601",FALSE,TRUE,FALSE,6,34.15%,65.85%,4.6%,386.4,stable,0,None,0,22.2,77.52,"Mining, quarrying, and oil and gas extraction",0.30%,35.73%,5.20%,FALSE
+Texas,Kaufman,Texas Kaufman,37,"$75,009","136,154",TRUE,FALSE,TRUE,1,59.81%,40.19%,4.3%,469.2,stable,2,Gas,"4,478,512",35.6,76.44,Retail trade,0.00%,0.28%,9.47%,TRUE
+Texas,Kleberg,Texas Kleberg,35,"$47,169","30,680",TRUE,FALSE,FALSE,4,19.98%,80.02%,4.8%,473.9,stable,0,None,0,19.6,78.13,Health care and social assistance,0.38%,1.56%,6.43%,FALSE
+Texas,Lubbock,Texas Lubbock,20,"$54,733","310,569",TRUE,FALSE,TRUE,2,52.66%,47.34%,6.5%,423.3,falling,7,Gas,"1,707,478",17.2,77.18,Health care and social assistance,0.06%,0.48%,4.20%,TRUE
+Texas,Maverick,Texas Maverick,27,"$40,017","58,722",TRUE,FALSE,FALSE,5,2.69%,97.31%,3.3%,398.6,rising,1,Hydro,0,22.2,79.91,Health care and social assistance,0.00%,2.10%,8.14%,FALSE
+Texas,McLennan,Texas McLennan,38,"$51,078","256,623",TRUE,FALSE,TRUE,2,55.43%,44.57%,4.7%,433.9,stable,5,Solar,"5,320,246",19.6,77.51,Health care and social assistance,0.00%,0.13%,2.87%,TRUE
+Texas,Montgomery,Texas Montgomery,40,"$44,240","607,391",TRUE,FALSE,TRUE,1,64.39%,35.61%,4.2%,396.6,stable,4,Gas,"1,314,010",32.7,78.74,Retail trade,0.01%,3.24%,2.86%,TRUE
+Texas,Navarro,Texas Navarro,40,"$48,649","50,113",TRUE,FALSE,FALSE,4,54.68%,45.32%,4.2%,430.0,stable,1,Solar,0,26.7,76.67,Manufacturing,0.62%,0.47%,4.59%,TRUE
+Texas,Nueces,Texas Nueces,40,"$56,079","362,294",TRUE,FALSE,TRUE,2,28.69%,71.31%,5.1%,382.2,falling,12,Gas,"2,693,962",19.5,78.43,Health care and social assistance,0.03%,2.87%,2.70%,TRUE
+Texas,Orange,Texas Orange,41,"$83,188","83,396",TRUE,FALSE,TRUE,2,79.78%,20.22%,4.6%,458.0,falling,5,Gas,"3,547,846",23.1,74.96,Manufacturing,0.00%,0.63%,2.99%,TRUE
+Texas,Parker,Texas Parker,35,"$82,501","142,878",TRUE,FALSE,TRUE,1,82.63%,17.37%,6.1%,465.7,stable,2,Gas,0,31.4,77.99,Retail trade,0.21%,2.20%,6.84%,TRUE
+Texas,Polk,Texas Polk,31,"$60,582","51,353",FALSE,TRUE,FALSE,6,70.87%,29.13%,3.1%,601.0,rising,1,Hydro,0,29.7,73.72,Retail trade,2.03%,0.36%,2.29%,TRUE
+Texas,Potter,Texas Potter,22,"$49,054","117,415",TRUE,FALSE,TRUE,2,43.22%,56.78%,5.8%,464.4,falling,2,Coal,"4,998,711",18.1,74.77,Health care and social assistance,0.02%,0.46%,3.97%,TRUE
+Texas,Randall,Texas Randall,42,"$70,694","137,713",TRUE,FALSE,TRUE,2,69.97%,30.03%,5.3%,430.0,falling,2,Wind,0,19.3,79.4,Retail trade,0.14%,0.14%,3.66%,TRUE
+Texas,Robertson,Texas Robertson,0,"$47,017","17,074",TRUE,FALSE,TRUE,3,56.57%,43.43%,4.6%,371.3,falling,2,Coal,"16,735,349",26.4,76.51,Accommodation and food services,0.50%,2.37%,14.17%,FALSE
+Texas,Rockwall,Texas Rockwall,32,"$105,763","104,915",TRUE,FALSE,TRUE,1,68.96%,31.04%,4.0%,408.8,falling,0,None,0,33.9,80.11,Retail trade,0.00%,0.21%,2.17%,TRUE
+Texas,Rusk,Texas Rusk,3,"$56,036","54,406",TRUE,FALSE,TRUE,3,62.96%,37.04%,4.0%,456.6,stable,2,Coal,"15,709,477",26.0,76.51,Health care and social assistance,0.66%,9.73%,2.70%,FALSE
+Texas,Smith,Texas Smith,33,"$45,915","232,751",TRUE,FALSE,TRUE,3,59.15%,40.85%,4.5%,459.0,falling,0,None,0,23.8,78.11,Health care and social assistance,0.13%,1.99%,3.21%,TRUE
+Texas,Tarrant,Texas Tarrant,45,"$70,130","2,102,515",TRUE,FALSE,TRUE,1,45.33%,54.67%,5.9%,435.7,falling,6,Gas,"486,753",27.2,78.43,Health care and social assistance,0.01%,0.82%,5.98%,TRUE
+Texas,Titus,Texas Titus,0,"$49,924","32,750",FALSE,TRUE,FALSE,7,44.38%,55.62%,5.0%,398.7,falling,2,Coal,"5,466,002",19.1,77.67,Manufacturing,0.00%,0.06%,1.20%,TRUE
+Texas,Travis,Texas Travis,44,"$80,690","1,273,954",TRUE,FALSE,TRUE,1,48.85%,51.15%,5.1%,405.3,stable,16,Gas,"1,368,766",25.4,80.55,"Professional, scientific, and technical services",0.01%,0.25%,2.97%,TRUE
+Texas,Victoria,Texas Victoria,31,"$57,344","92,084",TRUE,FALSE,TRUE,3,43.88%,56.12%,5.2%,447.0,falling,6,Gas,"901,789",20.0,78.45,Health care and social assistance,0.00%,5.56%,3.41%,FALSE
+Texas,Webb,Texas Webb,41,"$52,576","276,652",TRUE,FALSE,TRUE,2,3.63%,96.37%,4.3%,328.3,falling,7,Wind,"64,746",21.5,79.87,Transportation and warehousing,0.01%,1.64%,21.62%,TRUE
+Texas,Wilson,Texas Wilson,7,"$46,243","51,070",TRUE,FALSE,TRUE,1,56.46%,43.54%,4.5%,386.9,falling,1,Gas,0,35.0,79.22,Retail trade,0.00%,8.64%,7.66%,TRUE
+Utah,Box Elder,Utah Box Elder,40,"$69,380","56,046",TRUE,FALSE,TRUE,2,86.69%,13.31%,5.7%,397.6,stable,2,Hydro,0,23.0,79.94,Manufacturing,0.05%,0.12%,9.20%,TRUE
+Utah,Cache,Utah Cache,44,"$63,180","128,289",TRUE,FALSE,TRUE,3,83.54%,16.46%,4.9%,416.0,rising,4,Gas,"28,569",17.2,82.29,Manufacturing,0.10%,0.05%,3.35%,FALSE
+Utah,Carbon,Utah Carbon,43,"$57,585","20,463",FALSE,TRUE,FALSE,7,82.88%,17.12%,4.8%,406.9,stable,2,Coal,"517,792",18.1,77.26,Health care and social assistance,0.00%,8.08%,5.98%,TRUE
+Utah,Davis,Utah Davis,44,"$87,610","355,481",TRUE,FALSE,TRUE,2,83.22%,16.78%,5.3%,413.5,stable,4,Gas,"10,122",22.9,81.24,Retail trade,0.02%,0.10%,5.14%,TRUE
+Utah,Duchesne,Utah Duchesne,45,"$59,437","19,938",FALSE,TRUE,FALSE,7,84.64%,15.36%,3.8%,490.2,rising,1,Hydro,0,20.3,78.07,Health care and social assistance,0.29%,19.38%,9.62%,FALSE
+Utah,Garfield,Utah Garfield,42,"$43,106","5,051",FALSE,TRUE,FALSE,9,88.16%,11.84%,3.4%,368.9,stable,1,Hydro,0,13.1,80.01,Accommodation and food services,0.00%,0.00%,0.62%,TRUE
+Utah,Iron,Utah Iron,40,"$46,814","54,839",TRUE,FALSE,FALSE,4,85.81%,14.19%,4.6%,438.6,stable,17,Solar,0,17.1,79.72,Accommodation and food services,0.00%,0.46%,1.90%,TRUE
+Utah,Salt Lake,Utah Salt Lake,50,"$79,941","1,160,437",TRUE,FALSE,TRUE,1,70.31%,29.69%,6.7%,409.6,falling,15,Gas,"415,647",22.2,79.72,Health care and social assistance,0.02%,0.36%,6.23%,TRUE
+Utah,San Juan,Utah San Juan,43,"$46,201","15,308",FALSE,TRUE,FALSE,7,44.29%,55.71%,4.5%,260.3,stable,1,Wind,0,21.9,79.36,Health care and social assistance,0.00%,6.38%,1.11%,FALSE
+Utah,Tooele,Utah Tooele,42,"$80,196","72,259",TRUE,FALSE,TRUE,1,82.46%,17.54%,6.0%,444.7,stable,2,Wind,"64,766",28.8,78.67,Retail trade,0.00%,0.33%,12.31%,TRUE
+Utah,Uintah,Utah Uintah,45,"$62,541","35,734",FALSE,TRUE,FALSE,7,81.48%,18.52%,4.6%,395.3,stable,1,Coal,"4,166,549",18.9,78.37,Retail trade,0.03%,11.47%,8.40%,FALSE
+Utah,Utah,Utah Utah,45,"$79,505","636,235",TRUE,FALSE,TRUE,2,81.71%,18.29%,4.7%,387.8,stable,10,Gas,"2,472,575",22.1,81.09,Educational services,0.03%,0.07%,1.44%,TRUE
+Utah,Washington,Utah Washington,44,"$46,263","177,556",TRUE,FALSE,TRUE,3,83.80%,16.20%,4.1%,404.3,stable,8,Gas,"51,909",19.1,81.59,Health care and social assistance,0.01%,0.16%,7.90%,TRUE
+Utah,Weber,Utah Weber,44,"$71,835","260,213",TRUE,FALSE,TRUE,2,75.57%,24.43%,4.7%,402.2,stable,5,Hydro,0,24.2,79.28,Manufacturing,0.16%,0.45%,4.76%,TRUE
+Vermont,Bennington,Vermont Bennington,35,"$56,948","35,470",FALSE,TRUE,FALSE,6,93.68%,6.32%,6.4%,482.7,falling,6,Solar,0,19.5,79.82,Health care and social assistance,0.13%,0.00%,1.11%,FALSE
+Vermont,Chittenden,Vermont Chittenden,36,"$76,483","163,774",TRUE,FALSE,TRUE,3,88.28%,11.72%,4.4%,448.6,falling,22,Solar,"52,568",22.7,81.36,Health care and social assistance,0.02%,0.05%,2.90%,TRUE
+Vermont,Rutland,Vermont Rutland,37,"$51,903","58,191",TRUE,FALSE,FALSE,4,95.09%,4.91%,4.7%,477.9,falling,11,Solar,288,21.8,79.39,Health care and social assistance,0.04%,0.88%,1.40%,FALSE
+Virginia,Albemarle,Virginia Albemarle,35,"$86,332","109,330",TRUE,FALSE,TRUE,3,76.87%,23.13%,4.4%,404.9,falling,0,None,0,23.2,81.14,Health care and social assistance,0.28%,0.18%,1.77%,TRUE
+Virginia,Alexandria City,Virginia Alexandria City,56,"$59,419","157,613",TRUE,FALSE,TRUE,1,52.23%,47.77%,5.8%,325.6,falling,1,Biomass,"190,506",31.8,81.35,"Professional, scientific, and technical services",0.00%,0.00%,1.62%,FALSE
+Virginia,Arlington,Virginia Arlington,33,"$118,986","236,842",TRUE,FALSE,TRUE,1,61.35%,38.65%,5.2%,336.1,falling,0,None,0,29.0,82.64,"Professional, scientific, and technical services",0.00%,0.00%,3.53%,TRUE
+Virginia,Bristol City,Virginia Bristol City,24,"$37,678","16,912",TRUE,FALSE,TRUE,2,87.85%,12.15%,5.3%,214.7,falling,1,Biomass,207,20.7,75.57,Accommodation and food services,0.00%,0.00%,4.55%,FALSE
+Virginia,Caroline,Virginia Caroline,34,"$60,143","30,725",TRUE,FALSE,TRUE,1,63.24%,36.76%,6.1%,457.4,stable,1,Gas,"390,465",35.8,77.92,Retail trade,0.24%,0.00%,7.50%,TRUE
+Virginia,Carroll,Virginia Carroll,7,"$51,672","29,791",FALSE,TRUE,FALSE,7,94.04%,5.96%,5.2%,343.4,stable,3,Hydro,0,26.3,78.05,Manufacturing,0.00%,0.00%,2.99%,TRUE
+Virginia,Charles,Virginia Charles City,17,"$102,510","6,963",TRUE,FALSE,TRUE,1,40.25%,59.75%,4.9%,443.8,stable,4,Gas,"2,230",33.7,77.93,Construction,1.54%,0.00%,17.03%,FALSE
+Virginia,Chesterfield,Virginia Chesterfield,32,"$42,441","352,802",TRUE,FALSE,TRUE,1,60.62%,39.38%,5.5%,442.7,falling,5,Gas,"2,190,402",26.4,80.16,Retail trade,0.02%,0.00%,6.13%,TRUE
+Virginia,Fairfax,Virginia Fairfax,38,"$127,898","1,147,532",TRUE,FALSE,TRUE,1,50.05%,49.95%,5.0%,335.3,falling,3,Biomass,"681,807",32.2,83.44,"Professional, scientific, and technical services",0.03%,0.01%,1.49%,TRUE
+Virginia,Fauquier,Virginia Fauquier,31,"$103,827","71,222",TRUE,FALSE,TRUE,1,79.01%,20.99%,4.7%,399.1,falling,3,Gas,"614,541",40.0,79.47,Retail trade,0.32%,0.32%,1.44%,TRUE
+Virginia,Frederick,Virginia Frederick,35,"$102,951","89,313",TRUE,FALSE,TRUE,3,82.28%,17.72%,4.5%,395.1,falling,2,Gas,"24,816",31.4,79.76,Manufacturing,0.00%,0.00%,9.98%,TRUE
+Virginia,Giles,Virginia Giles,37,"$50,847","16,720",TRUE,FALSE,TRUE,3,94.67%,5.33%,4.7%,444.5,stable,2,Coal,"59,753",25.0,76.78,Manufacturing,0.00%,0.00%,0.87%,TRUE
+Virginia,Hampton City,Virginia Hampton City,34,"$30,458","135,041",TRUE,FALSE,TRUE,1,37.42%,62.58%,6.2%,437.0,falling,1,Biomass,0,22.4,77.33,Health care and social assistance,0.00%,0.00%,1.35%,FALSE
+Virginia,Hanover,Virginia Hanover,34,"$90,824","107,766",TRUE,FALSE,TRUE,1,83.46%,16.54%,5.3%,455.8,stable,1,Gas,"2,999,527",25.5,80.04,Retail trade,0.02%,0.17%,4.38%,TRUE
+Virginia,Henrico,Virginia Henrico,36,"$68,975","330,818",TRUE,FALSE,TRUE,1,52.15%,47.85%,5.5%,447.9,falling,3,Biomass,"47,651",22.3,79.57,Health care and social assistance,0.00%,0.00%,3.41%,TRUE
+Virginia,Hopewell City,Virginia Hopewell City,6,"$25,362","22,456",TRUE,FALSE,TRUE,1,44.27%,55.73%,5.9%,540.3,stable,3,Biomass,"52,573",24.7,74.73,Manufacturing,0.00%,0.00%,0.22%,FALSE
+Virginia,Loudoun,Virginia Loudoun,33,"$151,806","413,538",TRUE,FALSE,TRUE,1,54.78%,45.22%,5.3%,359.5,falling,1,Gas,"1,685,496",34.2,82.93,"Professional, scientific, and technical services",0.04%,0.38%,8.76%,FALSE
+Virginia,Lynchburg City,Virginia Lynchburg City,21,"$50,612","80,569",TRUE,FALSE,TRUE,2,62.59%,37.41%,4.7%,486.6,stable,1,Hydro,0,17.5,77.51,Educational services,0.00%,0.00%,1.65%,FALSE
+Virginia,Madison,Virginia Madison,37,"$50,316","13,261",FALSE,TRUE,FALSE,8,84.33%,15.67%,3.8%,426.2,stable,0,None,0,28.9,79.52,Retail trade,1.13%,0.00%,1.54%,TRUE
+Virginia,Norfolk City,Virginia Norfolk City,17,"$52,437","244,601",TRUE,FALSE,TRUE,1,43.32%,56.68%,7.1%,469.6,stable,1,Solar,0,21.3,75.72,Health care and social assistance,0.00%,0.00%,7.00%,FALSE
+Virginia,Pittsylvania,Virginia Pittsylvania,60,"$51,682","60,354",TRUE,FALSE,FALSE,4,73.93%,26.07%,4.5%,364.4,stable,7,Hydro,0,25.0,76.34,Manufacturing,0.69%,0.09%,4.28%,FALSE
+Virginia,Prince Edward,Virginia Prince Edward,30,"$44,586","22,802",FALSE,TRUE,FALSE,6,61.22%,38.78%,6.6%,495.7,stable,0,None,0,22.9,77.53,Health care and social assistance,0.82%,0.00%,2.04%,FALSE
+Virginia,Prince William,Virginia Prince William,32,"$106,208","470,335",TRUE,FALSE,TRUE,1,41.51%,58.49%,5.9%,345.8,falling,9,Oil,"1,247,216",39.6,80.72,Retail trade,0.03%,0.06%,1.91%,TRUE
+Virginia,Richmond City,Virginia Richmond City,29,"$50,949","226,622",TRUE,FALSE,TRUE,1,42.21%,57.79%,6.8%,413.8,falling,2,Coal,"9,576",21.6,74.61,Health care and social assistance,0.00%,0.00%,4.15%,FALSE
+Virginia,Roanoke,Virginia Roanoke,35,"$71,742","94,186",TRUE,FALSE,TRUE,2,85.17%,14.83%,4.2%,436.5,stable,1,Hydro,0,23.2,80.05,Health care and social assistance,0.00%,0.00%,2.48%,TRUE
+Virginia,Rockbridge,Virginia Rockbridge,31,"$58,501","22,573",FALSE,TRUE,FALSE,6,91.87%,8.13%,3.5%,391.6,stable,0,None,0,24.8,79.45,Retail trade,0.39%,0.00%,1.88%,TRUE
+Virginia,Rockingham,Virginia Rockingham,32,"$91,416","81,948",TRUE,FALSE,TRUE,3,87.87%,12.13%,4.6%,430.7,stable,5,Oil,"5,530",22.3,80.83,Manufacturing,0.02%,0.12%,11.18%,TRUE
+Virginia,Salem City,Virginia Salem City,23,"$54,888","25,317",TRUE,FALSE,TRUE,2,84.95%,15.05%,4.1%,508.6,rising,3,Oil,298,19.9,77.72,Health care and social assistance,0.00%,0.00%,2.82%,FALSE
+Virginia,Stafford,Virginia Stafford,32,"$109,090","152,882",TRUE,FALSE,TRUE,1,59.31%,40.69%,4.9%,429.4,falling,1,Biomass,0,40.9,79.99,Retail trade,0.01%,0.00%,3.01%,TRUE
+Virginia,Suffolk City,Virginia Suffolk City,36,"$77,847","90,093",TRUE,FALSE,TRUE,1,48.90%,51.10%,5.6%,456.0,stable,3,Solar,0,28.8,76.83,Health care and social assistance,0.03%,0.04%,9.86%,FALSE
+Virginia,Virginia Beach City,Virginia Virginia Beach City,23,"$78,491","450,201",TRUE,FALSE,TRUE,1,61.07%,38.93%,6.0%,460.7,stable,3,Wind,109,23.7,79.93,Accommodation and food services,0.02%,0.00%,1.34%,FALSE
+Virginia,Wythe,Virginia Wythe,34,"$48,543","28,684",FALSE,TRUE,FALSE,6,93.47%,6.53%,4.4%,429.1,stable,0,None,0,23.0,77.11,Manufacturing,0.00%,1.35%,5.23%,TRUE
+Washington,Adams,Washington Adams,13,"$34,583","19,983",FALSE,TRUE,FALSE,6,32.48%,67.52%,4.6%,363.3,falling,4,Wind,0,18.5,79.72,Manufacturing,6.03%,0.00%,6.03%,TRUE
+Washington,Asotin,Washington Asotin,29,"$54,776","22,582",TRUE,FALSE,TRUE,3,89.78%,10.22%,5.6%,330.5,falling,0,None,0,15.6,79.74,Health care and social assistance,0.00%,0.00%,1.80%,FALSE
+Washington,Benton,Washington Benton,33,"$63,395","204,390",TRUE,FALSE,TRUE,2,69.39%,30.61%,5.0%,420.8,falling,4,Hydro,0,22.0,80.04,Health care and social assistance,0.19%,0.00%,1.65%,TRUE
+Washington,Chelan,Washington Chelan,21,"$59,838","77,200",TRUE,FALSE,TRUE,3,67.57%,32.43%,3.3%,469.0,stable,4,Hydro,0,18.8,80.79,Health care and social assistance,10.36%,0.00%,1.33%,FALSE
+Washington,Clallam,Washington Clallam,33,"$57,571","77,331",TRUE,FALSE,FALSE,5,82.41%,17.59%,4.4%,512.2,stable,3,Hydro,0,21.4,79.78,Health care and social assistance,2.55%,0.12%,2.82%,FALSE
+Washington,Clark,Washington Clark,27,"$55,428","488,241",TRUE,FALSE,TRUE,1,77.50%,22.50%,5.2%,398.5,falling,1,Gas,"756,999",26.8,79.96,Health care and social assistance,0.13%,0.03%,3.10%,TRUE
+Washington,Columbia,Washington Columbia,18,"$71,563","3,985",TRUE,FALSE,TRUE,3,84.42%,15.58%,4.5%,440.8,stable,4,Wind,0,20.7,79.73,Health care and social assistance,1.18%,0.00%,1.30%,TRUE
+Washington,Cowlitz,Washington Cowlitz,16,"$57,316","110,593",TRUE,FALSE,TRUE,3,83.19%,16.81%,5.4%,422.9,falling,6,Hydro,"879,980",25.1,78.08,Manufacturing,3.22%,0.42%,2.98%,TRUE
+Washington,Franklin,Washington Franklin,14,"$58,917","95,222",TRUE,FALSE,TRUE,2,39.85%,60.15%,4.4%,370.2,falling,2,Hydro,0,21.6,80.08,Retail trade,3.43%,0.18%,8.19%,TRUE
+Washington,Garfield,Washington Garfield,15,"$43,106","2,225",FALSE,TRUE,FALSE,8,88.13%,11.87%,3.6%,308.7,stable,1,Wind,0,20.5,81.22,Health care and social assistance,0.00%,0.00%,0.00%,TRUE
+Washington,Grant,Washington Grant,16,"$55,210","97,733",TRUE,FALSE,FALSE,5,53.30%,46.70%,3.1%,421.2,stable,8,Hydro,0,18.7,79.01,Manufacturing,2.03%,0.00%,5.58%,TRUE
+Washington,Grays Harbor,Washington Grays Harbor,20,"$59,346","75,061",TRUE,FALSE,FALSE,4,79.01%,20.99%,4.4%,498.3,falling,5,Biomass,"1,479,445",26.2,77.15,Retail trade,2.32%,0.00%,3.35%,FALSE
+Washington,Jefferson,Washington Jefferson,18,"$59,025","32,221",FALSE,TRUE,FALSE,6,88.18%,11.82%,3.5%,474.5,falling,2,Hydro,"1,921",22.9,81.35,Health care and social assistance,0.50%,0.41%,1.31%,TRUE
+Washington,King,Washington King,36,"$71,256","2,252,782",TRUE,FALSE,TRUE,1,58.07%,41.93%,4.2%,446.8,stable,12,Hydro,"2,328",29.6,81.28,Health care and social assistance,0.12%,0.02%,5.02%,TRUE
+Washington,Kitsap,Washington Kitsap,18,"$79,268","271,473",TRUE,FALSE,TRUE,2,75.96%,24.04%,4.8%,504.4,stable,0,None,0,30.4,79.92,Health care and social assistance,0.16%,0.00%,1.60%,FALSE
+Washington,Kittitas,Washington Kittitas,18,"$59,172","47,935",TRUE,FALSE,FALSE,4,83.72%,16.28%,3.2%,357.7,falling,9,Solar,0,21.5,81.04,Accommodation and food services,1.15%,0.00%,1.63%,TRUE
+Washington,Lewis,Washington Lewis,19,"$37,410","80,707",TRUE,FALSE,FALSE,4,82.86%,17.14%,3.3%,403.7,falling,8,Hydro,"9,887,700",27.5,78.4,Health care and social assistance,3.94%,0.60%,6.16%,TRUE
+Washington,Mason,Washington Mason,18,"$47,861","66,768",TRUE,FALSE,FALSE,4,79.78%,20.22%,3.6%,502.3,falling,3,Hydro,0,32.1,78.88,Health care and social assistance,1.94%,0.42%,2.11%,FALSE
+Washington,Okanogan,Washington Okanogan,35,"$44,777","42,243",FALSE,TRUE,FALSE,6,64.30%,35.70%,3.2%,457.9,stable,0,None,0,17.5,78.74,Retail trade,4.17%,0.00%,3.07%,FALSE
+Washington,Pend Oreille,Washington Pend Oreille,35,"$51,950","13,724",TRUE,FALSE,TRUE,2,88.25%,11.75%,2.8%,350.1,falling,3,Hydro,0,29.6,78.1,Health care and social assistance,1.90%,0.00%,0.70%,FALSE
+Washington,Pierce,Washington Pierce,40,"$67,465","904,980",TRUE,FALSE,TRUE,1,65.68%,34.32%,4.6%,488.7,falling,10,Hydro,"643,304",32.0,78.7,Health care and social assistance,0.11%,0.08%,5.21%,TRUE
+Washington,Skagit,Washington Skagit,16,"$67,551","129,205",TRUE,FALSE,TRUE,3,74.08%,25.92%,3.8%,477.4,falling,4,Gas,"341,875",26.2,79.94,Health care and social assistance,0.91%,0.12%,3.35%,TRUE
+Washington,Snohomish,Washington Snohomish,30,"$89,119","822,083",TRUE,FALSE,TRUE,1,68.10%,31.90%,4.1%,486.9,falling,7,Biomass,211,32.2,80.19,Manufacturing,0.11%,0.04%,2.37%,TRUE
+Washington,Spokane,Washington Spokane,33,"$59,976","522,798",TRUE,FALSE,TRUE,2,84.00%,16.00%,4.5%,378.9,falling,7,Hydro,"184,504",21.5,79.08,Health care and social assistance,0.12%,0.12%,3.41%,TRUE
+Washington,Stevens,Washington Stevens,32,"$59,045","45,723",TRUE,FALSE,TRUE,2,86.35%,13.65%,3.7%,357.8,falling,3,Hydro,"22,880",29.0,78.71,Health care and social assistance,2.10%,0.73%,3.64%,FALSE
+Washington,Thurston,Washington Thurston,25,"$48,891","290,536",TRUE,FALSE,TRUE,2,74.09%,25.91%,3.5%,479.7,falling,3,Hydro,0,26.3,80.46,Health care and social assistance,0.59%,0.05%,3.15%,TRUE
+Washington,Walla Walla,Washington Walla Walla,22,"$60,202","60,760",TRUE,FALSE,TRUE,3,71.32%,28.68%,4.9%,408.9,falling,4,Hydro,0,16.2,80.17,Health care and social assistance,0.31%,0.00%,1.95%,FALSE
+Washington,Whatcom,Washington Whatcom,29,"$68,656","229,247",TRUE,FALSE,TRUE,3,78.28%,21.72%,4.6%,477.2,stable,12,Hydro,"916,218",21.3,81.12,Health care and social assistance,0.38%,0.18%,4.19%,TRUE
+Washington,Whitman,Washington Whitman,15,"$45,906","50,104",TRUE,FALSE,FALSE,4,78.42%,21.58%,3.6%,261.6,falling,6,Oil,367,15.7,81.74,Manufacturing,0.45%,0.00%,2.26%,FALSE
+Washington,Yakima,Washington Yakima,35,"$55,674","250,873",TRUE,FALSE,TRUE,3,42.32%,57.68%,4.3%,395.8,falling,6,Hydro,0,19.9,78.58,Health care and social assistance,3.26%,0.09%,4.95%,TRUE
+West Virginia,Berkeley,West Virginia Berkeley,36,"$68,690","119,171",TRUE,FALSE,TRUE,2,83.58%,16.42%,5.7%,478.8,falling,1,Hydro,0,30.6,77.06,Health care and social assistance,0.00%,0.00%,9.11%,TRUE
+West Virginia,Brooke,West Virginia Brooke,20,"$50,900","21,939",TRUE,FALSE,TRUE,3,95.63%,4.37%,5.3%,469.4,stable,1,Gas,0,25.9,77.53,Health care and social assistance,0.00%,0.00%,3.90%,FALSE
+West Virginia,Cabell,West Virginia Cabell,36,"$42,125","91,945",TRUE,FALSE,TRUE,2,90.10%,9.90%,5.4%,514.3,stable,1,Other,0,20.9,75.85,Health care and social assistance,0.00%,0.27%,0.75%,TRUE
+West Virginia,Gilmer,West Virginia Gilmer,29,"$40,373","7,823",FALSE,TRUE,FALSE,7,81.55%,18.45%,7.4%,522.1,stable,0,None,0,26.7,77.56,Health care and social assistance,0.00%,16.74%,1.43%,FALSE
+West Virginia,Greenbrier,West Virginia Greenbrier,34,"$43,564","34,662",FALSE,TRUE,FALSE,6,92.52%,7.48%,3.4%,496.4,stable,3,Wind,0,24.1,76.9,Health care and social assistance,0.50%,2.15%,1.23%,TRUE
+West Virginia,Hancock,West Virginia Hancock,32,"$60,626","28,810",TRUE,FALSE,TRUE,3,93.56%,6.44%,5.1%,482.4,falling,0,None,0,24.1,77.42,Manufacturing,0.00%,0.04%,2.00%,TRUE
+West Virginia,Harrison,West Virginia Harrison,26,"$51,475","67,256",TRUE,FALSE,FALSE,5,93.96%,6.04%,5.5%,516.7,stable,2,Coal,"13,032,684",22.8,76.44,Health care and social assistance,0.03%,4.37%,4.95%,TRUE
+West Virginia,Kanawha,West Virginia Kanawha,37,"$48,334","178,124",TRUE,FALSE,TRUE,3,87.70%,12.30%,5.0%,494.5,stable,3,Hydro,0,20.9,75.87,Health care and social assistance,0.02%,2.67%,3.47%,TRUE
+West Virginia,Marion,West Virginia Marion,26,"$48,062","56,072",TRUE,FALSE,FALSE,4,92.91%,7.09%,5.6%,510.8,stable,2,Coal,"921,405",24.2,77.6,Health care and social assistance,0.08%,7.59%,2.71%,TRUE
+West Virginia,Marshall,West Virginia Marshall,6,"$57,945","30,531",TRUE,FALSE,TRUE,3,96.58%,3.42%,3.7%,428.9,stable,4,Coal,"5,834,077",25.6,77.9,"Mining, quarrying, and oil and gas extraction",0.00%,20.61%,2.24%,TRUE
+West Virginia,Mason,West Virginia Mason,1,"$47,861","26,516",FALSE,TRUE,FALSE,6,96.55%,3.45%,5.7%,493.2,stable,2,Coal,"8,515,507",31.7,75.97,Health care and social assistance,0.00%,0.00%,2.69%,FALSE
+West Virginia,Monongalia,West Virginia Monongalia,33,"$55,652","105,612",TRUE,FALSE,TRUE,3,88.30%,11.70%,8.3%,464.0,rising,5,Coal,"12,134,069",20.7,79.35,Health care and social assistance,0.03%,1.34%,0.77%,TRUE
+West Virginia,Ohio,West Virginia Ohio,38,"$47,542","41,411",TRUE,FALSE,TRUE,3,91.95%,8.05%,4.5%,473.1,stable,0,None,0,19.6,77.96,Health care and social assistance,0.00%,1.91%,3.74%,TRUE
+West Virginia,Tucker,West Virginia Tucker,33,"$47,222","6,839",FALSE,TRUE,FALSE,8,97.18%,2.82%,5.4%,502.8,falling,1,Wind,0,28.0,78.21,Accommodation and food services,0.87%,0.00%,0.00%,FALSE
+West Virginia,Wood,West Virginia Wood,32,"$64,723","83,518",TRUE,FALSE,TRUE,3,95.11%,4.89%,4.4%,479.9,falling,1,Hydro,0,19.4,77.21,Health care and social assistance,0.00%,0.61%,3.10%,TRUE
+Wisconsin,Ashland,Wisconsin Ashland,32,"$52,554","15,562",FALSE,TRUE,FALSE,7,82.19%,17.81%,3.3%,486.4,rising,2,Hydro,"34,016",16.4,78.26,Health care and social assistance,0.48%,0.00%,2.04%,TRUE
+Wisconsin,Brown,Wisconsin Brown,35,"$62,904","264,542",TRUE,FALSE,TRUE,2,80.31%,19.69%,5.3%,466.3,falling,7,Gas,"188,811",18.9,80.82,Manufacturing,0.03%,0.03%,7.48%,TRUE
+Wisconsin,Columbia,Wisconsin Columbia,38,"$71,563","57,532",TRUE,FALSE,TRUE,2,92.27%,7.73%,3.2%,482.8,stable,3,Wind,"6,424,163",25.6,79.71,Manufacturing,0.07%,0.00%,3.29%,TRUE
+Wisconsin,Dane,Wisconsin Dane,39,"$77,828","546,695",TRUE,FALSE,TRUE,2,79.23%,20.77%,4.4%,453.4,falling,15,Gas,"543,804",21.0,81.43,Health care and social assistance,0.37%,0.05%,2.68%,TRUE
+Wisconsin,Dodge,Wisconsin Dodge,38,"$86,436","87,839",TRUE,FALSE,FALSE,4,89.56%,10.44%,4.5%,436.1,falling,3,Wind,0,23.3,79.63,Manufacturing,0.66%,12.51%,5.71%,FALSE
+Wisconsin,Door,Wisconsin Door,36,"$64,217","27,668",FALSE,TRUE,FALSE,6,93.34%,6.66%,3.3%,467.3,falling,1,Oil,20,17.9,81.2,Manufacturing,0.04%,0.00%,2.30%,FALSE
+Wisconsin,Eau Claire,Wisconsin Eau Claire,37,"$64,972","104,646",TRUE,FALSE,TRUE,3,89.56%,10.44%,5.9%,446.8,stable,2,Hydro,0,18.3,81.03,Health care and social assistance,0.04%,0.04%,5.97%,TRUE
+Wisconsin,Fond du Lac,Wisconsin Fond du Lac,36,"$65,905","103,403",TRUE,FALSE,TRUE,3,89.03%,10.97%,4.8%,478.8,falling,4,Wind,"32,137",20.1,80.43,Manufacturing,0.01%,0.28%,4.15%,FALSE
+Wisconsin,Forest,Wisconsin Forest,35,"$41,267","9,004",FALSE,TRUE,FALSE,9,78.41%,21.59%,4.8%,510.2,stable,0,None,0,19.5,78.84,Accommodation and food services,6.05%,0.00%,6.51%,FALSE
+Wisconsin,Grant,Wisconsin Grant,30,"$55,247","51,439",FALSE,TRUE,FALSE,6,94.88%,5.12%,3.3%,452.3,stable,4,Solar,24,20.8,80.09,Retail trade,0.34%,0.00%,3.37%,TRUE
+Wisconsin,Jackson,Wisconsin Jackson,29,"$34,940","20,643",FALSE,TRUE,FALSE,6,85.87%,14.13%,3.1%,431.5,stable,0,None,0,22.6,79.16,Health care and social assistance,0.18%,7.04%,15.91%,TRUE
+Wisconsin,Jefferson,Wisconsin Jefferson,38,"$59,025","84,769",TRUE,FALSE,FALSE,4,89.25%,10.75%,4.5%,444.6,stable,4,Gas,"395,050",24.1,80.6,Manufacturing,0.07%,0.00%,4.57%,TRUE
+Wisconsin,Kenosha,Wisconsin Kenosha,40,"$66,460","169,561",TRUE,FALSE,TRUE,1,75.39%,24.61%,5.8%,502.1,stable,3,Gas,"75,961",26.0,78.73,Retail trade,0.01%,0.00%,6.05%,FALSE
+Wisconsin,Kewaunee,Wisconsin Kewaunee,34,"$65,879","20,434",TRUE,FALSE,TRUE,2,94.15%,5.85%,5.7%,433.7,stable,2,Wind,0,23.2,81.78,Manufacturing,0.66%,0.00%,3.09%,FALSE
+Wisconsin,La Crosse,Wisconsin La Crosse,37,"$59,758","118,016",TRUE,FALSE,TRUE,3,89.55%,10.45%,4.9%,444.5,falling,2,Biomass,"38,945",17.9,80.56,Health care and social assistance,0.02%,0.00%,3.79%,TRUE
+Wisconsin,Manitowoc,Wisconsin Manitowoc,36,"$61,326","78,981",TRUE,FALSE,FALSE,4,89.79%,10.21%,4.6%,486.8,stable,6,Wind,"113,414",19.0,80.48,Manufacturing,0.24%,0.17%,2.88%,TRUE
+Wisconsin,Marathon,Wisconsin Marathon,31,"$66,092","135,692",TRUE,FALSE,TRUE,3,88.24%,11.76%,3.7%,458.6,falling,7,Biomass,"4,386,734",19.3,81.03,Manufacturing,0.09%,0.14%,6.07%,TRUE
+Wisconsin,Milwaukee,Wisconsin Milwaukee,40,"$53,505","945,726",TRUE,FALSE,TRUE,1,50.62%,49.38%,6.7%,496.1,stable,9,Coal,"13,442,310",22.4,77.58,Health care and social assistance,0.00%,0.00%,3.55%,TRUE
+Wisconsin,Monroe,Wisconsin Monroe,17,"$36,512","46,253",FALSE,TRUE,FALSE,6,89.93%,10.07%,3.7%,453.9,stable,3,Wind,0,20.1,78.91,Manufacturing,0.23%,2.63%,11.78%,TRUE
+Wisconsin,Oneida,Wisconsin Oneida,0,"$56,516","35,595",FALSE,TRUE,FALSE,7,94.54%,5.46%,3.6%,521.7,stable,2,Gas,"13,209",20.3,79.73,Retail trade,0.15%,0.00%,4.27%,TRUE
+Wisconsin,Outagamie,Wisconsin Outagamie,37,"$66,994","187,885",TRUE,FALSE,TRUE,3,87.10%,12.90%,5.1%,443.6,falling,14,Hydro,"1,850,097",19.7,80.99,Manufacturing,0.11%,0.08%,4.01%,FALSE
+Wisconsin,Ozaukee,Wisconsin Ozaukee,35,"$90,446","89,221",TRUE,FALSE,TRUE,1,91.01%,8.99%,4.4%,479.6,stable,1,Gas,"3,204,349",23.6,82,Manufacturing,0.11%,0.00%,1.18%,TRUE
+Wisconsin,Racine,Wisconsin Racine,38,"$61,691","196,311",TRUE,FALSE,TRUE,3,71.37%,28.63%,6.4%,509.9,stable,1,Biomass,"6,731",24.3,79.28,Manufacturing,0.03%,0.03%,3.66%,FALSE
+Wisconsin,Rock,Wisconsin Rock,38,"$63,451","163,354",TRUE,FALSE,TRUE,3,82.30%,17.70%,5.4%,493.3,stable,8,Gas,"1,697,813",22.8,79.04,Manufacturing,0.04%,0.07%,5.96%,TRUE
+Wisconsin,Sauk,Wisconsin Sauk,36,"$63,752","64,442",TRUE,FALSE,FALSE,4,90.43%,9.57%,4.0%,454.6,stable,1,Hydro,0,21.5,80.05,Accommodation and food services,0.57%,0.29%,2.63%,FALSE
+Wisconsin,Sheboygan,Wisconsin Sheboygan,39,"$62,108","115,340",TRUE,FALSE,TRUE,3,83.51%,16.49%,5.3%,461.9,falling,2,Coal,"1,916,617",18.0,80.37,Manufacturing,0.05%,0.00%,2.69%,TRUE
+Wisconsin,Taylor,Wisconsin Taylor,35,"$48,485","20,343",FALSE,TRUE,FALSE,6,95.30%,4.70%,3.5%,430.7,stable,1,Solar,0,23.2,81.7,Manufacturing,0.45%,0.00%,6.47%,TRUE
+Wisconsin,Vilas,Wisconsin Vilas,30,"$55,576","22,195",FALSE,TRUE,FALSE,9,84.89%,15.11%,3.1%,547.0,stable,1,Oil,0,19.3,80.03,Accommodation and food services,0.33%,0.00%,3.06%,FALSE
+Wisconsin,Walworth,Wisconsin Walworth,39,"$51,472","103,868",TRUE,FALSE,FALSE,4,85.34%,14.66%,4.4%,491.3,stable,0,None,0,24.1,79.96,Manufacturing,0.05%,0.00%,2.55%,TRUE
+Wisconsin,Waukesha,Wisconsin Waukesha,39,"$91,070","404,198",TRUE,FALSE,TRUE,1,87.99%,12.01%,5.3%,482.0,falling,0,None,0,24.2,81.57,Manufacturing,0.01%,0.05%,4.15%,TRUE
+Wyoming,Albany,Wyoming Albany,46,"$69,408","38,880",TRUE,FALSE,FALSE,4,81.90%,18.10%,3.7%,371.4,stable,8,Wind,0,13.0,80.85,Health care and social assistance,0.15%,0.18%,2.17%,TRUE
+Wyoming,Big Horn,Wyoming Big Horn,38,"$43,718","11,790",FALSE,TRUE,FALSE,9,87.55%,12.45%,3.0%,398.5,falling,0,None,0,18.4,78.43,Health care and social assistance,0.63%,12.04%,7.25%,TRUE
+Wyoming,Campbell,Wyoming Campbell,44,"$56,043","46,341",TRUE,FALSE,FALSE,5,86.88%,13.12%,3.0%,363.0,stable,10,Coal,"9,211,691",20.9,78.02,"Mining, quarrying, and oil and gas extraction",0.00%,26.29%,5.68%,TRUE
+Wyoming,Carbon,Wyoming Carbon,9,"$57,585","14,800",FALSE,TRUE,FALSE,7,76.94%,23.06%,2.2%,388.7,stable,12,Wind,"2,979",15.7,77.99,Accommodation and food services,0.20%,2.11%,4.40%,TRUE
+Wyoming,Converse,Wyoming Converse,42,"$72,481","13,822",FALSE,TRUE,FALSE,6,88.43%,11.57%,2.3%,439.2,stable,9,Wind,"5,817,284",24.4,79.35,"Mining, quarrying, and oil and gas extraction",0.13%,27.61%,3.52%,TRUE
+Wyoming,Fremont,Wyoming Fremont,45,"$57,953","39,261",FALSE,TRUE,FALSE,7,69.47%,30.53%,2.6%,389.2,falling,4,Gas,"27,284",17.8,76.28,Retail trade,0.03%,4.27%,2.58%,TRUE
+Wyoming,Johnson,Wyoming Johnson,40,"$58,396","8,445",FALSE,TRUE,FALSE,7,91.04%,8.96%,1.4%,389.3,stable,0,None,0,21.5,80,Retail trade,0.43%,1.50%,3.55%,TRUE
+Wyoming,Laramie,Wyoming Laramie,39,"$69,613","99,500",TRUE,FALSE,TRUE,3,78.55%,21.45%,4.1%,448.3,falling,5,Wind,"147,161",15.8,78.93,Health care and social assistance,0.06%,1.35%,7.90%,TRUE
+Wyoming,Lincoln,Wyoming Lincoln,15,"$58,619","19,830",FALSE,TRUE,FALSE,7,92.32%,7.68%,2.8%,365.1,stable,5,Hydro,"3,657,785",26.8,80.49,Health care and social assistance,0.13%,7.21%,5.09%,TRUE
+Wyoming,Natrona,Wyoming Natrona,41,"$66,104","79,858",TRUE,FALSE,TRUE,3,86.30%,13.70%,3.5%,410.6,falling,3,Hydro,0,16.8,78.19,Health care and social assistance,0.07%,6.04%,5.18%,TRUE
+Wyoming,Park,Wyoming Park,11,"$51,740","29,194",FALSE,TRUE,FALSE,7,91.05%,8.95%,2.7%,455.8,stable,6,Hydro,"2,999",16.6,80.52,Health care and social assistance,0.17%,1.87%,2.35%,TRUE
+Wyoming,Platte,Wyoming Platte,19,"$84,456","8,393",FALSE,TRUE,FALSE,7,87.82%,12.18%,2.5%,363.2,falling,3,Hydro,"11,714,848",17.0,79.35,Retail trade,0.25%,0.00%,4.42%,TRUE
+Wyoming,Sheridan,Wyoming Sheridan,39,"$51,111","30,485",FALSE,TRUE,FALSE,7,91.42%,8.58%,1.8%,393.3,falling,1,Gas,188,15.6,78.9,Health care and social assistance,0.01%,0.41%,3.29%,TRUE
+Wyoming,Sublette,Wyoming Sublette,44,"$78,055","9,831",FALSE,TRUE,FALSE,9,89.15%,10.85%,2.9%,303.1,falling,0,None,0,20.4,81.1,"Mining, quarrying, and oil and gas extraction",0.15%,34.07%,3.37%,FALSE
+Wyoming,Sweetwater,Wyoming Sweetwater,46,"$80,639","42,343",TRUE,FALSE,FALSE,5,79.26%,20.74%,3.6%,416.4,stable,5,Coal,"13,017,004",20.2,78.46,"Mining, quarrying, and oil and gas extraction",0.00%,19.76%,5.93%,TRUE
+Wyoming,Teton,Wyoming Teton,42,"$54,458","23,464",FALSE,TRUE,FALSE,7,80.98%,19.02%,3.5%,439.2,stable,2,Oil,284,14.7,83.5,Accommodation and food services,0.17%,0.00%,3.34%,TRUE
+Wyoming,Uinta,Wyoming Uinta,40,"$70,756","20,226",FALSE,TRUE,FALSE,7,87.30%,12.70%,3.9%,361.5,stable,3,Wind,0,20.7,78.21,Construction,0.00%,3.24%,5.27%,TRUE
+Wyoming,Weston,Wyoming Weston,40,"$59,410","6,927",FALSE,TRUE,FALSE,7,90.02%,9.98%,2.2%,417.6,stable,1,Coal,0,24.0,79.42,Health care and social assistance,0.00%,4.60%,8.06%,FALSE
